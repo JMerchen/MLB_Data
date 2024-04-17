@@ -1,0 +1,367 @@
+,Injury,release_speed,release_spin_rate,release_extension
+0,AC joint inflammation,97.6,2715.0,6.7
+1,Abdominal discomfort,96.1,2908.0,6.0
+2,Abdominal surgery,95.2,2687.0,6.5
+3,Ablation procedure (back),94.7,3550.0,7.6
+4,Abscess removal procedure (thigh),95.9,2991.0,6.9
+5,Achilles tendinitis,101.9,2642.0,7.8
+6,Achilles' tendon surgery,95.3,2881.0,5.7
+7,Achilles' tendon surgery (exploratory),,,
+8,Ankle contusion,97.1,2818.0,6.2
+9,Ankle discomfort,92.43333333333334,2795.6666666666665,6.7
+10,Ankle impingement,93.25,2852.0,7.6499999999999995
+11,Ankle inflammation,96.3,2856.6666666666665,7.266666666666667
+12,Ankle surgery,95.1,2490.0,7.0
+13,Ankle tendinitis,98.2,2813.0,7.8
+14,Appendicitis,97.65,2927.5,7.15
+15,Arm fatigue,97.075,3075.5,7.1
+16,Arm inflammation,98.5,3078.0,6.2
+17,Arm tightness,94.3,2382.0,6.1
+18,Arthoscopic elbow surgery,96.7,2509.0,6.9
+19,Arthroscopic elbow surgery,96.1,2747.8,6.92
+20,Arthroscopic knee surgery,95.7,3068.0,6.3
+21,Arthroscopic shoulder surgery,95.42,2715.0,6.68
+22,Arthroscopic shoulder surgery (posterior labrum),94.7,2652.0,6.9
+23,Atrial fibrillation surgery,95.3,3006.0,7.9
+24,Back contusion,97.4,2602.0,7.2
+25,Back discomfort,95.225,2738.5,7.125
+26,Back soreness,95.2,3523.0,7.2
+27,Back spasms,94.80000000000001,3109.5555555555557,6.633333333333334
+28,Back stiffness,93.7,3343.0,7.2
+29,Back surgery,93.75,2848.5,6.5
+30,Back surgery (discectomy),90.6,2696.0,6.4
+31,Back surgery (herniated disc),95.65,2758.5,7.449999999999999
+32,Back surgery (lumbar discectomy),97.9,2783.0,6.8
+33,Back tightness,96.87142857142855,3269.714285714286,7.071428571428571
+34,Benign bone tumor in spine,99.5,3111.0,6.8
+35,Biceps contusion,101.0,2601.0,6.6
+36,Biceps discomfort,99.45,2993.0,6.800000000000001
+37,Biceps inflammation,97.55,2813.75,7.35
+38,Biceps nerve injury,94.9,2701.0,7.0
+39,Biceps tendinitis,95.24166666666667,2958.1666666666665,6.808333333333334
+40,Biceps tendon inflammation,94.1,2537.0,6.9
+41,Biceps tendonitis,95.8,2728.0,7.0
+42,Biceps tightness,92.9,2823.0,7.6
+43,Blister,97.55000000000001,2992.5,7.050000000000001
+44,Blister (index finger),97.7,2650.0,7.2
+45,Blister (middle finger),97.73333333333333,2772.6666666666665,7.233333333333333
+46,Blister (right index finger),97.0,2658.0,6.5
+47,Blister (right middle finger),98.05,2730.0,7.7
+48,Blister -- finger (right index),96.3,2727.0,7.6
+49,Blister on finger,94.53333333333335,2946.0,6.533333333333334
+50,Blister on finger (left index),97.65,2754.0,7.25
+51,Blister on finger (left),97.7,3314.0,6.4
+52,Blister on finger (right middle),96.10000000000001,2909.6666666666665,6.5
+53,Blister on foot,92.1,3010.0,8.3
+54,Blister on hand,100.8,3444.0,7.1
+55,Blister on right hand,94.1,2701.0,7.4
+56,Blister on toe,92.1,3010.0,8.3
+57,Blisters,96.8,2998.0,7.2
+58,Blisters (left hand),98.8,2585.0,7.7
+59,Blood clot removal surgery (right elbow),93.6,2526.0,6.6
+60,Bone bruise in ankle,,,
+61,Bone bruise on hand (left),77.3,1993.0,5.4
+62,Bone spur in elbow,97.6,3117.0,7.6
+63,COVID-19,94.88805970149254,2809.2985074626868,6.840298507462687
+64,COVID-19 (protocol),93.45370370370371,2833.925925925926,6.798148148148148
+65,COVID-19 (symptoms),100.5,3328.0,7.0
+66,COVID-19 (undisclosed),95.29444444444444,2827.527777777778,6.797222222222222
+67,COVID-19 (vaccination),97.43846153846154,3200.846153846154,7.115384615384615
+68,COVID-19 IL (undisclosed),100.8,3356.0,7.6
+69,COVID-19 protocol,96.47142857142856,3126.714285714286,6.857142857142857
+70,Calf contusion,97.2,3218.0,6.4
+71,Carpal tunnel syndrome surgery,93.2,2923.0,7.2
+72,Cervical nerve impingement,92.5,2605.0,6.8
+73,Chest contusion,94.2,3007.0,6.6
+74,Concussion,88.36,2508.0,6.0200000000000005
+75,Cracked fingernail,92.4,3155.0,6.7
+76,Cracked fingernail/blister,97.4,2510.0,7.0
+77,Cracked nail (middle finger),96.1,2702.0,7.2
+78,Elbow contusion,95.8,2849.0,6.666666666666667
+79,Elbow debridement surgery,97.1,2514.0,6.0
+80,Elbow discomfort,95.42272727272729,2825.7272727272725,6.831818181818182
+81,Elbow discomfort (lateral epicondylitis),96.7,2406.0,7.1
+82,Elbow effusion,96.80000000000001,2692.5,7.1
+83,Elbow impingement,93.65,2988.5,7.35
+84,Elbow inflammation,96.52857142857144,2858.035714285714,6.932142857142857
+85,Elbow laceration,99.9,2881.0,7.1
+86,Elbow soreness,96.35000000000001,2800.1666666666665,6.733333333333333
+87,Elbow soreness / Strained hamstring,96.4,2979.0,6.9
+88,Elbow stress reaction,95.15,3173.5,7.050000000000001
+89,Elbow surgery,95.575,2758.5,6.8
+90,Elbow surgery (UCL),89.7,2833.0,6.7
+91,Elbow surgery (UCL/flexor tendon repair),95.3,2785.0,6.6
+92,Elbow surgery (bone chips),94.9,2570.0,6.4
+93,Elbow surgery (bone spur),97.5,3526.0,6.5
+94,Elbow surgery (fracture),100.3,3060.0,6.8
+95,Elbow surgery (internal brace procedure),95.1,2600.0,6.5
+96,Elbow surgery (internal brace),98.45,2999.5,7.6
+97,Elbow surgery (loose bodies),93.7,3198.0,6.7
+98,Elbow surgery (loose body),96.4,2813.0,7.2
+99,Elbow surgery (stress fracture),96.0,2896.0,6.4
+100,Elbow surgery (ulnar nerve transposition),96.9,2708.0,7.5
+101,Elbow tendinitis,97.44285714285715,2777.8571428571427,6.8
+102,Elbow tightness,98.0,2766.0,7.6
+103,Elbow ulnar neuritis,94.2,2955.3333333333335,6.666666666666667
+104,Elbow/Flexor tendon surgery (Tenex procedure),97.3,2695.0,8.3
+105,Elbow/back soreness,95.8,3128.0,6.0
+106,Esophageal constriction,96.5,2773.0,6.8
+107,Facial fractures,84.0,1998.0,5.6
+108,Facial surgery,96.5,2967.0,6.8
+109,Finger contusion,92.3,2519.0,6.0
+110,Finger contusion (right middle),98.5,3416.0,6.8
+111,Finger discomfort,97.23333333333333,2892.6666666666665,6.966666666666666
+112,Finger discomfort (right middle),98.2,3010.0,6.7
+113,Finger inflammation (right index),98.0,3396.0,6.7
+114,Finger inflammation (right middle),94.10000000000001,2938.6666666666665,7.566666666666666
+115,Finger laceration,95.9,2644.0,6.9
+116,Finger laceration (right index),99.2,2826.0,7.8
+117,Finger laceration (right middle),96.5,3083.0,6.1
+118,Finger surgery (left ring),93.2,2701.0,7.7
+119,Flexor tendon surgery,96.39999999999999,2839.5714285714284,6.571428571428571
+120,Flexor tendon surgery/Shoulder soreness,96.0,2742.0,6.9
+121,Flexor tendon/Tommy John revision surgery,100.2,3544.0,7.0
+122,Flu-like symptoms,99.05,3027.5,6.75
+123,Foot contusion,94.2,2547.0,6.1
+124,Foot discomfort,94.8,2413.0,6.6
+125,Foot surgery,96.2,2486.0,7.8
+126,Forearm contusion,98.1,2582.0,6.7
+127,Forearm discomfort,96.725,2864.0,6.825
+128,Forearm inflammation,96.11999999999999,2848.9333333333334,6.6866666666666665
+129,Forearm inflammtion,96.0,3019.0,6.7
+130,Forearm nerve inflammation,95.4,2792.0,6.8
+131,Forearm soreness,97.0,2561.0,6.4
+132,Forearm sugery (nerve decompression),91.3,2468.0,7.0
+133,Forearm tendinitis,99.36666666666667,3020.3333333333335,7.533333333333332
+134,Forearm tightness,97.53999999999999,2870.0,6.890000000000001
+135,Fractured ankle,96.6,2861.0,6.75
+136,Fractured elbow (right),95.5,2964.0,7.1
+137,Fractured finger,95.4,3267.0,7.3
+138,Fractured finger (left ring),96.33333333333333,2829.0,6.7
+139,Fractured finger (right middle),92.3,2219.0,6.7
+140,Fractured foot,95.1,2956.5,7.35
+141,Fractured hand (left),99.1,3524.0,6.4
+142,Fractured hand (non-throwing),94.93333333333334,2553.0,6.933333333333334
+143,Fractured hand (right pinkie),95.4,2766.0,6.6
+144,Fractured hand (right),96.26666666666667,3116.3333333333335,6.866666666666667
+145,Fractured nose,97.1,3272.0,6.5
+146,Fractured rib,96.8,3028.0,6.6
+147,Fractured thumb,85.8,2045.0,5.8
+148,Gastroenteritis,98.2,3328.0,7.5
+149,Glute soreness,94.3,3192.0,8.0
+150,Groin inflammation,98.0,3590.0,7.0
+151,Hairline stress fracture (forearm),96.7,2741.0,7.2
+152,Hamstring surgery,87.2,2642.0,7.1
+153,Hamstring tendinitis,96.4,2985.0,7.2
+154,Hamstring tendonitis,96.3,3440.0,7.7
+155,Hand contusion,92.13333333333333,2691.6666666666665,6.566666666666666
+156,Hand inflammation,92.2,2792.0,7.1
+157,Hip discomfort,92.825,2799.75,6.575
+158,Hip impingement,96.38333333333333,2874.6666666666665,6.783333333333334
+159,Hip inflammation,96.46000000000001,2898.8,7.220000000000001
+160,Hip surgery,96.51428571428572,2836.1428571428573,7.128571428571428
+161,Hip surgery (labrum repair),96.6,2907.0,7.5
+162,Hip surgery (torn labrum),,,
+163,Hip tightness,94.53333333333335,2553.6666666666665,7.033333333333334
+164,Illness,98.2,3328.0,7.5
+165,Intercostal irritation,96.6,2613.0,7.1
+166,Irregular heartbeat,98.2,2813.0,7.7
+167,Kidney ailment,93.5,3342.0,7.3
+168,Kidney stones,96.5,2830.0,7.0
+169,Knee contusion,92.64,2667.8,6.4799999999999995
+170,Knee discomfort,98.35,2899.75,7.025
+171,Knee effusion,92.9,3067.0,6.6
+172,Knee inflammation,94.22857142857143,2924.714285714286,6.6499999999999995
+173,Knee soreness,98.2,3018.0,8.7
+174,Knee surgery,95.46666666666665,2850.0,6.633333333333333
+175,Knee surgery (cyst removal),99.9,2733.0,7.6
+176,Knee surgery (debridement),94.9,2525.0,7.1
+177,Knee surgery (loose bodies),101.5,2781.0,7.5
+178,Knee surgery (patellar tendon),96.0,3495.0,6.7
+179,Knee surgery (torn meniscus),89.9,2402.0,6.45
+180,Knee surgery (torn tendon),96.2,3122.0,6.9
+181,Knee tendinitis,95.65,3126.0,6.300000000000001
+182,Lat surgery,94.6,2557.0,6.0
+183,Lat tightness,96.7,3102.0,6.8
+184,Leg discomfort,94.3,2399.0,6.9
+185,Leg infection,101.9,2642.0,7.8
+186,Lower back discomfort,95.04285714285713,2769.714285714286,6.614285714285714
+187,Lower back inflammation,96.64,2700.0,6.959999999999999
+188,Lower back spasm,98.2,2647.0,7.4
+189,Lower back spasms,94.22,2660.8,8.08
+190,Lower back tightness,97.53333333333335,3086.3333333333335,6.866666666666667
+191,Lower leg tightness,96.26666666666667,2801.0,7.2
+192,Lumbar spasm,99.2,3101.0,7.7
+193,Lumbar spine stress reaction,96.6,3257.0,7.0
+194,Microdiscectomy (back surgery),93.4,2633.0,5.9
+195,Mononucleosis,99.2,2626.0,7.0
+196,Nasal fracture surgery,95.9,3149.0,6.7
+197,Neck discomfort,94.3,2632.0,7.133333333333333
+198,Neck inflammation,95.5,2982.0,6.8
+199,Neck nerve irritation,97.4,3034.0,6.6
+200,Neck spasms,96.95,3054.5,6.6
+201,Neck tightness,96.86666666666667,2926.6666666666665,7.266666666666667
+202,Non-COVID illness,99.33333333333333,3119.3333333333335,7.433333333333334
+203,Non-displaced thumb fracture (right),96.1,2341.0,6.6
+204,Non-viral illness,97.0,2300.0,6.8
+205,Oblique soreness,94.3,2993.0,5.9
+206,Olecranon stress fracture (right elbow),,,
+207,Partially torn elbow ligament,95.7,2754.5,6.9
+208,Patellar tendinitis,89.9,2642.5,7.449999999999999
+209,Patellar tendinitis (left knee),,,
+210,Patellar tendonitis,97.9,2799.0,6.2
+211,Plantar fascitis,95.9,3006.0,7.15
+212,Posterior shoulder discomfort,95.9,2994.0,7.0
+213,Radial nerve irritation,90.8,2715.0,7.7
+214,Raynaud’s syndrome surgery,98.6,2425.0,6.9
+215,Rib costochondritis,96.6,2856.0,6.7
+216,Rib inflammation,88.7,2378.0,6.4
+217,Rib stress fracture,97.8,2442.0,6.7
+218,Rotator cuff inflammation,96.6,2423.0,7.9
+219,Rotator cuff tendinitis,95.1,2691.0,6.7
+220,SI joint inflammation,96.4,2991.0,7.2
+221,SI joint inflammation (hip),93.3,2772.0,7.4
+222,Shin contusion,97.6,3595.0,7.5
+223,Shoulder biceps tendinits,93.3,2511.0,6.0
+224,Shoulder bursitis,96.76666666666667,2761.0,7.233333333333333
+225,Shoulder contusion,88.6,2984.0,5.9
+226,Shoulder discomfort,96.13529411764705,2753.1176470588234,6.776470588235294
+227,Shoulder discomfort (scapular stress fracture),96.6,2593.0,7.5
+228,Shoulder dislocation (non-throwing),96.2,2978.0,6.8
+229,Shoulder fatigue,95.60769230769232,2919.6923076923076,7.230769230769231
+230,Shoulder impingement,96.27142857142857,2835.6285714285714,6.797142857142857
+231,Shoulder impingement syndrome,95.4,2887.0,6.5
+232,Shoulder inflammation,95.98915662650603,2899.421686746988,6.908433734939758
+233,Shoulder inflammation (SI joint),100.1,2906.0,8.1
+234,Shoulder inflammation (scapula),98.1,2676.0,7.1
+235,Shoulder nerve inflammation,92.1,2240.0,6.9
+236,Shoulder soreness,94.26428571428572,2846.1428571428573,6.45
+237,Shoulder surgery,95.04,2969.0,6.62
+238,Shoulder surgery (aneurysm),95.3,2422.0,7.5
+239,Shoulder surgery (anterior capsule repair),98.5,2745.0,7.1
+240,Shoulder surgery (cyst removal),98.8,3502.0,7.1
+241,Shoulder surgery (glenohumeral ligaments and capsu,93.4,2867.0,7.2
+242,Shoulder surgery (labral debridement),97.3,2632.0,7.2
+243,Shoulder surgery (labrum/rotator cuff cleanup),94.2,2914.0,6.3
+244,Shoulder surgery (labrum/rotator cuff repair),97.7,2651.0,5.8
+245,Shoulder surgery (torn capsule),95.2,2873.0,7.1
+246,Shoulder surgery (torn labrum),94.19999999999999,2548.5,6.800000000000001
+247,Shoulder tendinitis,95.84,2911.6,7.0
+248,Shoulder tendonitis (rotator cuff),96.1,2632.0,6.4
+249,Shoulder tightness,97.03333333333335,2925.8333333333335,6.616666666666667
+250,Side discomfort,98.8,3297.6666666666665,6.866666666666667
+251,Side tightness,99.95,3265.0,7.15
+252,Split fingernail,97.4,2540.0,6.9
+253,Sprained SC joint,96.8,2976.0,7.2
+254,Sprained ankle,94.82142857142857,2734.214285714286,6.7
+255,Sprained elbow,95.03571428571429,2786.214285714286,6.514285714285714
+256,Sprained finger,96.60000000000001,3213.0,7.166666666666667
+257,Sprained finger (left middle),98.0,2805.0,6.8
+258,Sprained finger (right index),97.0,2508.0,6.6
+259,Sprained finger (right middle),93.7,3402.0,6.3
+260,Sprained foot,93.7,3007.0,6.6
+261,Sprained knee,95.72307692307693,2839.3076923076924,6.838461538461539
+262,Sprained knee (torn MCL),96.7,2676.0,6.8
+263,Sprained left thumb,96.6,2513.0,6.6
+264,Sprained ribcage,94.8,2395.0,6.8
+265,Sprained shoulder,93.73333333333333,2612.3333333333335,6.266666666666667
+266,Sprained thumb,101.0,2757.0,7.5
+267,Sprained toe,94.89999999999999,3027.0,7.266666666666667
+268,Sprained wrist,94.3,3192.0,8.0
+269,Strained abdominal,95.575,2740.75,6.975
+270,Strained adductor,94.5,3396.0,6.6
+271,Strained ankle,97.9,3084.0,7.1
+272,Strained back,95.27692307692307,2905.076923076923,7.1
+273,Strained back (lumbar),97.6,2939.0,6.4
+274,Strained back (trapezius),97.1,2803.5,6.949999999999999
+275,Strained biceps,97.6375,2839.25,7.1875
+276,Strained calf,92.97037037037036,2728.296296296296,6.685185185185185
+277,Strained cervical spine,99.9,3009.0,7.2
+278,Strained elbow,95.425,2813.25,6.4375
+279,Strained elbow flexor,96.3,2735.3333333333335,7.083333333333333
+280,Strained finger,96.89999999999999,2864.0,6.6000000000000005
+281,Strained finger (left index),94.9,2892.0,7.1
+282,Strained finger (right middle),95.175,2643.0,6.6
+283,Strained flexor,96.5875,2946.625,6.81875
+284,Strained flexor tendon,96.16,2930.6,6.640000000000001
+285,Strained forearm,96.32195121951219,2851.1463414634145,6.917073170731708
+286,Strained forearm flexor,97.7,2803.0,7.433333333333334
+287,Strained glute,94.95,2767.0,7.1
+288,Strained groin,96.10888888888888,2926.9555555555557,7.055555555555555
+289,Strained hamstring,93.39838709677419,2654.7903225806454,6.548387096774194
+290,Strained hip,96.4,2698.0,7.3
+291,Strained hip flexor,96.2,3233.0,7.5
+292,Strained intercostal,95.75,2787.5,6.449999999999999
+293,Strained knee,98.85,2786.0,8.0
+294,Strained lat,96.3625,2858.0,6.96875
+295,Strained lat/Torn shoulder capsule,98.3,3172.0,6.9
+296,Strained lower back,92.86896551724138,2721.7586206896553,6.76896551724138
+297,Strained lumbar,96.16666666666667,2803.3333333333335,6.766666666666667
+298,Strained neck,89.52666666666667,2609.133333333333,6.506666666666666
+299,Strained oblique,95.31764705882354,2814.764705882353,6.901470588235294
+300,Strained pectoral,96.9,2882.8,7.340000000000001
+301,Strained quad,87.93333333333334,2379.5,6.3999999999999995
+302,Strained rib cage,96.65,3496.0,7.4
+303,Strained right groin,97.2,2872.0,7.6
+304,Strained rotator cuff,93.275,2897.0,7.075
+305,Strained shoulder,95.70806451612903,2861.1612903225805,6.966129032258064
+306,Strained shoulder (capsular tear),89.3,3186.0,6.3
+307,Strained shoulder (rotator cuff),97.2,2614.6666666666665,7.166666666666667
+308,Strained shoulder (teres major),96.83333333333333,2646.6666666666665,6.333333333333333
+309,Strained teres major,95.95,2788.25,6.6
+310,Strained triceps,95.6888888888889,3060.4444444444443,6.922222222222222
+311,Strained upper back,99.4,2988.0,7.9
+312,Strained wrist,93.9,2666.0,5.9
+313,Stress fracture -- rib cage,96.9,2628.0,6.9
+314,Stress fracture -- shoulder,97.9,2267.0,7.5
+315,Stress fracture in lower back,95.0,2940.0,7.4
+316,Stress reaction (toe),100.3,3082.0,6.4
+317,Stress reaction -- arm,98.0,2715.0,7.5
+318,Stress reaction -- elbow,95.8,2790.0,7.2
+319,Stress reaction -- lower back,93.2,2783.0,6.6
+320,Stress reaction -- ribs,92.4,2709.0,7.4
+321,Stress reaction -- shin,97.3,2566.0,7.3
+322,Stress reaction -- shoulder,101.8,2962.0,7.4
+323,Stress reaction in leg,95.7,2943.0,6.7
+324,Stress reaction to tibia,100.1,2614.0,6.6
+325,TBD,96.06666666666666,3078.0,6.833333333333333
+326,Testicular contusion,93.8,3019.0,7.0
+327,Thigh inflammation,93.4,3543.0,6.7
+328,Thoracic outlet syndrome,97.8,2809.0,6.7
+329,Thoracic outlet syndrome surgery,94.9125,2745.375,6.975
+330,Thoracic outlet syndrome surgery (follow-up proced,,,
+331,Thoracic spine tightness,97.8,2451.0,6.6
+332,Thumb abrasion (right),94.8,3365.0,6.4
+333,Thumb contusion,81.83333333333333,2674.6666666666665,5.566666666666666
+334,Thumb discomfort,85.0,1911.0,5.6
+335,Thumb surgery (laceration),94.3,3086.0,7.0
+336,Thumb surgery (torn ligament),97.5,3015.0,7.2
+337,Thumb weakness (left),94.9,2800.0,7.2
+338,Toe sesamoiditis,95.2,2828.0,6.4
+339,Tommy John revision surgery,100.2,3544.0,7.0
+340,Tommy John surgery,96.54823529411765,2773.1428571428573,6.902380952380952
+341,Torn elbow ligament (UCL),98.8,2805.0,7.0
+342,Torn finger tendon (right middle),94.2,2821.0,6.8
+343,Torn flexor tendon,96.3,2650.0,5.8
+344,Torn knee ligament,98.3,2695.5,6.7
+345,Torn labrum (shoulder),,,
+346,Torn lat,98.65,2584.0,6.85
+347,Triceps discomfort,98.5,3255.0,6.7
+348,Triceps inflammation,96.58333333333333,2784.5,6.8999999999999995
+349,Triceps soreness,101.1,2691.0,6.8
+350,Triceps tendinitis,95.62,2691.4,6.82
+351,Triceps tightness,95.03333333333335,2666.6666666666665,6.7
+352,Turf toe,97.2,2878.0,7.8
+353,Ulcerative colitis,94.4,3294.0,6.9
+354,Ulnar nerve irritation,96.85,3173.5,7.05
+355,Ulnar nerve transposition surgery,94.0,2685.0,6.7
+356,Ulnar neuritis (elbow),101.4,3586.0,8.0
+357,Undisclosed,95.3561797752809,2780.0898876404494,6.883146067415731
+358,Undisclosed medical condition,99.1,2993.0,6.7
+359,Viral infection,84.35,2241.5,6.0
+360,Wrist contusion,96.4,3051.0,6.9
+361,Wrist contusion (left),72.4,1940.0,5.7
+362,Wrist inflammation,95.65,2670.5,6.5
+363,Wrist surgery,93.7,2942.0,6.9
+364,Wrist surgery (fracture),96.9,2628.0,6.9
+365,Wrist tendinitis,93.45,2582.0,6.550000000000001
