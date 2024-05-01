@@ -1,0 +1,3109 @@
+,Name,Pos,Injury_Date,Injury
+0,Walker Buehler,SP,08/23/22,Tommy John surgery
+1,Shane Baz,SP,09/28/22,Tommy John surgery
+2,Lucas Gilbreath,RP,03/14/23,Tommy John surgery
+3,Cade Cavalli,SP,03/22/23,Tommy John surgery
+4,Matt Foster,RP,Apr '23,Tommy John surgery
+5,Carson Coleman,RP,Apr '23,Elbow surgery
+6,JT Brubaker,SP,04/12/23,Tommy John surgery
+7,Jeffrey Springs,SP,04/24/23,Tommy John surgery
+8,Kris Bubic,SP,04/26/23,Tommy John surgery
+9,Lou Trivino,RP,05/03/23,Tommy John surgery
+10,Robbie Ray,SP,05/03/23,Tommy John surgery
+11,Germán Márquez,SP,05/12/23,Tommy John surgery
+12,José Quijada,RP,05/17/23,Tommy John surgery
+13,Austin Warren,RP,05/17/23,Tommy John surgery
+14,Luis Garcia,SP,05/19/23,Tommy John surgery
+15,Tyler Mahle,SP,05/22/23,Tommy John surgery
+16,Penn Murfee,RP,Jun '23,Elbow surgery (UCL)
+17,Jacob deGrom,SP,06/12/23,Tommy John surgery
+18,Lance McCullers Jr.,SP,06/13/23,Elbow surgery (flexor tendon/bone spur)
+19,Drew Rasmussen,SP,Jul '23,Elbow surgery (internal brace)
+20,Dustin May,SP,07/18/23,Tommy John revision surgery
+21,Antonio Senzatela,SP,07/26/23,Tommy John surgery
+22,Liam Hendriks,RP,08/02/23,Tommy John surgery
+23,Tucupita Marcano,INF/OF,08/09/23,Knee surgery (torn ACL)
+24,Shane McClanahan,SP,08/21/23,Tommy John surgery
+25,Stone Garrett,OF,08/23/23,Fractured leg (fibula)
+26,Freddy Tarnok,SP,08/30/23,Hip surgery
+27,Sam Bachman,SP,Sep '23,Arthroscopic shoulder surgery
+28,Tony Gonsolin,SP,09/01/23,Tommy John surgery
+29,Josh Winder,RP,Sep '23,Shoulder discomfort (scapular stress fracture)
+30,Tommy Kahnle,RP,09/20/23,Shoulder inflammation
+31,Jasson Domínguez,OF,09/20/23,Tommy John surgery
+32,Drey Jameson,RP,09/27/23,Tommy John surgery
+33,John Means,SP,Oct '23,Strained forearm
+34,Tommy Edman,OF/INF,Oct '23,Arthroscopic wrist surgery
+35,Jonathan Hernández,RP,10/01/23,Strained lat
+36,Angel Perdomo,RP,10/06/23,Tommy John surgery
+37,Sandy Alcantara,SP,10/06/23,Tommy John surgery
+38,Félix Bautista,RP,10/09/23,Tommy John surgery
+39,Kyle Wright,SP,10/11/23,Shoulder surgery (torn capsule)
+40,Brandon Woodruff,SP,10/13/23,Shoulder surgery (anterior capsule repair)
+41,Ken Waldichuk,SP,10/17/23,Elbow/Flexor tendon surgery (Tenex procedure)
+42,Taylor Walls,INF,10/30/23,Hip surgery (labrum repair)
+43,Alex Cobb,SP,10/31/23,Hip surgery (labrum repair)
+44,Clayton Kershaw,SP,11/03/23,Shoulder surgery (glenohumeral ligaments and capsu
+45,David Peterson,SP,11/06/23,Hip surgery (labrum repair)
+46,Scott Effross,RP,Dec '23,Back surgery
+47,Johan Oviedo,SP,12/06/23,Tommy John surgery
+48,Endy Rodríguez,C,12/12/23,Elbow/Flexor tendon surgery
+49,Max Scherzer,SP,12/14/23,Back surgery (herniated disc)
+50,Sean Newcomb,SP,12/20/23,Arthroscopic knee surgery
+51,Kyle Bradish,SP,Jan '24,Sprained elbow
+52,Kendall Graveman,RP,Jan '24,Shoulder surgery
+53,Ronny Mauricio,INF,01/02/24,Knee surgery (torn ACL)
+54,Sam Moll,RP,Feb '24,Shoulder impingement
+55,Alex Young,RP,Feb '24,Back tightness
+56,Ian Gibaut,RP,Feb '24,Strained forearm
+57,James Karinchak,RP,Feb '24,Shoulder inflammation
+58,Sawyer Gipson-Long,SP,Feb '24,Strained groin
+59,Justin Verlander,SP,Feb '24,Shoulder inflammation
+60,Carlos Hernández,RP,Feb '24,Shoulder soreness
+61,Robert Stephenson,RP,Feb '24,Shoulder inflammation
+62,Emmet Sheehan,SP,Feb '24,Forearm inflammation/shoulder soreness
+63,JT Chargois,RP,Feb '24,Neck spasms
+64,Braxton Garrett,SP,Feb '24,Shoulder impingement
+65,Zack Weiss,RP,Feb '24,Strained shoulder (teres major)
+66,Glenn Otto,SP,Feb '24,Strained shoulder (teres major)
+67,Eduard Bazardo,RP,Feb '24,Strained shoulder (rotator cuff)
+68,Matt Brash,RP,02/20/24,Elbow inflammation
+69,Kodai Senga,SP,02/21/24,Strained shoulder (posterior capsule)
+70,Shane Drohan,SP,02/22/24,Shoulder surgery (nerve decompression)
+71,Bryan Mata,RP,02/24/24,Strained hamstring
+72,Michael Stefanic,INF,02/24/24,Strained quad
+73,Jimmy Lambert,RP,02/25/24,Strained shoulder (rotator cuff)
+74,Max Kranick,SP,02/26/24,Strained hamstring
+75,Aledmys Díaz,INF/OF,02/26/24,Strained calf
+76,Josh Simpson,RP,02/27/24,Elbow ulnar neuritis
+77,Alek Manoah,SP,02/27/24,Shoulder inflammation
+78,Sean Hjelle,SP,02/28/24,Strained elbow
+79,Vaughn Grissom,INF,03/01/24,Strained hamstring
+80,Jesse Scholtens,SP,03/01/24,Tommy John surgery
+81,Ben Lively,SP,Mar '24,Viral illness
+82,Trevor Stephan,RP,Mar '24,Elbow surgery (UCL)
+83,Gerrit Cole,SP,03/01/24,Elbow inflammation
+84,Dylan Covey,RP,03/01/24,Strained shoulder
+85,Michael Rucker,RP,03/01/24,Finger numbness
+86,Yasmani Grandal,C,Mar '24,Plantar fascitis
+87,Sam Haggerty,INF/OF,Mar '24,Medical procedure
+88,Mason Thompson,RP,03/01/24,Tommy John surgery
+89,Jose A. Ferrer,RP,Mar '24,Strained upper back
+90,Brusdar Graterol,RP,03/02/24,Shoulder inflammation
+91,Luis Medina,SP,03/04/24,Sprained knee
+92,Tristan Beck,SP,03/04/24, Vascular surgery (upper arm aneurysm)
+93,Caleb Kilian,SP,03/05/24,Strained shoulder
+94,Xavier Edwards,INF/OF,03/05/24,Foot infection
+95,Devin Williams,RP,03/05/24,Stress fractures in back
+96,Nathaniel Lowe,1B,03/05/24,Strained oblique
+97,Oswald Peraza,INF,03/06/24,Strained shoulder
+98,Scott Alexander,RP,03/06/24,Stress reaction in rib
+99,Rafael Marchán,C,03/07/24,Back discomfort
+100,Keynan Middleton,RP,03/07/24,Strained forearm
+101,Sam Hentges,SP,03/08/24,Finger inflammation
+102,Jameson Taillon,SP,03/09/24,Strained lower back
+103,Jake Brentz,RP,03/09/24,Strained hamstring
+104,Blake Treinen,RP,03/09/24,Bruised lung
+105,Gavin Williams,SP,03/10/24,Elbow inflammation
+106,Jonny DeLuca,OF,03/10/24,Fractured hand
+107,Gregory Santos,RP,03/11/24,Strained lat
+108,Lucas Giolito,SP,03/12/24,Elbow surgery (internal brace)
+109,Rob Refsnyder,OF,03/12/24,Fractured toe
+110,Josh Taylor,RP,03/12/24,Biceps soreness
+111,Taj Bradley,SP,03/12/24,Strained pectoral
+112,Patrick Wisdom,INF/OF,03/13/24,Strained back
+113,Jhoan Duran,RP,03/13/24,Strained oblique
+114,Luis Patiño,RP,03/13/24,Elbow inflammation
+115,Ethan Small,RP,03/13/24,Strained oblique
+116,Angel Martínez,INF,03/15/24,Foot contusion
+117,José Urquidy,SP,03/15/24,Strained forearm
+118,Justin Topa,RP,03/15/24,Patellar tendinitis (left knee)
+119,Jackson Kowar,RP,03/15/24,Tommy John surgery
+120,Drew Rom,SP,03/15/24,Shoulder biceps tendinits
+121,TJ Friedl,OF,03/16/24,Non-displaced wrist fracture
+122,Michael Massey,2B,03/16/24,Lower back tightness
+123,DJ LeMahieu,INF,03/16/24,Fractured foot (non-displaced)
+124,Brandon Williamson,SP,03/17/24,Strained shoulder
+125,Jonathan Aranda,INF/OF,03/17/24,Fractured finger (right ring)
+126,Josh Lowe,OF,03/17/24,Strained oblique
+127,Eduardo Rodriguez,SP,03/19/24,Strained lat
+128,Max Stassi,C,03/20/24,Hip inflammation
+129,Oliver Ortega,RP,03/21/24,Elbow surgery (loose body removal)
+130,Dauri Moreta,SP,03/21/24,Tommy John surgery
+131,Paul Sewald,RP,03/23/24,Strained oblique
+132,Taijuan Walker,SP,03/23/24,Shoulder impingement
+133,Bryan Woo,SP,03/23/24,Elbow inflammation
+134,Garrett Mitchell,OF,03/24/24,Fractured finger (left index)
+135,Sean Reid-Foley,RP,03/24/24,Shoulder impingement
+136,Josh Staumont,RP,03/25/24,Strained calf
+137,Dylan Carlson,OF,03/25/24,Sprained shoulder (AC joint)
+138,Matt McLain,2B,03/26/24,Shoulder surgery
+139,Miguel Andujar,OF/INF,03/27/24,Knee surgery (lateral meniscectomy)
+140,Justin Steele,SP,03/28/24,Strained hamstring
+141,Royce Lewis,3B,03/28/24,Strained quad
+142,Luke Jackson,RP,03/28/24,Strained lower back
+143,Riley O'Brien,RP,03/28/24,Strained forearm flexor
+144,Sean Murphy,C,03/29/24,Strained oblique
+145,Anthony DeSclafani,SP,03/29/24,Elbow/Flexor tendon surgery
+146,Cionel Pérez,RP,03/30/24,Strained oblique
+147,Jason Heyward,OF,03/30/24,Lower back tightness
+148,Trevor Megill,RP,03/30/24,Concussion
+149,Taylor Clarke,RP,03/30/24,Knee surgery (torn meniscus)
+150,Luis F. Ortiz,RP,03/30/24,Sprained ankle
+151,Alek Thomas,OF,03/31/24,Strained hamstring
+152,Tylor Megill,SP,03/31/24,Strained shoulder
+153,Jason Delay,C,03/31/24,Knee inflammation
+154,Daniel Bard,RP,Apr '24,Flexor tendon surgery
+155,Matt Carpenter,1B,04/01/24,Strained oblique
+156,Josh Jung,3B,04/01/24,Wrist surgery
+157,Framber Valdez,SP,04/02/24,Elbow inflammation
+158,Jakob Junis,SP,04/02/24,Shoulder impingement
+159,Geraldo Perdomo,SS,04/03/24,Torn knee meniscus
+160,Nick Pivetta,SP,04/03/24,Strained elbow flexor
+161,Bennett Sousa,RP,04/03/24,Thoracic outlet syndrome surgery
+162,Daniel Duarte,RP,04/03/24,Strained triceps
+163,Jonathan Loáisiga,RP,04/03/24,Torn elbow ligament (UCL)
+164,Trevor Gott,RP,04/03/24,Tommy John surgery
+165,Victor Robles,OF,04/03/24,Strained hamstring
+166,Josiah Gray,SP,04/04/24,Strained elbow flexor
+167,Trevor Story,SS,04/05/24,Shoulder surgery (fractured glenoid)
+168,Julian Merryweather,RP,04/05/24,Rib stress fracture
+169,John Brebbia,RP,04/05/24,Strained calf
+170,Luis Robert Jr.,OF,04/05/24,Strained hip flexor
+171,Ryan Borucki,RP,04/05/24,Triceps inflammation
+172,Max Kepler,OF,04/06/24,Knee contusion
+173,Josh Sborz,RP,04/06/24,Strained shoulder (rotator cuff)
+174,Andy Ibáñez,INF/OF,04/07/24,Strained hamstring
+175,Guillermo Zuñiga,RP,04/07/24,Strained pectoral
+176,Chase Silseth,SP,04/07/24,Elbow inflammation
+177,Brent Rooker,OF,04/07/24,Costochondral cartilage injury
+178,Collin Snider,RP,04/07/24,Knee contusion
+179,Justin Foscue,INF,04/07/24,Strained oblique
+180,Eury Pérez,SP,04/08/24,Tommy John surgery
+181,Cody Bolton,RP,04/08/24,Kidney stones
+182,Yoán Moncada,3B,04/09/24,Strained groin
+183,Connor Brogdon,RP,04/09/24,Plantar fascitis
+184,Keibert Ruiz,C,04/09/24,Influenza
+185,Romy Gonzalez,INF/OF,04/10/24,Sprained wrist
+186,Chris Murphy,SP,04/10/24,Tommy John surgery
+187,Bobby Miller,SP,04/10/24,Shoulder inflammation
+188,Jon Berti,INF/OF,04/10/24,Strained groin
+189,Brandon Lowe,2B,04/10/24,Strained oblique
+190,Cody Bradford,SP,04/10/24,Strained lower back
+191,Isaiah Campbell,RP,04/11/24,Shoulder impingement
+192,Spencer Strider,SP,04/12/24,Elbow surgery (internal brace)
+193,Tejay Antone,RP,04/12/24,Elbow surgery (UCL/flexor tendon repair)
+194,Shane Bieber,SP,04/12/24,Tommy John surgery
+195,Christian Yelich,OF,04/12/24,Strained lower back
+196,Carlos Correa,SS,04/12/24,Strained oblique
+197,Brock Burke,RP,04/12/24,Fractured hand (non-throwing)
+198,J.B. Bukauskas,RP,04/13/24,Strained lat
+199,Marco Gonzales,SP,04/13/24,Strained forearm
+200,Seiya Suzuki,OF,04/14/24,Strained oblique
+201,Jake Burger,3B/1B,04/14/24,Strained oblique
+202,J.D. Davis,3B/1B,04/14/24,Strained groin
+203,Dominic Canzone,OF,04/14/24,Sprained shoulder (AC joint)
+204,Ozzie Albies,2B,04/15/24,Fractured toe
+205,Stephen Strasburg,SP,07/28/21,Thoracic outlet syndrome surgery
+206,Jimmy Nelson,RP,Aug '21,Tommy John surgery
+207,Chris Rodriguez,SP,Oct '21,Shoulder surgery
+208,Adalberto Mondesi,INF,May '22,Knee surgery (torn ACL)
+209,Luis Gil,SP,05/24/22,Tommy John surgery
+210,Casey Mize,SP,06/15/22,Tommy John surgery
+211,Ethan Roberts,RP,07/13/22,Tommy John surgery
+212,Vladimir Gutierrez,SP,07/20/22,Tommy John surgery
+213,Jake Brentz,RP,07/21/22,Tommy John surgery
+214,Max Meyer,SP,08/09/22,Tommy John surgery
+216,Anthony Bender,RP,08/31/22,Tommy John surgery
+217,Huascar Ynoa,SP,09/07/22,Tommy John surgery
+219,Scott Effross,RP,Oct '22,Tommy John surgery
+220,Tyler Matzek,RP,10/12/22,Tommy John surgery
+221,Dillon Tate,RP,Nov '22,Strained elbow flexor
+222,Blake Treinen,RP,11/11/22,Shoulder surgery (labrum/rotator cuff repair)
+223,J.P. Feyereisen,RP,12/07/22,Shoulder surgery (labrum/rotator cuff cleanup)
+224,Brett Martin,RP,Jan '23,Shoulder surgery
+225,Jarlín García,RP,03/04/23,Biceps discomfort
+226,Gavin Lux,SS,03/08/23,Knee surgery (torn ACL)
+227,Mark Melancon,RP,03/10/23,Strained shoulder
+229,Corbin Martin,RP,03/15/23,Torn lat tendon
+230,Edwin Díaz,RP,03/16/23,Knee surgery (torn patellar tendon)
+232,Bryce Montes de Oca,RP,03/29/23,Tommy John surgery
+233,Rhys Hoskins,1B,03/30/23,Knee surgery (torn ACL)
+235,Austin Meadows,OF,Apr '23,Anxiety
+236,Jake Odorizzi,RP,04/05/23,Arthroscopic shoulder surgery
+237,Aaron Ashby,SP,04/07/23,Arthroscopic shoulder surgery
+238,Oneil Cruz,SS,04/09/23,Ankle surgery
+240,Roberto Pérez,C,04/12/23,Shoulder surgery (rotator cuff)
+241,Trevor Rogers,SP,04/19/23,Strained biceps
+244,Easton McGee,SP,May '23,Strained forearm
+245,Zack Kelly,RP,05/02/23,Elbow surgery (ulnar nerve transposition)
+248,Wilking Rodríguez,RP,05/03/23,Arthroscopic shoulder surgery
+249,Nick Lodolo,SP,05/06/23,Stress reaction in leg
+250,Garrett Cleavinger,RP,05/07/23,Sprained knee
+252,Zach Jackson,RP,05/16/23,Strained elbow flexor
+255,Nick Gordon,INF/OF,05/17/23,Fractured shin
+257,Thomas Szapucki,SP,05/19/23,Thoracic outlet syndrome surgery
+258,Tyler Cyr,RP,05/20/23,Shoulder impingement
+260,Evan White,1B,05/22/23,Hip surgery
+261,Connor Overton,SP,05/23/23,Tommy John surgery
+262,Drew Pomeranz,RP,05/23/23,Arthroscopic elbow surgery
+263,Nick Burdi,RP,05/24/23,Appendicitis
+264,Alex Reyes,RP,Jun '23,Shoulder surgery
+266,Víctor Arano,RP,Jun '23,Shoulder surgery
+267,Ryan Rolison,SP,06/02/23,TBD
+268,Darin Ruf,1B/OF,06/02/23,Knee laceration
+269,Ryan Weber,RP,06/02/23,Strained forearm
+270,Freddy Pacheco,RP,06/05/23,Tommy John surgery
+271,Vince Velasquez,SP,06/09/23,Elbow surgery
+274,Gio Urshela,INF,06/15/23,Fractured pelvis
+275,Adam Cimber,RP,06/18/23,Shoulder impingement
+276,Carl Edwards Jr.,RP,06/19/23,Shoulder inflammation
+277,Corey Kluber,SP,06/20/23,Shoulder inflammation
+278,Victor Robles,OF,06/20/23,Back spasms
+279,Vinnie Pasquantino,1B,06/21/23,Shoulder surgery (torn labrum)
+280,Codi Heuer,RP,06/23/23,Elbow surgery (fracture)
+281,Packy Naughton,RP,06/26/23,Flexor tendon surgery
+282,Keegan Akin,RP,06/28/23,Lower back discomfort
+283,Brandon Hughes,RP,06/28/23,Knee surgery (debridement)
+284,Matthew Boyd,SP,06/28/23,Tommy John surgery
+285,Josh Taylor,RP,06/28/23,Back surgery (herniated disc)
+286,Drew Carlton,RP,06/30/23,Elbow inflammation
+287,Romy Gonzalez,INF/OF,Jul '23,Shoulder surgery (torn labrum)
+288,Josh Staumont,RP,Jul '23,Thoracic outlet syndrome surgery
+289,Drew Rucinski,SP,Jul '23,Back surgery
+290,Reiss Knehr,RP,Jul '23,Tommy John surgery
+292,Tyler Alexander,RP,07/02/23,Strained shoulder
+293,Sam Bachman,RP,07/03/23,Shoulder inflammation
+294,Kaleb Ort,RP,07/04/23,Elbow inflammation
+295,Anthony Rendon,3B,07/04/23,Shin bone bruise
+296,Wyatt Mills,RP,07/05/23,Tommy John surgery
+297,Daniel Hudson,RP,07/05/23,Sprained knee
+298,Jonathan Davis,OF,07/06/23,Knee surgery (meniscus)
+299,Nick Anderson,RP,07/07/23,Strained shoulder
+300,Reiver Sanmartin,RP,07/07/23,Tommy John surgery
+301,Elieser Hernández,SP,07/09/23,Strained pectoral
+302,Richard Lovelady,RP,07/09/23,Strained forearm
+303,Kolby Allard,RP,07/16/23,Shoulder nerve inflammation
+304,Sam Hilliard,OF,07/18/23,Heel contusion
+305,Curt Casali,C,07/18/23,Foot contusion
+306,Daniel Lynch IV,SP,07/18/23,Strained shoulder
+307,Jake Marisnick,OF,07/18/23,Strained hamstring
+308,Dustin May,SP,07/18/23,Flexor tendon/Tommy John revision surgery
+309,Yacksel Ríos,RP,07/18/23,Raynaud’s syndrome surgery
+310,José De León,RP,07/19/23,Tommy John surgery
+311,Alek Jacob,RP,07/20/23,Elbow inflammation
+312,Mason Englert,RP,07/22/23,Hip tightness
+313,Greg Jones,INF/OF,07/22/23,Strained hamstring
+314,Otto Lopez,INF/OF,07/22/23,Strained oblique
+315,Anthony DeSclafani,SP,07/23/23,Strained elbow flexor
+316,Matt Barnes,RP,07/25/23,Hip surgery
+318,Jose Trevino,C,07/27/23,Wrist surgery
+319,Tommy Henry,SP,07/28/23,Elbow inflammation
+320,Joely Rodríguez,RP,07/28/23,Hip tightness
+321,Justin Wilson,RP,07/28/23,Strained lat
+322,Joe Musgrove,SP,07/28/23,Shoulder inflammation
+323,Taylor Ward,OF,07/29/23,Facial fractures
+324,Calvin Faucher,RP,07/29/23,Biceps tendinitis
+325,Austin Adams,RP,08/01/23,Fractured ankle
+326,Anthony Rizzo,1B,08/01/23,Post-concussion syndrome
+327,Brad Miller,INF/OF,08/01/23,Strained hamstring
+329,James Kaprielian,SP,08/02/23,Arthroscopic shoulder surgery (posterior labrum)
+330,Brendan Donovan,INF/OF,08/02/23,Elbow surgery
+331,Jovani Moran,RP,08/05/23,Strained forearm
+332,Starling Marte,OF,08/05/23,Strained groin
+333,Nestor Cortes,SP,08/05/23,Strained rotator cuff
+335,Yency Almonte,RP,08/11/23,Sprained knee
+336,Hagen Danner,RP,08/11/23,Strained oblique
+337,Josh Walker,RP,08/12/23,Strained oblique
+338,Steven Matz,SP,08/12/23,Strained lat
+339,Tom Murphy,C,08/13/23,Sprained thumb
+340,Mark Mathias,INF/OF,08/13/23,Strained shoulder
+341,Angel Felipe,RP,08/14/23,Sprained elbow
+342,Austin Pruitt,RP,08/16/23,Strained forearm
+343,Angel Perdomo,RP,08/18/23,Elbow discomfort
+344,Yonny Chirinos,SP,08/19/23,Elbow inflammation
+345,Billy McKinney,OF/1B,08/20/23,Back spasms
+346,Emerson Hancock,SP,08/20/23,Strained shoulder
+348,Mike Trout,OF,08/22/23,Hand discomfort
+349,Avisaíl García,OF,08/22/23,Strained hamstring
+350,Oliver Ortega,RP,08/22/23,Strained back
+351,John Curtiss,RP,08/22/23,Elbow surgery (loose body)
+352,Marco Gonzales,SP,08/22/23,Forearm sugery (nerve decompression)
+353,Dominic Fletcher,OF,08/23/23,Fractured finger
+355,Guillermo Zuñiga,RP,08/24/23,Strained forearm
+356,Yu Darvish,SP,08/25/23,Bone spur in elbow
+357,Jake Cronenworth,INF,08/25/23,Fractured wrist
+358,Matt McLain,INF,08/27/23,Strained oblique
+359,John McMillon,RP,08/27/23,Strained forearm
+360,Steven Wilson,RP,08/27/23,Hip inflammation
+361,Austin Gomber,SP,08/28/23,Lower back inflammation
+362,Jarren Duran,OF,08/30/23,Toe surgery
+364,Drey Jameson,RP,Sep '23,Sprained elbow
+365,Terrin Vavra,INF/OF,09/01/23,Strained shoulder
+366,James Paxton,SP,09/01/23,Knee inflammation
+367,Justin Dunn,SP,Sep '23,Shoulder surgery
+368,Graham Ashcraft,SP,09/01/23,Stress reaction (toe)
+370,JoJo Romero,RP,09/01/23,Patellar tendonitis
+371,Jimmy Lambert,RP,09/03/23,Ankle inflammation
+372,Shohei Ohtani,DH,09/03/23,Strained oblique
+373,Carlos Carrasco,SP,09/03/23,Fractured finger
+374,Andrew McCutchen,OF,09/04/23,Partially torn Achilles' tendon
+375,Collin McHugh,RP,09/05/23,Shoulder inflammation
+376,Michael Soroka,SP,09/05/23,Forearm inflammtion
+377,Joey Gallo,1B/OF,09/05/23,Foot contusion
+378,Matt Manning,SP,09/06/23,Fractured foot
+379,Tommy Nance,RP,09/06/23,Strained oblique
+380,Gary Sánchez,C,09/06/23,Fractured wrist
+381,Albert Abreu,RP,09/07/23,Strained hamstring
+382,Danny Jansen,C,09/07/23,Finger surgery (right middle)
+383,Freddy Fermin,C,09/08/23,Fractured finger
+384,Austin Cox,RP,09/08/23,Sprained knee
+385,Luis Severino,SP,09/08/23,Strained oblique
+386,MacKenzie Gore,SP,09/08/23,Blisters (left hand)
+387,Gus Varland,RP,09/09/23,Knee inflammation
+388,Jonathan Loáisiga,RP,09/09/23,Elbow inflammation
+389,Peter Lambert,SP,09/10/23,Biceps tendonitis
+390,Matt Carpenter,DH,09/10/23,Elbow inflammation
+391,Dylan Lee,RP,09/11/23,Shoulder inflammation
+392,Michael Fulmer,RP,09/11/23,Strained forearm
+393,Sean Reid-Foley,RP,09/11/23,Strained lat
+394,Riley Adams,C,09/11/23,Hand surgery (fractured hamate)
+395,Nolan Gorman,2B,09/12/23,Strained hamstring
+396,Tejay Antone,RP,09/13/23,Elbow discomfort
+397,Alex Faedo,SP/RP,09/13/23,Blister on finger (right middle)
+398,Cole Waites,RP,09/13/23,Tommy John surgery
+399,Scott McGough,RP,09/14/23,Shoulder inflammation
+400,Triston Casas,1B,09/14/23,Shoulder inflammation
+401,Jose Miranda,3B,09/14/23,Shoulder surgery
+402,Wandy Peralta,RP,09/14/23,Strained triceps
+403,Travis Blankenhorn,INF/OF,09/14/23,Plantar fascitis
+404,Luis Rengifo,INF/OF,09/15/23,Biceps surgery
+405,Anthony Misiewicz,RP,09/15/23,Concussion
+406,Ian Kennedy,RP,09/15/23,Strained shoulder (rotator cuff)
+407,Nick Madrigal,INF,09/16/23,Strained hamstring
+408,Gregory Santos,RP,09/16/23,Elbow inflammation
+409,Tanner Bibee,SP,09/16/23,Hip inflammation
+410,Kyle Freeland,SP,09/16/23,Strained oblique
+411,Tyler Anderson,SP,09/16/23,Knee discomfort
+412,Kyren Paris,INF/OF,09/16/23,Torn thumb ligament
+413,Tyler O'Neill,OF,09/16/23,Sprained foot
+414,Harrison Bader,OF,09/17/23,Strained groin
+415,Brad Keller,RP,09/17/23,Thoracic outlet syndrome
+416,Thyago Vieira,RP,09/17/23,Strained calf
+417,Giovanny Gallegos,RP,09/17/23,Shoulder tendonitis (rotator cuff)
+418,Brady Singer,SP,09/18/23,Strained back
+419,Aaron Loup,RP,09/19/23,Strained shoulder
+420,Erich Uelmen,RP,09/19/23,Strained elbow flexor
+421,Alex Cobb,SP,09/19/23,Hip impingement
+422,Dylan Carlson,OF,09/19/23,Ankle surgery (bone spurs)
+423,Alec Burleson,OF/1B,09/19/23,Fractured thumb
+424,Luis Urías,INF,09/20/23,Strained calf
+425,Jesse Scholtens,SP,09/20/23,Strained calf
+426,Riley Greene,OF,09/20/23,Tommy John surgery (non-throwing)
+427,Eury Pérez,SP,09/20/23,Shoulder inflammation (SI joint)
+430,Sean Newcomb,SP,09/20/23,Knee surgery
+431,Tim Hill,RP,09/20/23,Finger surgery (left ring)
+432,Willson Contreras,C,09/20/23,Wrist tendonitis
+433,Luke Raley,OF/1B,09/20/23,Strained neck
+434,Brad Boxberger,RP,09/21/23,Strained forearm
+435,C.J. Cron,1B,09/21/23,Lower back inflammation
+436,Colin Holderman,RP,09/21/23,Sprained thumb
+437,Scott Alexander,RP,09/21/23,Strained hamstring
+438,Nolan Arenado,3B,09/21/23,Lower back spasms
+439,Brandon Lowe,2B,09/21/23,Fractured kneecap
+440,Jake Irvin,SP,09/21/23,Ankle tendinitis
+441,Charlie Morton,SP,09/22/23,Finger inflammation (right index)
+442,Michael Kopech,SP,09/22/23,Knee surgery (cyst removal)
+443,Bailey Falter,SP,09/23/23,Neck discomfort
+444,Jakob Junis,RP,09/23/23,Strained neck
+445,Luis Robert Jr.,OF,09/24/23,Sprained knee
+446,Luis Campusano,C,09/24/23,Sprained ankle
+447,Mitch Haniger,OF,09/25/23,Strained lower back
+448,Gabriel Arias,INF,09/26/23,Fractured wrist
+449,Daniel Bard,RP,09/26/23,Strained flexor
+450,Ryan Feltner,SP,09/26/23,Elbow inflammation
+451,Patrick Sandoval,SP,09/26/23,Strained oblique
+452,J.D. Davis,3B/1B,09/26/23,Strained shoulder
+453,Daniel Duarte,RP,09/27/23,Shoulder tightness
+454,Jeff McNeil,INF/OF,09/27/23,Sprained elbow
+455,Dylan Covey,RP,09/27/23,Lower back discomfort
+456,Kyle Wright,SP,09/28/23,Strained shoulder
+457,Chris Martin,RP,09/28/23,Viral infection
+458,Brandon Nimmo,OF,09/28/23,Sprained shoulder
+459,Jackson Stephens,RP,09/29/23,Elbow inflammation
+460,Nico Hoerner,2B,09/29/23,Knee contusion
+461,Dallas Keuchel,SP,09/30/23,Strained calf
+464,Tommy Kahnle,RP,08/04/20,Tommy John surgery
+465,Caleb Ferguson,RP,09/23/20,Tommy John surgery
+466,Nick Mears,RP,02/09/21,Arthroscopic elbow surgery
+467,Kyle Funkhouser,RP,Mar '22,Strained shoulder
+468,Blake Cederlind,RP,03/23/21,Tommy John surgery
+469,Kirby Yates,RP,03/24/21,Tommy John surgery
+470,Scott Oberg,RP,03/25/21,Blood clot removal surgery (right elbow)
+471,Michel Baez,RP,03/30/21,Tommy John surgery
+472,José Leclerc,RP,03/30/21,Tommy John surgery
+473,Jonathan Hernández,RP,04/12/21,Tommy John surgery
+474,Sam Delaplane,RP,04/13/21,Tommy John surgery
+475,James Paxton,SP,04/14/21,Tommy John surgery
+476,Adrian Morejon,RP,04/20/21,Tommy John surgery
+477,Carlos Vargas,SP,04/29/21,Tommy John surgery
+478,Dustin May,SP,05/11/21,Tommy John surgery
+479,Michael Soroka,SP,05/17/21,Achilles' tendon surgery (exploratory)
+480,JoJo Romero,RP,05/25/21,Tommy John surgery
+481,Kent Emanuel,RP,06/03/21,Elbow surgery
+482,Kyle Lewis,OF,06/11/21,Knee surgery (torn meniscus)
+483,Justin Dunn,SP,06/17/21,Strained shoulder
+484,Joey Lucchesi,SP,06/24/21,Tommy John surgery
+485,Josh Naylor,1B/OF,07/02/21,Ankle surgery
+486,Ronald Acuña Jr.,OF,07/21/21,Knee surgery (torn ACL)
+488,Spencer Turnbull,SP,07/29/21,Tommy John surgery
+490,Drew Pomeranz,RP,Aug '21,Flexor tendon surgery
+491,Tyler Glasnow,SP,08/04/21,Tommy John surgery
+492,Jonathan Stiever,SP,08/23/21,Lat surgery
+493,Tejay Antone,RP,08/27/21,Tommy John surgery
+494,Justin Topa,RP,Sep '21,Flexor tendon surgery
+495,Kenta Maeda,SP,09/01/21,Tommy John surgery
+496,John Curtiss,RP,Sep '21,Tommy John surgery
+497,Yonny Chirinos,SP,Sep '21,Fractured elbow
+498,Randy Dobnak,SP/RP,09/03/21,Strained finger
+499,Jake Rogers,C,09/08/21,Tommy John surgery
+500,Zack Britton,RP,09/08/21,Tommy John surgery
+501,Nick Anderson,RP,09/26/21,Strained back
+502,Matthew Boyd,SP,09/27/21,Flexor tendon surgery
+503,Chris Rodriguez,SP/RP,Oct '21,Shoulder surgery
+504,Danny Duffy,RP,Oct '21,Flexor tendon surgery
+505,Lance McCullers Jr.,SP,10/12/21,Strained flexor tendon
+506,Joe Kelly,RP,10/21/21,Strained biceps
+507,Tommy La Stella,INF,10/26/21,Achilles inflammation
+508,David Bote,INF/OF,Nov '21,Shoulder surgery
+509,Jake Meyers,OF,11/10/21,Shoulder surgery (torn labrum)
+510,Brendan McKay,SP,11/23/21,Thoracic outlet syndrome surgery
+511,Adbert Alzolay,SP,Feb '22,Strained lat
+512,Lucas Sims,RP,Feb '22,Elbow/back soreness
+513,Griffin Canning,SP,Feb '22,Back discomfort
+514,Alex Reyes,RP,Feb '22,Shoulder soreness (frayed labrum)
+515,Jack Flaherty,SP,Feb '22,Shoulder bursitis
+516,Nick Ahmed,SS,Mar '22,Shoulder discomfort
+517,Jay Jackson,RP,Mar '22,Strained lat
+518,Chris Sale,SP,Mar '22,Stress fracture -- rib cage
+519,Josh Taylor,RP,Mar '22,Lower back discomfort
+520,Wade Miley,SP,Mar '22,Elbow inflammation
+521,Andrelton Simmons,SS,Mar '22,Shoulder soreness
+522,Mike Minor,SP,Mar '22,Shoulder soreness
+523,Luis Castillo,SP,Mar '22,Shoulder soreness
+524,Cody Morris,SP,Mar '22,Strained shoulder (teres major)
+525,James Karinchak,RP,Mar '22,Strained shoulder (teres major)
+526,Peter Lambert,RP,Mar '22,Forearm inflammation
+527,Helcris Olivarez,SP,Mar '22,Strained shoulder
+528,Cooper Criswell,SP,Mar '22,Shoulder soreness
+529,Dylan Floro,RP,Mar '22,Rotator cuff tendinitis
+530,José Devers,INF,Mar '22,Shoulder impingement syndrome
+531,Jake Reed,RP,Mar '22,Oblique soreness
+532,Domingo Germán,SP,Mar '22,Shoulder impingement syndrome
+533,Stephen Ridings,RP,Mar '22,Shoulder impingement
+534,James Kaprielian,SP,Mar' 22,AC joint inflammation
+535,Brent Honeywell,SP,Mar' 22,Olecranon stress fracture (right elbow)
+536,Odúbel Herrera,OF,Mar' 22,Strained oblique
+537,Rafael Marchán,C,Mar' 22,Strained hamstring
+538,Luis Oviedo,SP,Mar' 22,Sprained ankle
+539,Max Kranick,SP,Mar' 22,Strained forearm
+540,Casey Sadler,RP,Mar '22,Shoulder surgery
+541,Seth Romero,SP,Mar '22,Strained calf
+542,Codi Heuer,RP,03/07/22,Tommy John surgery
+543,Fernando Tatis Jr.,SS,03/16/22,Wrist surgery
+544,J.B. Bukauskas,RP,03/17/22,Strained shoulder (teres major)
+545,Tommy Nance,RP,03/19/22,Undisclosed
+546,Luis Urías,INF,03/19/22,Strained quad
+547,Luis García,RP,03/21/22,Side discomfort
+548,Shane Baz,SP,03/21/22,Arthroscopic elbow surgery
+549,Jose Barrero,SS,03/22/22,Hand surgery (hamate)
+550,Luke Maile,C,03/23/22,Strained hamstring
+551,Taylor Jones,INF/OF,03/23/22,Back discomfort
+552,Sam Coonrod,RP,03/23/22,Strained shoulder
+553,Alec Mills,SP,03/25/22,Strained lower back
+554,Ken Giles,RP,03/25/22,Finger discomfort
+555,Andrew Chafin,RP,03/26/22,Strained groin
+556,Cody Stashak,RP,03/26/22,Strained biceps
+557,Anthony Alford,OF,03/26/22,Sprained wrist
+558,Ryan Borucki,RP,03/26/22,Strained hamstring
+559,Pete Fairbanks,RP,03/27/22,Strained lat
+560,Jordan Luplow,OF/1B,03/28/22,Strained oblique
+561,Yermín Mercedes,C/OF,03/28/22,Hand surgery (hamate)
+562,Ryan Sherriff,RP,03/28/22,Biceps tendinitis
+563,LaMonte Wade Jr.,OF,03/28/22,Knee inflammation
+564,Donovan Solano,INF,03/29/22,Strained hamstring
+565,Mike Clevinger,SP,03/29/22,Knee soreness
+566,Evan Longoria,3B,03/29/22,Finger surgery (ligament repair)
+567,Derek Hill,OF,03/30/22,Strained hamstring
+568,Sam Howard,OF,03/30/22,Strained back
+569,Evan White,1B,03/30/22,Sports hernia surgery
+570,Josh Rojas,INF/OF,03/31/22,Strained oblique
+571,Ryan Burr,RP,03/31/22,Shoulder surgery (torn labrum)
+572,Victor González,RP,03/31/22,Elbow inflammation
+573,Jacob deGrom,SP,03/31/22,Stress reaction -- shoulder
+574,Nate Pearson,SP,03/31/22,Mononucleosis
+575,Ehire Adrianza,INF/OF,03/31/22,Strained quad
+576,Will Harris,RP,03/31/22,Thoracic outlet syndrome surgery (follow-up proced
+577,Lance Lynn,SP,Apr '22,Knee surgery (torn tendon)
+578,Garrett Richards,RP,04/02/22,Blister (middle finger)
+579,Max Schrock,INF/OF,04/03/22,Strained calf
+580,José Cisnero,RP,04/03/22,Strained shoulder
+581,Greg Allen,OF,04/03/22,Strained hamstring
+582,Yoán Moncada,3B,04/04/22,Strained oblique
+583,Garrett Crochet,RP,04/05/22,Tommy John surgery
+584,Taylor Ward,OF,04/05/22,Strained groin
+585,Robert Stephenson,RP,04/06/22,Undisclosed
+586,Lucas Gilbreath,RP,04/06/22,Undisclosed
+587,Mickey Moniak,OF,04/06/22,Fractured hand (right)
+588,Luke Weaver,RP,04/07/22,Elbow inflammation
+589,Sean Guenther,RP,04/07/22,Tommy John surgery
+590,Duane Underwood Jr.,SP,04/07/22,Strained hamstring
+591,Aníbal Sánchez,SP,04/07/22,Cervical nerve impingement
+592,Lucas Giolito,SP,04/08/22,Strained abdominal
+593,JT Chargois,RP,04/08/22,Strained oblique
+594,Jon Gray,SP,04/08/22,Blister (middle finger)
+595,José Quijada,RP,04/09/22,Strained oblique
+596,Skye Bolt,OF,04/09/22,Strained oblique
+597,Ryan Yarbrough,SP,04/09/22,Strained groin
+598,Mason Thompson,RP,04/09/22,Strained biceps
+599,Dean Kremer,SP,04/10/22,Strained oblique
+600,AJ Pollock,OF,04/10/22,Strained hamstring
+601,Blake Snell,SP,04/10/22,Strained groin
+602,Spencer Howard,SP,04/10/22,Cracked fingernail/blister
+603,Danny Jansen,C,04/10/22,Strained oblique
+604,David Fletcher,INF,04/11/22,Strained hip
+605,Taijuan Walker,SP,04/11/22,Shoulder bursitis
+606,Corey Knebel,RP,04/11/22,Flu-like symptoms
+607,Sergio Romo,RP,04/11/22,Shoulder inflammation
+608,Luis Patiño,SP,04/11/22,Strained oblique
+609,Manuel Rodríguez,RP,04/12/22,Strained elbow
+610,Javier Báez,SS,04/12/22,Thumb soreness
+611,Yordan Alvarez,OF/1B,04/12/22,Flu-like symptoms
+612,Alex Kirilloff,OF/1B,04/12/22,Wrist inflammation
+613,Luke Jackson,SP,04/13/22,Tommy John surgery
+614,Ryan Pressly,RP,04/13/22,Knee inflammation
+615,Deolis Guerra,RP,04/13/22,Tommy John surgery
+616,Teoscar Hernández,OF,04/13/22,Strained oblique
+617,Jonathan India,2B,04/14/22,Strained hamstring
+618,Blake Treinen,RP,04/14/22,Shoulder discomfort
+619,Dennis Santana,RP,04/14/22,Flu-like symptoms
+620,Yu Chang,INF,04/15/22,Undisclosed
+621,Garrett Hampson,INF/OF,04/15/22,Hand contusion
+622,Mark Canha,OF,04/15/22,COVID-19
+623,Brandon Nimmo,OF,04/15/22,COVID-19
+624,Stephen Piscotty,OF,04/15/22,Undisclosed
+625,Josh Sborz,RP,04/15/22,Elbow soreness
+626,Dee Strange-Gordon,INF/OF,04/15/22,Undisclosed
+627,Daniel Duarte,RP,04/16/22,Elbow inflammation
+628,Nick Senzel,OF,04/16/22,Flu-like symptoms
+629,Matt Manning,SP,04/16/22,Shoulder inflammation
+630,Sonny Gray,SP,04/16/22,Strained hamstring
+631,Mitch Haniger,OF,04/16/22,COVID-19
+632,Hyun Jin Ryu,SP,04/16/22,Forearm inflammation
+633,Mike Moustakas,3B,04/17/22,Strained biceps
+634,Andrew Heaney,SP,04/17/22,Shoulder discomfort
+635,Chris Mazza,RP,04/17/22,Lower back spasms
+636,Kevin Plawecki,C,04/18/22,COVID-19
+637,Tyler Naquin,OF,04/18/22,Undisclosed
+638,Jose Altuve,2B,04/18/22,Strained hamstring
+639,Jed Lowrie,INF,04/18/22,Undisclosed
+640,Chad Pinder,INF/OF,04/18/22,Undisclosed
+641,A.J. Puk,RP,04/18/22,Undisclosed
+642,Lou Trivino,RP,04/18/22,Undisclosed
+643,Austin Allen,C,04/18/22,Undisclosed
+644,Kirby Snead,RP,04/18/22,Undisclosed
+645,Kevin Smith,INF,04/18/22,Bone bruise in ankle
+646,Sean Poppen,RP,04/19/22,Shoulder inflammation
+647,Christian Vázquez,C,04/19/22,Undisclosed
+648,Jonathan Araúz,INF,04/19/22,COVID-19
+649,Tyler Stephenson,C,04/19/22,Concussion
+650,Jhon Romero,RP,04/19/22,Biceps tendinitis
+651,Luis Torrens,C,04/19/22,Undisclosed
+652,Alex Cobb,SP,04/19/22,Strained groin
+653,Jon Gray,SP,04/19/22,Sprained knee
+654,Cal Quantrill,SP,04/20/22,Undisclosed
+655,Anthony Castro,RP,04/20/22,Undisclosed
+656,Owen Miller,INF/OF,04/20/22,Undisclosed
+657,Stephen Vogt,C/1B,04/20/22,Sprained knee
+658,Hans Crouse,SP,04/20/22,Biceps tendinitis
+659,Pierce Johnson,RP,04/20/22,Elbow tendinitis
+660,Paul Sewald,RP,04/20/22,Undisclosed
+661,Hunter Harvey,RP,04/20/22,Strained forearm
+662,Victor Reyes,OF,04/21/22,Strained quad
+663,Anthony DeSclafani,SP,04/21/22,Ankle inflammation
+664,Steven Duggar,OF,04/21/22,Strained oblique
+665,Drew VerHagen,RP,04/21/22,Hip impingement
+666,Spencer Patton,RP,04/21/22,Strained oblique
+667,Clint Frazier,OF,04/22/22,Appendectomy
+668,Luke Voit,1B,04/22/22,Biceps discomfort
+669,Francisco Mejía,C,04/22/22,COVID-19
+670,Eloy Jiménez,OF,04/23/22,Strained hamstring
+671,Drew Jackson,INF/OF,04/23/22,Undisclosed
+672,Yandy Díaz,3B/1B,04/23/22,Flu-like symptoms
+673,Nick Lodolo,SP,04/24/22,Strained lower back
+674,David Price,RP,04/24/22,COVID-19
+675,Mike Yastrzemski,OF,04/24/22,COVID-19
+676,Jeffrey Springs,RP,04/24/22,Undisclosed
+677,Kris Bryant,OF,04/25/22,Back discomfort
+678,Cavan Biggio,INF/OF,04/25/22,Flu-like symptoms
+679,Alex Wells,RP,04/26/22,Strained elbow
+680,Victor Caratini,C,04/26/22,Undisclosed
+681,Anthony Banda,RP,04/26/22,Non-viral illness
+682,Kevin Newman,SS,04/26/22,Strained groin
+683,Cole Tucker,INF/OF,04/26/22,Undisclosed
+684,Bryan Reynolds,OF,04/26/22,Undisclosed
+685,Wil Myers,OF,04/26/22,Thumb contusion
+686,Zack Littell,RP,04/26/22,Undisclosed
+687,Ji Man Choi,1B,04/26/22,Elbow discomfort (loose bodies)
+688,Ryan Borucki,RP,04/26/22,Blister (middle finger)
+689,Eddie Rosario,OF,04/27/22,Laser eye surgery
+690,John Means,SP,04/27/22,Tommy John surgery
+691,J.B. Wendelken,RP,04/28/22,Undisclosed
+692,Bailey Ober,SP,04/28/22,Strained groin
+693,Mark Melancon,RP,04/29/22,Undisclosed
+694,Andrew Vaughn,OF/1B,04/29/22,Hand contusion
+695,Jonathan India,2B,04/29/22,Strained hamstring
+696,Tyler Alexander,SP,04/29/22,Sprained elbow
+697,Archie Bradley,RP,04/29/22,Strained abdominal
+698,Mitch Haniger,OF,04/29/22,Sprained ankle
+699,Brandon Belt,1B,04/29/22,COVID-19
+700,Dominic Leone,RP,04/29/22,COVID-19
+701,Albert Abreu,RP,04/29/22,Sprained ankle
+702,Tayler Saucedo,RP,04/29/22,Hip discomfort
+703,Jake Fraley,OF,04/30/22,Knee inflammation
+704,Mitch White,RP,04/30/22,Undisclosed
+705,Jake Cousins,RP,04/30/22,Elbow effusion
+706,Cole Irvin,SP,04/30/22,Shoulder tendinitis
+707,Cam Gallagher,C,05/01/22,Strained hamstring
+708,Adalberto Mondesi,SS,May '22,Knee surgery (torn ACL)
+709,Tyler Zuber,RP,May '22,Shoulder surgery
+710,Matt Duffy,INF,05/01/22,Undisclosed
+711,Kyle Garlick,OF,05/01/22,Strained calf
+712,Carlos Santana,1B,05/02/22,Ankle bursitis
+713,Trevor May,RP,05/02/22,Stress reaction -- arm
+714,Michael Wacha,SP,05/03/22,Intercostal irritation
+715,Joey Votto,1B,05/03/22,Undisclosed
+716,Matt Festa,RP,05/03/22,Elbow tendinitis
+717,Edmundo Sosa,INF,05/03/22,COVID-19
+718,Carson Kelly,C,05/04/22,Strained oblique
+719,Chris Ellis,SP,05/04/22,Arthroscopic shoulder surgery
+720,Tyler Naquin,OF,05/04/22,Undisclosed
+721,Nick Senzel,OF,05/04/22,Undisclosed
+722,Tim Locastro,OF,05/04/22,Strained lat
+723,Didi Gregorius,SS,05/04/22,Sprained knee
+724,Tim Hill,RP,05/04/22,Shoulder inflammation
+725,Miguel Sanó,1B,05/05/22,Knee surgery (torn meniscus)
+726,Dylan Bundy,SP,05/05/22,COVID-19
+727,Carlos Correa,SS,05/05/22,Finger contusion (middle right)
+728,Luis Arraez,INF/OF,05/05/22,COVID-19
+729,Rich Hill,SP,05/06/22,COVID-19
+730,Enrique Hernández,OF/INF,05/06/22,Undisclosed
+731,Aaron Bummer,RP,05/06/22,Strained knee
+732,Brian Anderson,3B/OF,05/06/22,Undisclosed
+733,Trevor Larnach,OF,05/06/22,Strained groin
+734,Stephen Piscotty,OF,05/06/22,Strained calf
+735,Adam Wainwright,SP,05/06/22,COVID-19
+736,Michael Hermosillo,OF,05/07/22,Strained quad
+737,Sean Newcomb,RP,05/07/22,Sprained ankle
+738,Kurt Suzuki,C,05/07/22,Undisclosed
+739,Andrew McCutchen,OF,05/07/22,COVID-19
+740,Clayton Kershaw,SP,05/07/22,SI joint inflammation (hip)
+741,Jon Berti,INF/OF,05/07/22,Undisclosed
+742,Matt Beaty,OF/1B,05/07/22,Shoulder impingement
+743,Marcus Stroman,SP,05/08/22,Undisclosed
+744,Edward Olivares,OF,05/08/22,Strained quad
+745,Jose Rojas,INF/OF,05/08/22,Undisclosed
+746,Richard Bleier,RP,05/08/22,Undisclosed
+747,Zack Wheeler,SP,05/08/22,Undisclosed
+748,Zach Eflin,SP,05/08/22,Undisclosed
+749,Mitch Garver,C,05/08/22,Strained flexor tendon
+750,David Robertson,RP,05/09/22,Undisclosed
+751,Nick Madrigal,2B,05/09/22,Lower back tightness
+752,Mike Moustakas,3B,05/09/22,Undisclosed
+753,Tyler Matzek,SP,05/10/22,Shoulder inflammation
+754,Ryan Mountcastle,1B,05/10/22,Strained forearm
+755,Max Stassi,C,05/10/22,Undisclosed
+756,David Fletcher,INF,05/10/22,Adductor surgery (hip/groin)
+757,Austin Warren,RP,05/10/22,Nasal fracture surgery
+758,Jesús Luzardo,SP,05/10/22,Strained forearm
+759,Danny Coulombe,RP,05/10/22,Hip impingement
+760,Erik Swanson,RP,05/10/22,Elbow inflammation
+761,Jake McGee,RP,05/10/22,Lower back tightness
+762,Travis Lakins Sr.,RP,05/11/22,Elbow inflammation
+763,Nico Hoerner,INF,05/11/22,Sprained ankle
+764,Joey Wendle,INF,05/11/22,Strained hamstring
+765,Tylor Megill,SP,05/11/22,Biceps inflammation
+766,Sean Reid-Foley,RP,05/11/22,Tommy John surgery
+767,Jake Marisnick,OF,05/12/22,Thumb surgery
+768,Lucas Giolito,SP,05/13/22,Undisclosed
+769,Josh Naylor,1B/OF,05/13/22,Undisclosed
+770,Austin Meadows,OF,05/13/22,Vertigo
+771,Tommy Kahnle,RP,05/13/22,Forearm inflammation
+772,Michael Pineda,SP,05/14/22,Fractured finger (right middle)
+773,Jandel Gustave,RP,05/14/22,Strained hamstring
+774,Manuel Margot,OF,05/14/22,Strained hamstring
+775,Tim Mayza,RP,05/14/22,Forearm inflammation
+776,Victor Reyes,OF,05/15/22,Strained quad
+777,Willy Adames,SS,05/15/22,Sprained ankle
+778,Brandon Lowe,2B,05/15/22,Stress reaction -- lower back
+779,Nick Ahmed,SS,05/16/22,Undisclosed
+780,Keynan Middleton,RP,05/16/22,Elbow inflammation
+781,Manny Piña,C,05/16/22,Wrist surgery
+782,Michael Rucker,RP,05/16/22,Turf toe
+783,Antonio Senzatela,SP,05/16/22,Strained lower back
+784,Jake Odorizzi,SP,05/16/22,Leg discomfort
+785,Andrew Kittredge,RP,05/16/22,Strained lower back
+786,Jason Heyward,OF,05/17/22,Undisclosed
+787,Connor Overton,SP,05/17/22,Stress reaction -- lower back
+788,Salvador Perez,C,05/17/22,Sprained thumb
+789,Josh Winder,SP,05/17/22,Shoulder impingement
+790,James McCann,C,05/17/22,Hand surgery (left hamate)
+791,Mike Clevinger,SP,05/17/22,Strained triceps
+792,Tyler O'Neill,OF,05/17/22,Shoulder impingement
+793,Cooper Hummel,OF,05/18/22,Undisclosed
+794,Kyle Nelson,RP,05/18/22,Undisclosed
+795,Eduardo Rodriguez,SP,05/18/22,Sprained ribcage
+796,Anthony Bender,RP,05/18/22,Back tightness
+797,Chris Paddack,SP,05/18/22,Tommy John surgery
+798,Max Scherzer,SP,05/18/22,Strained oblique
+799,Ben Rortvedt,C,05/18/22,Arthroscopic knee surgery
+800,Brandon Belt,1B,05/18/22,Knee inflammation
+801,LaMonte Wade Jr.,OF,05/18/22,Knee inflammation
+802,Jose Herrera,C,05/19/22,Undisclosed
+803,Michael A. Taylor,OF,05/19/22,Undisclosed
+804,Damon Jones,RP,05/19/22,Shoulder impingement
+805,Aaron Civale,SP,05/20/22,Glute soreness
+806,Will Vest,RP,05/20/22,Undisclosed
+807,Ronald Bolaños,RP,05/20/22,Undisclosed
+808,Roberto Pérez,C,05/20/22,Hamstring surgery
+809,Heath Hembree,RP,05/20/22,Strained calf
+810,Curt Casali,C,05/20/22,Concussion
+811,Abraham Toro,INF,05/21/22,Sprained shoulder
+812,Dylan Carlson,OF,05/21/22,Strained hamstring
+813,Spenser Watkins,SP,05/22/22,Elbow contusion
+814,Hansel Robles,RP,05/22/22,Back spasms
+815,Wade Miley,SP,05/22/22,Strained shoulder
+816,Kris Bryant,OF,05/22/22,Strained lower back
+817,Freddy Peralta,SP,05/22/22,Strained lat
+818,Kyle Higashioka,C,05/22/22,Flu-like symptoms
+819,Aroldis Chapman,RP,05/22/22,Achilles tendinitis
+820,Joey Gallo,OF,05/22/22,Flu-like symptoms
+821,Jonathan Loáisiga,RP,05/22/22,Shoulder inflammation
+822,Austin Slater,OF,05/22/22,Wrist inflammation
+823,Steven Matz,SP,05/22/22,Shoulder impingement
+824,Phoenix Sanders,RP,05/22/22,Lower back spasms
+825,Yan Gomes,C,05/23/22,Strained oblique
+826,Robert Stephenson,RP,05/23/22,Undisclosed
+827,Hunter Renfroe,OF,05/23/22,Strained hamstring
+828,Josh Donaldson,3B,05/23/22,Flu-like symptoms
+829,Daniel Vogelbach,DH,05/23/22,Strained hamstring
+830,Luis Robert Jr.,OF,05/24/22,Flu-like symptoms (mild)
+831,Franmil Reyes,OF,05/24/22,Strained hamstring
+832,Giancarlo Stanton,OF,05/24/22,Ankle inflammation
+834,Jordan Hicks,RP,05/24/22,Strained forearm
+835,Joe Kelly,RP,05/25/22,Strained hamstring
+836,Amir Garrett,RP,05/25/22,Undisclosed
+837,Gabe Speier,RP,05/25/22,Undisclosed
+838,Kyle Isbel,OF,05/25/22,Undisclosed
+839,Matt Peacock,RP,05/25/22,Undisclosed
+840,Max Muncy,INF,05/25/22,Elbow inflammation (left)
+841,Cody Poteet,SP,05/25/22,Elbow discomfort
+842,Joe Ryan,SP,05/25/22,Undisclosed
+843,Yoshi Tsutsugo,1B,05/25/22,Strained lower back
+844,Seiya Suzuki,OF,05/26/22,Sprained finger (left ring)
+845,Anthony Rendon,3B,05/26/22,Wrist inflammation
+846,Gilberto Celestino,OF,05/26/22,Undisclosed
+847,Avisaíl García,OF,05/27/22,Undisclosed
+848,Brian Anderson,3B/OF,05/27/22,Back spasms
+849,Brandon Woodruff,SP,05/27/22,Sprained ankle
+850,Travis Jankowski,OF,05/27/22,Hand surgery (fractured metacarpal)
+851,Josh Donaldson,3B,05/27/22,Shoulder inflammation
+852,Carter Kieboom,3B,05/27/22,Tommy John surgery
+853,Luis Perdomo,RP,05/28/22,Elbow effusion
+854,Ben Gamel,OF,05/28/22,Strained hamstring
+855,Kyle Lewis,OF,05/28/22,Concussion
+856,Jonathan Villar,INF,05/29/22,Mouth injury
+857,Tim Anderson,SS,05/29/22,Strained groin
+858,Robbie Grossman,OF,05/29/22,Strained neck
+859,Zack Greinke,SP,05/29/22,Strained flexor tendon
+860,Sonny Gray,SP,05/29/22,Strained pectoral
+861,Brad Miller,INF/OF,05/29/22,Hip impingement
+862,Matt Barnes,RP,05/30/22,Shoulder inflammation
+863,Matt Strahm,RP,05/30/22,Undisclosed
+864,Drew Smyly,C,05/30/22,Strained oblique
+865,Joey Wendle,INF,05/30/22,Strained hamstring
+866,Carlos Correa,SS,05/30/22,COVID-19
+867,Wander Franco,SS,05/30/22,Strained quad
+868,Tyler Naquin,OF,05/31/22,Strained quad
+869,Wil Myers,OF,05/31/22,Knee inflammation
+870,Alcides Escobar,SS,05/31/22,Strained hamstring
+871,Ryan Rolison,RP,Jun '22,Shoulder surgery
+872,Salvador Perez,C,Jun '22,Thumb surgery
+873,Mike Brosseau,INF/OF,06/01/22,Sprained ankle
+874,Bailey Ober,SP,06/01/22,Strained groin
+875,Chad Green,RP,06/01/22,Tommy John surgery
+876,Dillon Peters,RP,06/01/22,Strained lower back
+877,Josh VanMeter,INF/OF,06/01/22,Fractured finger (left ring)
+878,Joey Krehbiel,RP,06/02/22,Shoulder inflammation
+879,Vince Velasquez,SP,06/02/22,Strained groin
+880,Edwin Ríos,INF/OF,06/02/22,Strained hamstring
+881,Omar Narváez,C,06/02/22,Undisclosed
+882,J.P. Feyereisen,RP,06/02/22,Shoulder impingement
+883,Josh Rogers,RP,06/02/22,Shoulder impingement
+884,Marcus Stroman,SP,06/03/22,Shoulder inflammation
+885,Justin Wilson,RP,06/03/22,Tommy John surgery
+886,Blake Taylor,RP,06/03/22,Elbow discomfort
+887,Taylor Ward,OF,06/03/22,Strained hamstring
+888,Kyle Garlick,OF,06/03/22,Strained hamstring
+889,Jean Segura,2B,06/03/22,Finger surgery (right index)
+890,Nick Maton,INF,06/03/22,Sprained shoulder
+891,Max Kranick,SP,06/03/22,Tommy John surgery
+892,Alex Cobb,SP,06/03/22,Strained neck
+893,Josh Smith,INF/OF,06/03/22,Sprained shoulder
+894,Alex Jackson,C,06/04/22,Sprained finger (left middle)
+895,Corey Dickerson,OF,06/04/22,Strained calf
+896,Jeimer Candelario,3B,06/05/22,Shoulder subluxation
+897,Kevin Pillar,OF,06/05/22,Shoulder surgery
+898,Trevor Gott,RP,06/05/22,Strained groin
+899,Johan Camargo,INF,06/05/22,Strained knee
+900,Víctor Arano,RP,06/05/22,Knee inflammation
+901,Mike Moustakas,3B,06/06/22,Undisclosed
+902,Parker Mushinski,RP,06/06/22,Elbow discomfort
+903,Collin McHugh,RP,06/07/22,Undisclosed
+904,Enrique Hernández,OF/INF,06/07/22,Strained hip flexor
+905,Garrett Whitlock,SP,06/07/22,Hip inflammation
+906,Aaron Bummer,RP,06/07/22,Strained lat
+907,Kolten Wong,2B,06/07/22,Strained calf
+908,Colin Holderman,RP,06/07/22,Shoulder impingement
+909,Brett Martin,RP,06/07/22,Undisclosed
+910,Danny Jansen,C,06/07/22,Fractured finger (left pinky)
+911,Nathan Eovaldi,SP,06/08/22,Lower back inflammation
+912,Tyler Kinley,RP,06/08/22,Strained elbow
+913,Colton Welker,3B,06/08/22,Shoulder surgery
+914,Andrew Vasquez,RP,06/08/22,Sprained ankle
+915,Ramón Urías,INF,06/09/22,Strained oblique
+916,Tyler Stephenson,C,06/09/22,Fractured thumb (right)
+917,Robert Suarez,RP,06/09/22,Knee surgery (loose bodies)
+918,Stephen Strasburg,SP,06/09/22,Stress reaction -- ribs
+919,Wade Miley,SP,06/10/22,Strained shoulder
+920,Nick Madrigal,2B,06/10/22,Strained groin
+921,Liam Hendriks,RP,06/10/22,Strained forearm
+922,Ty Blach,RP,06/10/22,Strained wrist
+923,Daz Cameron,OF,06/10/22,Undisclosed
+924,Jakob Junis,SP,06/10/22,Strained hamstring
+925,Drew Rasmussen,SP,06/10/22,Strained hamstring
+926,Mitch Garver,C,06/10/22,Undisclosed
+927,Glenn Otto,SP,06/10/22,Undisclosed
+928,Joe Ross,SP,06/10/22,Tommy John surgery
+929,Yasmani Grandal,C,06/11/22,Lower back spasms
+930,Garrett Cooper,1B/OF,06/11/22,Undisclosed
+931,Mike Clevinger,SP,06/11/22,Undisclosed
+932,Adrian Morejon,RP,06/11/22,Undisclosed
+933,Jose Alvarez,RP,06/11/22,Strained lower back
+934,Steele Walker,OF,06/11/22,Undisclosed
+935,Aristides Aquino,OF,06/12/22,Strained calf
+936,Cole Sulser,RP,06/12/22,Strained lat
+937,Edward Cabrera,SP,06/12/22,Elbow tendinitis
+938,Jorge Polanco,2B,06/12/22,Strained lower back
+939,Kyle Crick,RP,06/13/22,Elbow inflammation
+940,Tony Santillan,RP,06/13/22,Strained lower back
+941,Jeremy Peña,SS,06/13/22,Thumb discomfort
+942,Joel Payamps,RP,06/13/22,Undisclosed
+943,Daulton Jefferies,SP,06/13/22,Thoracic outlet syndrome surgery
+944,Duane Underwood Jr.,SP,06/13/22,Undisclosed
+945,Julian Merryweather,RP,06/13/22,Strained oblique
+946,Alexis Díaz,RP,06/14/22,Biceps tendinitis
+947,Caleb Ferguson,RP,06/14/22,Forearm tendinitis
+948,Trevor Megill,RP,06/14/22,Shoulder impingement
+949,Eli White,OF,06/14/22,Wrist surgery
+950,Nick Ahmed,SS,06/15/22,Shoulder surgery
+951,Ozzie Albies,2B,06/15/22,Foot surgery
+952,Christian Arroyo,INF/OF,06/15/22,Undisclosed
+953,Garrett Hampson,INF/OF,06/15/22,Undisclosed
+955,Mookie Betts,OF,06/15/22,Fractured rib
+956,Canaan Smith-Njigba,OF,06/15/22,Fractured wrist
+957,Yadier Molina,C,06/15/22,Knee inflammation
+958,Aaron Ashby,SP,06/16/22,Forearm inflammation
+959,Cody Stashak,RP,06/16/22,Shoulder surgery (torn labrum)
+960,Tylor Megill,SP,06/16/22,Strained shoulder
+961,Luis Severino,SP,06/16/22,Undisclosed
+962,Frank Schwindel,1B,06/17/22,Strained lower back
+963,Yoán Moncada,3B,06/17/22,Strained hamstring
+964,Austin Meadows,OF,06/17/22,Undisclosed
+965,Austin Warren,RP,06/17/22,Strained triceps
+966,Jesús Aguilar,1B,06/17/22,Undisclosed
+967,Jesús Sánchez,OF,06/17/22,Undisclosed
+968,Zach Thompson,SP,06/17/22,Forearm nerve inflammation
+969,Tucupita Marcano,INF/OF,06/17/22,Undisclosed
+970,Joe Musgrove,SP,06/17/22,Undisclosed
+971,Trevor Richards,RP,06/17/22,Strained neck
+972,Evan Lee,RP,06/17/22,Strained flexor tendon
+973,Kyle Bradish,SP,06/18/22,Shoulder inflammation
+974,Dany Jiménez,RP,06/18/22,Strained shoulder
+975,Hyun Jin Ryu,SP,06/18/22,Tommy John surgery
+976,Andrew Heaney,SP,06/19/22,Shoulder inflammation
+977,Tyler O'Neill,OF,06/19/22,Strained hamstring
+978,Kevin Kiermaier,OF,06/20/22,Hip inflammation
+979,Manuel Margot,OF,06/20/22,Sprained knee
+980,Josh Staumont,RP,06/21/22,Strained neck
+981,Anthony Rendon,3B,06/21/22,Wrist surgery
+982,Jimmy Herget,RP,06/21/22,Shoulder impingement
+983,Miguel Sánchez,RP,06/21/22,Elbow discomfort
+984,Royce Lewis,INF/OF,06/21/22,Knee surgery (partially torn ACL)
+985,Sam Moll,RP,06/21/22,Undisclosed
+986,James McArthur,SP,06/21/22,Stress reaction -- elbow
+987,Luis González,OF,06/21/22,Strained lower back
+988,Yimi García,RP,06/21/22,Strained back
+989,Daniel Norris,RP,06/22/22,Strained finger (left index)
+990,Adam Engel,OF,06/22/22,Strained hamstring
+991,Danny Mendick,INF/OF,06/22/22,Torn knee ligament
+992,Daniel Lynch IV,SP,06/22/22,Blister on finger (left index)
+993,Louis Head,RP,06/22/22,Shoulder impingement
+994,Hunter Renfroe,OF,06/22/22,Strained calf
+995,Adrian Morejon,RP,06/22/22,Shoulder inflammation
+996,T.J. McFarland,RP,06/22/22,COVID-19
+997,Andrew Kittredge,RP,06/22/22,Tommy John surgery
+998,Sean Bouchard,OF/INF,06/23/22,Strained oblique
+999,Joe Smith,RP,06/23/22,Strained back
+1000,Ty France,1B,06/23/22,Sprained elbow
+1001,Drew VerHagen,RP,06/23/22,Shoulder impingement
+1002,Jason Heyward,OF,06/24/22,Knee inflammation
+1003,Jeff Hoffman,RP,06/24/22,Undisclosed
+1004,Daniel Hudson,RP,06/24/22,Torn knee ligament
+1005,Brandon Crawford,SS,06/24/22,Knee inflammation
+1006,Matt Bush,RP,06/24/22,Forearm discomfort
+1007,Zach Davies,RP,06/25/22,Shoulder inflammation
+1008,Austin Hedges,C,06/25/22,Concussion
+1009,Zach Eflin,SP,06/25/22,Knee contusion
+1010,Johan Camargo,INF,06/25/22,Strained knee
+1011,Connor Brogdon,RP,06/25/22,Undisclosed
+1012,Steven Wilson,RP,06/25/22,Hamstring tendinitis
+1013,Génesis Cabrera,RP,06/25/22,Undisclosed
+1014,Kenley Jansen,RP,06/26/22,Irregular heartbeat
+1015,Ryan Feltner,SP,06/26/22,Strained back
+1016,Archie Bradley,RP,06/26/22,Fractured elbow (right)
+1017,Matt Duffy,INF,06/26/22,Lower back spasms
+1018,Zach McKinstry,INF/OF,06/26/22,Strained neck
+1019,Harrison Bader,OF,06/26/22,Plantar fascitis
+1020,Jed Lowrie,INF,06/26/22,Sprained shoulder
+1021,Jonah Bride,INF,06/26/22,Strained shoulder
+1022,Luis Torrens,C,06/26/22,Shoulder inflammation
+1023,Jack Flaherty,SP,06/26/22,Strained shoulder
+1024,Michael Wacha,SP,06/28/22,Shoulder inflammation
+1025,Austin Meadows,OF,06/28/22,Strained achilles (right and left)
+1026,Jorge Soler,OF,06/28/22,Bilateral pelvis inflammation
+1027,Jazz Chisholm Jr.,2B,06/28/22,Stress fracture -- lower back
+1028,Trevor Larnach,OF,06/28/22,Core muscle surgery
+1029,Taylor Trammell,OF,06/28/22,Strained hamstring
+1030,Oscar Gonzalez,OF,06/29/22,Strained abdominal
+1031,Rony García,SP,06/29/22,Shoulder soreness
+1032,Jason Castro,C,06/29/22,Knee discomfort
+1033,Bryce Harper,OF,06/29/22,Thumb surgery (left)
+1034,Ranger Suárez,SP,06/29/22,Lower back spasms
+1035,Tom Murphy,C,06/29/22,Shoulder surgery
+1036,Adrian Houser,SP,06/30/22,Strained flexor tendon
+1037,Rich Hill,SP,07/01/22,Sprained knee
+1038,Lucas Sims,RP,Jul '22,Back surgery
+1039,Antonio Senzatela,SP,07/01/22,Shoulder inflammation
+1040,Michael Lorenzen,SP,07/01/22,Strained shoulder
+1041,Trevor Rosenthal,RP,Jul '22,Strained hamstring
+1042,Tyrone Taylor,OF,07/01/22,Concussion
+1043,Danny Coulombe,RP,Jul' 22,Hip surgery
+1044,Chris Bassitt,SP,07/01/22,Undisclosed
+1045,Sean Doolittle,RP,Jul' 22,Elbow surgery (internal brace procedure)
+1046,Art Warren,RP,07/02/22,Strained forearm
+1047,Tyler Mahle,SP,07/02/22,Strained shoulder
+1048,Ron Marinaccio,RP,07/02/22,Shoulder inflammation
+1049,Jackson Tetreault,SP,07/02/22,Stress fracture -- shoulder
+1050,Ian Kennedy,RP,07/03/22,Strained calf
+1051,Yerry De Los Santos,RP,07/03/22,Undisclosed
+1052,Thairo Estrada,INF,07/03/22,Undisclosed
+1053,Chris Taylor,OF/INF,07/04/22,Fractured foot
+1054,Craig Stammen,RP,07/04/22,Shoulder inflammation
+1055,Curt Casali,C,07/04/22,Strained oblique
+1056,Kyle Hendricks,SP,07/05/22,Strained shoulder (capsular tear)
+1057,Vince Velasquez,SP,07/05/22,Blister -- finger (right index)
+1058,Jake Burger,3B,07/05/22,Bone bruise -- hand (right)
+1059,Wily Peralta,RP,07/05/22,Strained hamstring
+1060,Chris Archer,SP,07/05/22,Hip tightness
+1061,Evan Longoria,3B,07/05/22,Strained oblique
+1062,Anthony DeSclafani,SP,07/05/22,Ankle surgery
+1063,Jeffrey Springs,RP,07/05/22,Lower leg tightness
+1064,Yusei Kikuchi,SP,07/05/22,Strained neck
+1065,Reed Garrett,RP,07/05/22,Biceps inflammation
+1066,Tyler Danish,RP,07/06/22,Elbow discomfort
+1067,Ross Detwiler,RP,07/07/22,Lower back discomfort
+1068,Luis Cessa,RP,07/07/22,Abdominal discomfort
+1069,Aramis Garcia,C,07/07/22,Finger discomfort
+1070,Jurickson Profar,OF,07/07/22,Concussion
+1071,Christian Arroyo,INF/OF,07/08/22,Strained groin
+1072,Connor Seabold,SP,07/08/22,Strained forearm
+1073,Ken Giles,RP,07/08/22,Shoulder discomfort
+1074,Tommy La Stella,INF,07/08/22,Undisclosed
+1075,Zack Littell,RP,07/08/22,Strained oblique
+1076,Yordan Alvarez,OF/1B,07/09/22,Hand inflammation
+1077,Jonathan Heasley,SP,07/09/22,Shoulder tendinitis
+1078,James McCann,C,07/09/22,Strained oblique
+1079,Andrelton Simmons,SS,07/10/22,Strained shoulder
+1080,Brusdar Graterol,RP,07/10/22,Shoulder inflammation
+1081,Miguel Castro,RP,07/10/22,Strained shoulder
+1082,Bryan Reynolds,OF,07/10/22,Strained oblique
+1083,Dane Dunning,SP,07/10/22,Ankle impingement
+1084,Darren O'Day,RP,07/11/22,Strained calf
+1085,Kevin Plawecki,C,07/11/22,Undisclosed
+1086,Jimmy Yacabonis,RP,07/11/22,Strained groin
+1087,Josh Fleming,SP,07/11/22,Strained oblique
+1088,Mitch Garver,C,07/11/22,Flexor tendon surgery
+1089,Trevor Story,2B,07/12/22,Hairline fracture -- wrist
+1090,Matt Strahm,RP,07/12/22,Wrist contusion
+1091,Albert Almora Jr.,OF,07/12/22,Undisclosed
+1092,Beau Brieske,SP,07/12/22,Forearm soreness
+1093,Mike Trout,OF,07/12/22,Ribcage inflammation
+1094,Wander Franco,SS,07/12/22,Hand surgery (hamate)
+1095,Joe Barlow,RP,07/12/22,Blister (index finger)
+1097,Aaron Civale,SP,07/13/22,Sprained wrist
+1098,Luis Severino,SP,07/13/22,Strained lat
+1099,Josh Winckowski,SP,07/14/22,COVID-19
+1100,Mike Moustakas,3B,07/14/22,Undisclosed
+1101,Jon Berti,INF/OF,07/14/22,Strained groin
+1102,Ryan Jeffers,C,07/14/22,Fractured thumb
+1103,Dakota Hudson,SP,07/14/22,Strained neck
+1104,Juan Yepez,OF/1B,07/14/22,Strained forearm
+1105,Jalen Beeks,RP,07/14/22,Lower leg tightness
+1106,Tyler Clippard,RP,07/14/22,Strained groin
+1107,Brandon Crawford,SS,07/15/22,Knee inflammation
+1108,Mauricio Llovera,RP,07/15/22,Strained flexor
+1109,Luis Robert Jr.,OF,07/16/22,Lightheadedness/blurred vision
+1110,Dauri Moreta,RP,07/16/22,Undisclosed
+1111,Daniel Lynch IV,SP,07/16/22,Blister
+1112,Jhonathan Diaz,SP,07/16/22,TBD
+1113,Dominic Smith,OF/1B,07/16/22,Sprained ankle
+1114,Chase De Jong,RP,07/16/22,Knee tendinitis
+1115,Matt Wisler,RP,07/16/22,Strained neck
+1116,Edward Olivares,OF,07/17/22,Strained quad
+1117,Jace Peterson,INF/OF,07/17/22,Sprained elbow
+1118,Caleb Thielbar,RP,07/17/22,Strained hamstring
+1119,Harold Ramírez,OF,07/17/22,Fractured thumb
+1120,Brad Miller,INF/OF,07/17/22,Strained neck
+1121,Elieser Hernández,RP,07/19/22,Undisclosed
+1122,Brad Wieck,RP,07/20/22,Tommy John surgery
+1125,Rafael Devers,3B,07/22/22,Strained hamstring
+1126,Jorge Soler,OF,07/22/22,Lower back spasms
+1127,Adam Duvall,OF,07/23/22,Sprained wrist
+1128,Reynaldo López,RP,07/23/22,Strained lower back
+1129,Jeff Hoffman,RP,07/23/22,Forearm tightness
+1130,Jhoulys Chacín,RP,07/23/22,Toe sesamoiditis
+1131,Michael Pineda,SP,07/23/22,Triceps tightness
+1132,Brian Anderson,3B/OF,07/23/22,Sprained shoulder
+1133,Garrett Cooper,1B/OF,07/23/22,Wrist contusion
+1134,Tommy Nance,RP,07/23/22,Strained groin
+1135,Giancarlo Stanton,OF,07/23/22,Achilles tendonitis
+1136,Jake Marisnick,OF,07/23/22,Sprained toe
+1137,Evan Longoria,3B,07/23/22,Strained hamstring
+1138,Steven Matz,SP,07/23/22,Sprained knee (torn MCL)
+1139,Rony García,SP,07/24/22,Shoulder soreness
+1140,Max Kepler,OF,07/24/22,Fractured toe
+1141,Drew Smith,RP,07/24/22,Strained lat
+1142,Erick Fedde,SP,07/24/22,Shoulder inflammation
+1143,Keynan Middleton,RP,07/25/22,Strained ankle
+1144,Jonathan Araúz,INF,07/25/22,Fractured finger (right)
+1145,Trevor Rogers,SP,07/25/22,Lower back spasms
+1146,Diego Castillo,RP,07/25/22,Shoulder inflammation
+1147,Francisco Mejía,C,07/25/22,Shoulder impingement
+1148,MacKenzie Gore,SP,07/25/22,Elbow inflammation
+1149,Tyler Gilbert,SP,07/26/22,Sprained elbow
+1150,Angel Zerpa,SP,07/26/22,Knee discomfort
+1151,Mike Ford,1B,07/27/22,Strained neck
+1152,Tyler Wells,SP,07/27/22,Strained oblique
+1153,Justin Turner,3B,07/27/22,Strained abdominal
+1154,Michael King,RP,07/27/22,Elbow surgery (fracture)
+1155,Justin Verlander,SP,07/28/22,Strained calf
+1156,Daniel Castano,RP,07/28/22,Concussion
+1157,Joc Pederson,OF,07/28/22,Concussion
+1158,Mike Zunino,C,07/28/22,Thoracic outlet syndrome surgery
+1159,Rob Refsnyder,OF,07/29/22,Sprained knee
+1160,Miguel Sanó,1B,07/29/22,Knee inflammation
+1161,David Bednar,RP,07/29/22,Lower back inflammation
+1162,Tommy Milone,RP,07/29/22,Strained neck
+1163,Caleb Smith,RP,07/30/22,Fractured hand (non-throwing)
+1164,Dylan Moore,INF/OF,07/30/22,Back spasms
+1165,Julio Rodríguez,OF,07/30/22,Wrist contusion
+1166,Thairo Estrada,INF,07/30/22,Concussion
+1167,Ross Stripling,SP,07/30/22,Strained glute
+1168,Kris Bryant,OF,07/31/22,Plantar fascitis
+1169,Jandel Gustave,RP,07/31/22,Forearm discomfort
+1170,Hunter Greene,SP,08/01/22,Strained shoulder
+1171,Paul Campbell,RP,Aug '22,Tommy John surgery
+1172,Kyle Garlick,OF,08/01/22,Ribcage contusion
+1173,Drew VerHagen,RP,Aug '22,Hip surgery
+1174,Kevin Kiermaier,OF,Aug '22,Hip surgery
+1175,Jon Gray,SP,08/01/22,Strained oblique
+1176,Kyle Nelson,RP,08/02/22,Lower back spasms
+1177,Steven Brault,RP,08/02/22,Undisclosed
+1178,Avisaíl García,OF,08/02/22,Strained hamstring
+1179,Kole Calhoun,OF,08/02/22,Heel irritation
+1180,Dennis Santana,RP,08/02/22,Sprained ankle
+1181,Brayan Bello,SP,08/03/22,Strained groin
+1182,Chad Kuhl,SP,08/03/22,Strained hip flexor
+1183,Yency Almonte,RP,08/03/22,Elbow tightness
+1184,Omar Narváez,C,08/03/22,Strained quad
+1185,Jorge Alcala,RP,08/03/22,Elbow debridement surgery
+1186,Dillon Peters,RP,08/03/22,Elbow inflammation
+1187,Tyler Heineman,C,08/03/22,Strained groin
+1188,Tanner Rainey,RP,08/03/22,Tommy John surgery
+1189,Tyler Stephenson,C,08/04/22,Shoulder surgery (fractured clavicle)
+1190,Clayton Kershaw,SP,08/04/22,Lower back discomfort
+1191,Tommy Hunter,RP,08/04/22,Lower back tightness
+1192,George Springer,OF,08/04/22,Elbow inflammation
+1193,Robert Dugger,SP,08/05/22,Shoulder discomfort
+1194,Austin Adams,RP,08/05/22,Flexor tendon surgery
+1195,Max Fried,SP,08/06/22,Concussion
+1196,Mickey Moniak,OF,08/06/22,Fractured finger (right middle)
+1197,Tim Mayza,RP,08/06/22,Shoulder dislocation (non-throwing)
+1198,Taylor Clarke,RP,08/07/22,Strained oblique
+1199,Spencer Howard,SP,08/07/22,Shoulder impingement
+1200,Humberto Castellanos,SP,08/08/22,Tommy John surgery
+1201,Chris Sale,SP,08/08/22,Wrist surgery (fracture)
+1202,Mike Moustakas,3B,08/08/22,Strained calf
+1203,Matt Carpenter,INF/OF,08/08/22,Fractured foot
+1204,Ryan Borucki,RP,08/08/22,Strained flexor
+1205,Orlando Arcia,INF/OF,08/09/22,Strained hamstring
+1206,Jordan Holloway,RP,08/09/22,Arthoscopic elbow surgery
+1208,Alex Kirilloff,OF/1B,08/09/22,Forearm surgery
+1209,Elias Díaz,C,08/10/22,Sprained wrist
+1210,Trevor Gott,RP,08/10/22,Strained forearm
+1211,Paul Blackburn,SP,08/10/22,Torn finger tendon (right middle)
+1212,Tim Anderson,SS,08/11/22,Hand surgery (torn ligament)
+1213,Alex Colomé,RP,08/11/22,Elbow discomfort (lateral epicondylitis)
+1214,Yonathan Daza,OF,08/11/22,Shoulder dislocation (left)
+1215,Yerry De Los Santos,1B,08/11/22,Strained shoulder
+1216,Ke'Bryan Hayes,3B,08/11/22,Strained back
+1217,Ehire Adrianza,INF/OF,08/12/22,Viral infection
+1218,Nathan Eovaldi,SP,08/12/22,Shoulder inflammation
+1219,Michael Brantley,OF,08/12/22,Arthroscopic shoulder surgery
+1220,Clay Holmes,RP,08/12/22,Back spasms
+1221,Tayler Scott,RP,08/12/22,Finger laceration (right middle)
+1222,Luis García Jr.,INF,08/12/22,Strained groin
+1223,Chadwick Tromp,C,08/13/22,Strained quad
+1224,Símon Muzziotti,OF,08/13/22,Knee discomfort (partially torn patellar tendon)
+1225,Braxton Garrett,RP,08/14/22,Strained oblique
+1226,Luis Guillorme,INF,08/14/22,Strained groin
+1227,Ramón Laureano,OF,08/14/22,Strained oblique
+1228,Corey Knebel,RP,08/14/22,Strained lat/Torn shoulder capsule
+1229,Leury García,INF/OF,08/15/22,Strained lower back
+1230,Carlos Carrasco,SP,08/15/22,Strained oblique
+1231,Eduardo Escobar,3B,08/15/22,Strained oblique
+1232,Tomás Nido,C,08/15/22,Flu-like symptoms
+1233,Aledmys Díaz,INF/OF,08/16/22,Strained groin
+1234,Garrett Cooper,1B/OF,08/16/22,Concussion
+1235,Brandon Marsh,OF,08/16/22,Sprained ankle
+1236,Tarik Skubal,SP,08/17/22,Flexor tendon surgery
+1237,Cody Poteet,SP,08/17/22,Tommy John surgery
+1238,Tyler Mahle,SP,08/17/22,Shoulder inflammation
+1239,Joe Barlow,RP,08/17/22,Blister (index finger)
+1240,Antonio Senzatela,SP,08/18/22,Torn knee ligament
+1241,Yadiel Hernandez,OF,08/18/22,Strained calf
+1242,Yonny Hernández,INF,08/19/22,Strained calf
+1243,Keegan Thompson,SP,08/19/22,Lower back tightness
+1244,Joey Votto,1B,08/19/22,Shoulder surgery (left rotator cuff)
+1245,Albert Almora Jr.,OF,08/19/22,Shoulder contusion
+1246,Graham Ashcraft,SP,08/19/22,Biceps discomfort
+1247,Aaron Ashby,SP,08/19/22,Shoulder inflammation
+1248,Gregory Santos,SP,08/19/22,Strained groin
+1249,Roman Quinn,OF,08/19/22,Knee contusion
+1250,Eric Hosmer,1B,08/20/22,Lower back inflammation
+1251,Yasmani Grandal,C,08/20/22,Strained knee
+1252,Jonathan Schoop,2B,08/20/22,Sprained ankle
+1253,Stephen Nogosek,SP,08/20/22,Strained oblique
+1254,Albert Abreu,RP,08/20/22,Elbow inflammation
+1255,Scott Effross,RP,08/20/22,Strained shoulder
+1256,Zack Wheeler,SP,08/20/22,Forearm tendinitis
+1257,Seranthony Domínguez,RP,08/20/22,Triceps soreness
+1258,Donovan Walton,INF/OF,08/20/22,Shoulder inflammation
+1259,Sam Long,RP,08/20/22,Strained oblique
+1260,Matt Reynolds,INF/OF,08/21/22,Hip discomfort
+1261,Ryan Pressly,RP,08/21/22,Neck spasms
+1262,Zack Greinke,SP,08/21/22,Forearm tightness
+1263,Nestor Cortes,SP,08/21/22,Strained groin
+1264,Michael Kopech,SP,08/22/22,Strained knee
+1265,Vinnie Pasquantino,1B,08/22/22,Shoulder discomfort
+1266,Mike Brosseau,INF/OF,08/22/22,Strained oblique
+1267,Cole Ragans,SP,08/22/22,Strained calf
+1268,Steven Brault,RP,08/23/22,Strained shoulder
+1269,Mike Moustakas,3B,08/23/22,Strained calf
+1270,Josh Staumont,RP,08/23/22,Biceps tendinitis
+1272,Tony Gonsolin,SP,08/23/22,Strained forearm
+1273,Cole Sands,RP,08/23/22,Elbow contusion
+1274,T.J. Zeuch,SP,08/24/22,Back discomfort
+1275,Dany Jiménez,RP,08/24/22,Strained shoulder
+1276,Zach Jackson,RP,08/24/22,Shoulder inflammation
+1277,Colin Holderman,RP,08/24/22,Shoulder discomfort
+1278,Jorge Alfaro,C,08/24/22,Knee inflammation
+1279,Patrick Wisdom,INF/OF,08/25/22,Sprained finger (left ring)
+1280,Yoán Moncada,3B,08/25/22,Strained hamstring
+1281,Skye Bolt,OF,08/25/22,Knee discomfort (patellar subluxation)
+1282,Ryan Thompson,RP,08/25/22,Triceps inflammation
+1283,Jackson Stephens,RP,08/26/22,Concussion
+1284,Justin Steele,SP,08/26/22,Strained lower back
+1285,Lucas Gilbreath,RP,08/26/22,Strained flexor tendon
+1286,Jonathan Davis,OF,08/26/22,Elbow effusion
+1287,Brandon Lowe,2B,08/26/22,Triceps contusion
+1288,Cade Cavalli,SP,08/26/22,Shoulder inflammation
+1289,Zach Plesac,SP,08/27/22,Fractured hand (right pinkie)
+1290,Jorge Polanco,2B,08/27/22,Knee inflammation
+1291,Aroldis Chapman,RP,08/27/22,Leg infection
+1292,Josh Sborz,RP,08/27/22,Sprained elbow
+1293,Aaron Civale,SP,08/28/22,Forearm inflammation
+1294,Brusdar Graterol,RP,08/28/22,Elbow inflammation
+1295,Brett Baty,3B,08/28/22,Torn thumb ligament
+1296,Dylan Moore,INF/OF,08/28/22,Strained oblique
+1297,David Price,RP,08/29/22,Wrist inflammation
+1298,Austin Slater,OF,08/29/22,Sprained hand
+1299,Joey Bart,C,08/29/22,Concussion
+1300,Kutter Crawford,SP,08/30/22,Shoulder impingement
+1301,Willson Contreras,C,08/30/22,Sprained ankle
+1302,Shane McClanahan,SP,08/30/22,Shoulder impingement
+1304,Kent Emanuel,RP,08/31/22,Strained shoulder
+1305,Jose Alvarez,RP,08/31/22,Tommy John surgery
+1306,Alex Wood,SP,08/31/22,Shoulder impingement
+1307,Brad Miller,INF/OF,08/31/22,Strained hip
+1308,Art Warren,RP,Sep '22,Elbow surgery
+1309,Josh James,RP,Sep '22,Flexor tendon surgery
+1310,Jared Walsh,1B,09/01/22,Thoracic outlet syndrome surgery
+1311,Sandy León,C,Sep '22,Knee surgery (torn meniscus)
+1312,Víctor Arano,RP,09/01/22,Strained shoulder
+1313,Miguel Cabrera,1B,09/02/22,Strained biceps
+1314,Anthony Rizzo,1B,09/02/22,Headaches
+1315,Nick Castellanos,OF,09/02/22,Strained oblique
+1316,Brandon Drury,INF/OF,09/02/22,Concussion
+1317,Tyler Mahle,SP,09/03/22,Shoulder inflammation
+1318,Max Scherzer,SP,09/03/22,Strained oblique
+1319,Trevor May,RP,09/03/22,Undisclosed
+1320,Adam Oller,SP,09/03/22,Rib costochondritis
+1321,Mark Appel,RP,09/03/22,Elbow inflammation
+1322,Brandon Belt,1B,09/03/22,Knee surgery
+1323,Jose Iglesias,SS,09/04/22,Hand contusion
+1324,DJ LeMahieu,INF,09/04/22,Toe inflammation
+1325,Franchy Cordero,1B,09/05/22,Sprained ankle
+1326,Blake Treinen,RP,09/05/22,Shoulder tightness
+1327,Tanner Houck,RP,09/06/22,Back surgery (lumbar discectomy)
+1328,Starling Marte,OF,09/06/22,Fractured finger (right middle)
+1329,Andrew Benintendi,OF,09/06/22,Hand surgery (fractured hamate)
+1330,Dylan Carlson,OF,09/06/22,Sprained thumb
+1332,Eric Lauer,SP,09/07/22,Elbow inflammation
+1333,Lourdes Gurriel Jr.,OF,09/07/22,Strained hamstring
+1334,Freddy Peralta,SP,09/08/22,Shoulder inflammation
+1335,Dominic Leone,RP,09/08/22,Elbow inflammation
+1336,Vinny Capra,INF/OF,09/08/22,TBD
+1337,Keibert Ruiz,C,09/08/22,Testicular contusion
+1338,Nick Madrigal,2B,09/09/22,Strained groin
+1339,Kirby Yates,RP,09/10/22,Elbow inflammation
+1340,Avisaíl García,OF,09/10/22,Strained hamstring
+1341,Chris Archer,SP,09/10/22,Strained pectoral
+1342,Bryce Montes de Oca,RP,09/10/22,Strained hamstring
+1343,Tommy La Stella,INF,09/10/22,Neck spasms
+1344,Nick Anderson,RP,09/10/22,Plantar fascitis
+1345,Trevor Story,2B,09/11/22,Heel contusion
+1346,Max Kepler,OF,09/11/22,Sprained wrist
+1347,Brandon Lowe,2B,09/11/22,Lower back discomfort
+1348,Kyle Nelson,RP,09/12/22,Elbow inflammation
+1349,Justin Dunn,SP,09/12/22,Undisclosed
+1350,Ehire Adrianza,INF/OF,09/13/22,Strained quad
+1351,Rafael Ortega,OF,09/13/22,Fractured finger (left ring)
+1352,Andrew Velazquez,SS,09/13/22,Torn knee meniscus
+1353,Tommy Nance,RP,09/13/22,Strained groin
+1354,Alec Mills,SP,09/14/22,Back surgery (discectomy)
+1355,Anthony Gose,RP,09/14/22,Tommy John surgery
+1356,Tommy Hunter,RP,09/14/22,Lower back tightness
+1357,Jordan Hicks,RP,09/14/22,Arm fatigue
+1358,Brendan McKay,SP,09/14/22,Tommy John surgery
+1359,Nick Solak,OF,09/14/22,Fractured foot
+1360,Justin Dunn,SP,09/15/22,Strained shoulder
+1361,Kyle Garlick,OF,09/15/22,Sprained wrist
+1362,Sam Moll,RP,09/15/22,Strained shoulder
+1363,Edmundo Sosa,INF,09/15/22,Strained hamstring
+1364,JT Brubaker,SP,09/15/22,Arm inflammation
+1365,Keynan Middleton,RP,09/16/22,Sprained toe
+1366,David Fletcher,INF,09/16/22,Hand contusion
+1367,Frankie Montas,SP,09/16/22,Shoulder inflammation
+1368,Ramón Laureano,OF,09/16/22,Strained hamstring
+1369,Eugenio Suárez,3B,09/16/22,Fractured finger (right index)
+1370,Tyler O'Neill,OF,09/16/22,Strained hamstring
+1371,Brett Martin,RP,09/16/22,Strained shoulder
+1372,Ozzie Albies,2B,09/17/22,Fractured finger (right pinky)
+1373,Mike Minor,SP,09/17/22,Shoulder soreness
+1374,Trevor Rogers,SP,09/17/22,Strained lat
+1375,Trevor Megill,RP,09/17/22,Undisclosed
+1376,Mychal Givens,RP,09/17/22,Undisclosed
+1377,Tyler Heineman,C,09/17/22,Concussion
+1378,Jalen Beeks,RP,09/17/22,Lower leg tightness
+1379,Ryne Nelson,SP,09/18/22,Shoulder inflammation (scapula)
+1380,Spencer Strider,SP,09/18/22,Strained oblique
+1381,Brendan Rodgers,2B,09/18/22,Strained hamstring
+1382,Joey Wendle,INF,09/18/22,Hamstring tendonitis
+1383,Wandy Peralta,RP,09/18/22,Thoracic spine tightness
+1384,Tyler Wells,SP,09/19/22,Shoulder inflammation
+1385,Sonny Gray,SP,09/19/22,Strained hamstring
+1386,Nick Senzel,OF,09/20/22,Fractured toe (sesmoid)
+1387,Joe Jiménez,RP,09/20/22,Strained back
+1388,Joel Payamps,RP,09/20/22,Strained back (lumbar)
+1389,Brad Hand,RP,09/20/22,Elbow tendinitis
+1390,Dustin May,SP,09/21/22,Lower back tightness
+1391,Steven Okert,RP,09/21/22,Triceps tightness
+1392,Eric Stout,RP,09/21/22,Lower back discomfort
+1393,Santiago Espinal,2B,09/21/22,Strained oblique
+1394,Julio Rodríguez,OF,09/22/22,Strained lower back
+1395,Ryan Yarbrough,SP,09/22/22,Strained oblique
+1396,Luis Robert Jr.,OF,09/23/22,Sprained wrist
+1397,Phil Bickford,RP,09/23/22,Shoulder fatigue
+1398,Luis Perdomo,RP,09/23/22,Strained calf
+1399,Luis González,OF,09/23/22,Strained lower back
+1400,Jacob Amaya,INF,09/24/22,TBD
+1401,Seby Zavala,C,09/25/22,Concussion
+1402,Connor Joe,OF/1B,09/25/22,Strained pectoral
+1403,Darin Ruf,1B/OF,09/25/22,Strained neck
+1404,Garrett Whitlock,SP,09/26/22,Hip surgery
+1405,Dane Dunning,SP,09/26/22,Hip surgery
+1406,Ramón Urías,INF,09/27/22,Sprained knee
+1407,Charlie Blackmon,OF,09/27/22,Torn knee meniscus
+1408,Carlos Estévez,RP,09/27/22,Undisclosed
+1409,Kerry Carpenter,OF,09/27/22,Strained back
+1410,Garrett Cooper,1B/OF,09/27/22,Fractured hand (right pinkie)
+1411,Adrian Houser,SP,09/27/22,Strained groin
+1412,Byron Buxton,OF,09/27/22,Arthroscopic knee surgery
+1413,Wil Crowe,RP,09/27/22,Elbow inflammation
+1414,Logan Webb,SP,09/27/22,Back tightness
+1415,Michael Kopech,SP,09/28/22,Knee surgery (torn meniscus)
+1416,Matt Manning,SP,09/28/22,Strained forearm
+1417,Mickey Moniak,OF,09/28/22,Hand contusion
+1419,Willi Castro,INF/OF,09/29/22,Strained hamstring
+1420,Archie Bradley,RP,09/29/22,Strained forearm
+1421,Collin Wiles,RP,09/29/22,Strained shoulder
+1422,Ketel Marte,2B,09/30/22,Undisclosed
+1423,Emmanuel Rivera,3B,09/30/22,Fractured wrist
+1424,Félix Bautista,RP,09/30/22,Knee discomfort
+1425,Chad Kuhl,SP,09/30/22,Strained triceps
+1426,Zack Britton,RP,09/30/22,Shoulder fatigue
+1427,Zack Collins,C/1B,09/30/22,Non-COVID illness
+1428,Rob Refsnyder,OF,10/01/22,Lower back spasms
+1429,Michael Grove,SP,10/01/22,Knee contusion
+1430,Edward Cabrera,SP,10/01/22,Sprained ankle
+1431,Cole Ragans,SP,10/01/22,Strained calf
+1432,Justin Topa,RP,10/02/22,Ankle contusion
+1433,Trevor Megill,RP,10/02/22,Strained oblique
+1434,Ron Marinaccio,RP,10/02/22,Stress reaction -- shin
+1435,Jesse Winker,OF,10/02/22,Neck discomfort
+1436,Evan Longoria,3B,10/02/22,Fractured thumb
+1437,Thomas Szapucki,RP,10/02/22,Strained hip
+1438,Taylor Clarke,RP,10/03/22,Strained oblique
+1439,Sam Haggerty,INF/OF,10/03/22,Strained groin
+1440,Matt Bush,RP,10/04/22,Non-COVID illness
+1441,Carlos Rodón,SP,10/04/22,Non-COVID illness
+1442,Colin Poche,RP,10/04/22,Strained oblique
+1443,Tylor Megill,SP,10/05/22,Undisclosed
+1444,Mike Clevinger,SP,10/05/22,Non-COVID illness
+1445,,,,
+1446,Jean Segura,INF,06/15/02,Strained groin
+1447,Seth Lugo,RP,02/16/20,Elbow surgery (bone spur)
+1448,Luis Severino,SP,02/27/20,Tommy John surgery
+1449,Brock Burke,SP,02/28/20,Shoulder surgery (labrum debridement)
+1450,Andrés Muñoz,RP,03/20/20,Tommy John surgery
+1451,Tyler Beede,SP/RP,03/20/20,Tommy John surgery
+1452,Noah Syndergaard,SP,03/26/20,Tommy John surgery
+1453,Chris Sale,SP,03/30/20,Tommy John surgery
+1454,John Brebbia,RP,06/08/20,Tommy John surgery
+1455,Trey Wingenter,RP,07/18/20,Tommy John surgery
+1456,Peter Lambert,SP,07/21/20,Tommy John surgery
+1457,Daniel Tillo,SP,07/29/20,Tommy John surgery
+1458,Colin Poche,RP,07/29/20,Tommy John surgery
+1459,Seranthony Domínguez,RP,07/30/20,Tommy John surgery
+1460,Miles Mikolas,SP,Aug '20/Mar '21,Flexor tendon surgery/Shoulder soreness
+1462,Yonny Chirinos,SP,08/25/20,Tommy John surgery
+1463,Austin Pruitt,RP,09/02/20,Elbow surgery (hairline fracture)
+1464,Jalen Beeks,RP,09/02/20,Tommy John surgery
+1465,Rowan Wick,RP,09/16/20,Strained oblique
+1466,Shed Long Jr.,INF/OF,09/22/20,Shin surgery (stress fracture)
+1468,Dinelson Lamet,SP,09/26/20,Elbow discomfort
+1469,Dakota Hudson,SP,09/28/20,Tommy John surgery
+1470,Justin Verlander,SP,09/30/20,Tommy John surgery
+1471,Matt Strahm,RP,Oct '20,Knee surgery (patellar tendon)
+1472,Ken Giles,RP,10/01/20,Tommy John surgery
+1473,Oliver Drake,RP,Oct '20,Strained flexor
+1474,Josh James,RP,10/23/20,Hip surgery
+1475,Joe Kelly,RP,Nov '20,Shoulder surgery (cyst removal)
+1476,Brusdar Graterol,RP,Offseason,Undisclosed
+1477,Jeff Brigham,RP,Offseason,Undisclosed
+1478,Mike Clevinger,SP,11/17/20,Tommy John surgery
+1479,Cam Hill,RP,11/30/20,Wrist surgery
+1480,Austin Davis,RP,Dec '20,Sprained elbow
+1481,Jacob Nottingham,C,12/30/20,Thumb surgery
+1482,Jace Fry,RP,Jan '21,Microdiscectomy (back surgery)
+1483,Luis Frías,SP,Feb '21,COVID-19
+1484,Kevin Plawecki,C,Feb '21,COVID-19 (protocol)
+1485,Franchy Cordero,OF,Feb '21,COVID-19 (protocol)
+1486,Kyle Ryan,RP,Feb '21,COVID-19 (protocol)
+1487,Rony García,RP,Feb '21,Strained abdominal
+1488,Joely Rodríguez,RP,Feb '21,Sprained ankle
+1489,Demarcus Evans,RP,Feb '21,Strained lat
+1490,Patrick Murphy,SP/RP,Feb '21,Sprained shoulder
+1491,Dylan File,SP,02/04/21,Elbow surgery (stress fracture)
+1492,Clarke Schmidt,SP,02/22/21,Strained elbow
+1493,Brandon Bailey,SP/RP,02/26/21,Tommy John surgery
+1494,Zac Gallen,SP,Mar '21,Hairline stress fracture (forearm)
+1495,Sonny Gray,SP,Mar '21,Back soreness
+1496,Edwar Colina,SP,Mar '21,Arthroscopic elbow surgery
+1497,Miguel Andujar,INF/OF,Mar '21,Carpal Tunnel Syndrome (right wrist)
+1498,Mike Fiers,SP,Mar '21,Hip inflammation
+1499,José Castillo,RP,03/01/21,Tommy John surgery
+1500,Javy Guerra,RP,03/01/21,Sprained elbow
+1501,Jaylin Davis,OF,Mar '21,Knee tendinitis
+1502,Nick Anderson,RP,Nov '21,Partially torn elbow ligament
+1503,Nate Pearson,SP,03/01/21,Strained groin
+1504,Chris Davis,1B,03/02/21,Arthroscopic hip surgery
+1505,Framber Valdez,SP,03/02/21,Fractured finger (left ring)
+1506,Kole Calhoun,OF,03/03/21,Knee surgery (torn meniscus)
+1507,Tim Lopes,OF/INF,03/03/21,Strained oblique
+1508,DJ Stewart,OF,03/05/21,Strained hamstring
+1509,Austin Romine,C,03/06/21,Sprained knee
+1510,Carlos Carrasco,SP,3/6/21; 3/18/21,Elbow soreness / Strained hamstring
+1511,Cody Ponce,SP/RP,03/06/21,Forearm discomfort
+1512,Brett Martin,RP,03/06/21,Back spasms
+1513,Austin Adams,RP,03/07/21,Elbow inflammation
+1514,Nick Ahmed,SS,03/08/21,Knee inflammation
+1515,Jesús Sánchez,OF,03/08/21,Strained groin
+1516,Willie Calhoun,OF,03/08/21,Strained groin
+1517,Joey Votto,1B,03/10/21,COVID-19
+1518,Jorge Guzmán,SP,03/10/21,Elbow inflammation
+1519,José Martínez,OF/1B,03/11/21,Knee surgery (torn meniscus)
+1520,Trent Grisham,OF,03/11/21,Strained hamstring
+1521,Kwang Hyun Kim,SP,03/11/21,Back tightness
+1522,Hunter Harvey,RP,03/12/21,Strained oblique
+1523,Shogo Akiyama,OF,03/13/21,Strained hamstring
+1524,Brendan Rodgers,INF,03/13/21,Strained hamstring
+1525,Austin Nola,C,03/13/21,Fractured finger (left middle)
+1526,Derek Fisher,OF,03/14/21,Strained hamstring
+1527,Brett Phillips,OF,03/14/21,Strained hamstring
+1528,Félix Peña,RP,03/15/21,Strained hamstring
+1529,Bobby Wahl,RP,03/15/21,Strained oblique
+1530,Drew Smith,RP,03/15/21,Shoulder soreness
+1531,Zack Britton,RP,03/15/21,Arthroscopic elbow surgery
+1532,Pierce Johnson,RP,03/16/21,Strained groin
+1533,Alex Wood,SP,03/16/21,Ablation procedure (back)
+1534,Jonathan Holder,RP,03/17/21,Strained shoulder
+1535,Thomas Hatch,SP/RP,03/17/21,Elbow impingement
+1536,Jimmy Cordero,RP,03/18/21,Tommy John surgery
+1537,Tyler Clippard,RP,03/19/21,Strained shoulder
+1538,Spencer Turnbull,SP,03/19/21,COVID-19
+1539,Andre Scrubb,RP,03/19/21,Shoulder discomfort
+1540,Steven Brault,SP,03/19/21,Strained lat
+1541,Adam Engel,OF,03/20/21,Strained hamstring
+1542,Michael Lorenzen,RP,03/20/21,Strained shoulder
+1543,Dan Altavilla,RP,03/21/21,Strained calf
+1544,George Springer,OF,3/21/21; 4/6/21,Strained oblique / Strained quad
+1545,Touki Toussaint,SP/RP,03/22/21,Strained shoulder
+1546,Justin Wilson,RP,03/22/21,Shoulder tightness
+1547,Kyle Lewis,OF,03/22/21,Bone bruise on knee
+1548,Harrison Bader,OF,03/22/21,Forearm discomfort
+1549,Robbie Ray,RP,03/22/21,Elbow contusion
+1550,Tyson Miller,SP/RP,03/23/21,COVID-19 (protocol)
+1551,Kyle Freeland,SP,03/23/21,Strained shoulder
+1553,Khris Davis,DH,03/23/21,Strained quad
+1555,Eduardo Rodriguez,SP,03/25/21,Arm fatigue
+1557,Will Harris,RP,03/26/21,Hand inflammation
+1558,Justin Topa,RP,03/28/21,Strained flexor
+1559,Ryan Brasier,RP,03/29/21,Strained calf
+1560,Adalberto Mondesi,SS,03/29/21,Strained oblique
+1561,Luke Voit,1B,03/29/21,Knee surgery (partially torn meniscus)
+1562,Eloy Jiménez,OF,03/30/21,Pectoral surgery (ruptured tendon)
+1564,Dedniel Núñez,RP,03/30/21,Tommy John surgery
+1566,Ji Man Choi,1B,03/31/21,Arthroscopic knee surgery
+1567,Jon Lester,SP,03/31/21,COVID-19 (protocol)
+1568,Jordy Mercer,INF,03/31/21,COVID-19 (protocol)
+1569,Alex Avila,C,03/31/21,COVID-19 (protocol)
+1570,Yan Gomes,C,03/31/21,COVID-19 (protocol)
+1571,Brad Hand,RP,03/31/21,COVID-19 (protocol)
+1572,Josh Harrison,INF/OF,03/31/21,COVID-19 (protocol)
+1573,Patrick Corbin,SP,03/31/21,COVID-19 (protocol)
+1574,Josh Bell,1B,03/31/21,COVID-19 (protocol)
+1575,Kyle Schwarber,OF,03/31/21,COVID-19 (protocol)
+1576,Luke Bard,RP,Apr '21,Hip surgery
+1577,Tony Gonsolin,SP,04/01/21,Shoulder inflammation
+1578,Josh Donaldson,3B,04/01/21,Strained hamstring
+1579,Ehire Adrianza,INF/OF,04/03/21,COVID-19 (protocol)
+1580,Elieser Hernández,SP,04/03/21,Biceps tendon inflammation
+1581,Burch Smith,RP,04/03/21,Strained right groin
+1582,Ke'Bryan Hayes,3B,04/03/21,Wrist inflammation
+1583,Joakim Soria,RP,04/04/21,Strained calf
+1584,Chris Martin,RP,04/04/21,Shoulder inflammation
+1585,Austin Hays,OF,04/04/21,Strained hamstring
+1586,Tim Anderson,SS,04/04/21,Strained hamstring
+1587,Chad Pinder,INF/OF,04/04/21,Sprained knee
+1588,Cody Bellinger,OF/1B,04/05/21,Hairline fracture (leg)
+1589,Garrett Cooper,1B/OF,04/05/21,COVID-19 (vaccination)
+1590,Reymin Guduan,RP,04/05/21,Sprained left thumb
+1591,Fernando Tatis Jr.,SS,04/05/21,Shoulder subluxation
+1592,Kevin Kiermaier,OF,04/05/21,Strained quad
+1593,Brent Rooker,OF/1B,04/06/21,Strained neck
+1594,J.D. Davis,3B,04/06/21,Hand contusion
+1595,A.J. Puk,SP/RP,04/06/21,Strained biceps
+1596,Jake Fraley,OF,04/06/21,Strained hamstring
+1597,Pete Fairbanks,RP,04/06/21,Strained shoulder (rotator cuff)
+1598,Brock Holt,INF/OF,04/06/21,Strained hamstring
+1599,Tyler Chatwood,RP,04/06/21,Triceps discomfort
+1600,Ketel Marte,OF/INF,04/07/21,Strained hamstring
+1601,Billy Hamilton,OF,04/07/21,Strained hamstring
+1602,Matt Bush,RP,04/07/21,Elbow inflammation
+1603,Enoli Paredes,RP,04/08/21,Strained oblique
+1604,Kolten Wong,2B,04/08/21,Strained oblique
+1605,Chris Owings,INF/OF,04/09/21,Sprained thumb
+1606,Julio Teheran,SP,04/09/21,Strained shoulder
+1607,Pedro Báez,RP,04/09/21,Shoulder discomfort
+1608,Dexter Fowler,OF,04/09/21,Torn ACL
+1609,Gio Urshela,INF,04/09/21,COVID-19 (vaccination)
+1610,Rougned Odor,INF,04/09/21,COVID-19 (protocol)
+1611,Ryan Borucki,RP,04/09/21,COVID-19 (vaccination)
+1612,J.D. Martinez,DH,04/10/21,COVID-19 (cold symptoms)
+1613,Miguel Cabrera,1B,04/10/21,Strained biceps
+1614,Juan Lagares,OF,04/10/21,Strained calf
+1615,Anthony Rendon,3B,04/10/21,Strained groin
+1616,Archie Bradley,RP,04/10/21,Strained oblique
+1617,Reyes Moronta,RP,04/10/21,Strained flexor
+1618,Tyler O'Neill,OF,04/10/21,Strained groin
+1619,Chris Archer,SP,04/10/21,Forearm tightness
+1620,Lourdes Gurriel Jr.,OF,04/10/21,COVID-19 (vaccination)
+1621,Christian Walker,1B,04/11/21,Strained oblique
+1622,Drew Smyly,SP,04/11/21,Forearm inflammation
+1623,Mac Sceroler,RP,04/11/21,Shoulder tendinitis
+1624,Jesse Hahn,RP,04/11/21,Shoulder impingement
+1625,Christian Yelich,OF,04/11/21,Strained lower back
+1626,Brandon Workman,RP,04/12/21,COVID-19 (undisclosed)
+1627,Jason Adam,RP,04/12/21,COVID-19 (undisclosed)
+1628,Dan Winkler,RP,04/12/21,COVID-19 (undisclosed)
+1629,Max Stassi,C,04/12/21,Sprained thumb
+1630,Anthony Misiewicz,RP,04/12/21,COVID-19 (undisclosed)
+1632,Max Fried,SP,04/13/21,Strained hamstring
+1633,Cristian Pache,OF,04/13/21,Strained groin
+1634,Matt Duffy,INF/OF,04/13/21,COVID-19 (undisclosed)
+1635,Josh Staumont,RP,04/13/21,COVID-19 (undisclosed)
+1636,Lorenzo Cain,OF,04/13/21,Strained quad
+1637,Taylor Williams,RP,04/13/21,Knee inflammation
+1638,LaMonte Wade Jr.,OF,04/13/21,Strained oblique
+1640,Jordan Romano,RP,04/13/21,Ulnar neuritis (elbow)
+1641,Teoscar Hernández,OF,04/13/21,COVID-19
+1642,Julian Merryweather,RP,04/13/21,Strained oblique
+1643,Stephen Strasburg,SP,04/13/21,Shoulder inflammation
+1644,Dylan Cease,SP,04/14/21,COVID-19 (symptoms)
+1645,Nomar Mazara,OF,04/14/21,Strained oblique
+1646,Martín Maldonado,C,04/14/21,COVID-19 (undisclosed)
+1647,Jose Altuve,2B,04/14/21,COVID-19
+1648,Robel García,INF,04/14/21,COVID-19 (undisclosed)
+1649,Alex Bregman,3B,04/14/21,COVID-19 (undisclosed)
+1650,Yordan Alvarez,DH,04/14/21,COVID-19 (undisclosed)
+1651,Gavin Lux,INF,04/14/21,Wrist discomfort
+1652,Andrelton Simmons,SS,04/14/21,COVID-19
+1654,Johnny Cueto,SP,04/14/21,Strained lat
+1655,Ross Stripling,SP,04/14/21,Strained forearm
+1656,Lance Lynn,SP,04/15/21,Strained back (trapezius)
+1657,Mike Moustakas,INF,04/15/21,Illness
+1658,Michael Feliz,RP,04/15/21,Cracked nail (middle finger)
+1659,Cody Reed,RP,04/15/21,Thumb weakness (left)
+1660,Ender Inciarte,OF,04/16/21,Strained hamstring
+1661,Aristides Aquino,OF,04/16/21,Hamate surgery
+1662,Blake Taylor,RP,04/16/21,Sprained ankle
+1663,Tim Locastro,OF,04/17/21,Dislocated finger (left pinkie)
+1664,Sean Newcomb,RP,04/17/21,COVID-19 (undisclosed)
+1665,Alex Blandino,INF,04/17/21,COVID-19 (protocol)
+1666,Caleb Thielbar,RP,04/17/21,COVID-19 (protocol)
+1667,Max Kepler,OF,04/17/21,COVID-19
+1668,Kyle Garlick,OF,04/17/21,COVID-19
+1669,Collin McHugh,RP,04/17/21,Strained lower back
+1670,Wander Suero,RP,04/17/21,Strained oblique
+1671,Starling Marte,OF,04/18/21,Non-displaced rib fracture
+1672,Chad Kuhl,SP,04/18/21,Shoulder discomfort
+1673,Jake McGee,RP,04/18/21,COVID-19 (vaccination)
+1674,Logan Webb,SP,04/18/21,COVID-19 (vaccination)
+1675,T.J. Zeuch,SP/RP,04/18/21,Shoulder tendinitis
+1676,Matt Moore,SP,04/19/21,COVID-19 (undisclosed)
+1677,Ronald Torreyes,INF,04/19/21,COVID-19 (undisclosed)
+1678,José Alvarado,RP,04/19/21,COVID-19 (undisclosed)
+1679,John Nogowski,1B/OF,04/19/21,Bone bruise on hand (left)
+1680,Juan Soto,OF,04/19/21,Strained shoulder
+1681,Anthony Santander,OF,04/20/21,Sprained ankle
+1682,Joc Pederson,OF,04/20/21,Wrist tendinitis
+1683,Taylor Jones,INF/OF,04/20/21,COVID-19 (undisclosed)
+1684,Zach McKinstry,INF/OF,04/20/21,Strained oblique
+1685,Jorge Alfaro,C,04/20/21,Strained hamstring
+1686,Brian Anderson,3B,04/20/21,Strained oblique
+1687,Miguel Sanó,1B,04/20/21,Strained hamstring
+1688,Jean Segura,INF,04/20/21,Strained quad
+1689,Adrian Morejon,SP,04/20/21,Tommy John surgery
+1690,Jarlín García,RP,04/20/21,Strained groin
+1691,Shelby Miller,RP,04/21/21,Strained lower back
+1692,Jace Peterson,INF/OF,04/21/21,Thumb discomfort
+1693,JT Riddle,INF/OF,04/21/21,COVID-19
+1694,Keone Kela,RP,04/21/21,Shoulder tightness
+1695,Dinelson Lamet,SP,04/21/21,Forearm tightness
+1696,Donovan Solano,INF,04/21/21,Strained calf
+1697,Taylor Widener,SP,04/22/21,Strained groin
+1698,Greg Holland,RP,04/23/21,COVID-19 (undisclosed)
+1699,Corey Knebel,RP,04/23/21,Strained lat
+1700,Josh Lindblom,RP/SP,04/23/21,Knee effusion
+1701,Brett Anderson,SP,04/23/21,Strained hamstring
+1702,Ka'ai Tom,OF,04/23/21,COVID-19 (protocol)
+1703,Yadier Molina,C,04/23/21,Strained foot
+1704,Chris Mazza,RP,04/23/21,Shoulder inflammation
+1705,Diego Castillo,RP,04/23/21,COVID-19 (vaccination)
+1706,Jake Odorizzi,SP,04/24/21,Strained forearm
+1707,Dennis Santana,RP,04/24/21,COVID-19 (vaccination)
+1708,Austin Romine,C,04/25/21,Sprained wrist
+1709,Garrett Crochet,RP,04/25/21,Strained upper back
+1710,David Price,RP,04/25/21,Strained hamstring
+1711,Daniel Robertson,INF/OF,04/25/21,Concussion
+1712,Luis Guillorme,INF,04/25/21,Strained oblique
+1713,Mike Yastrzemski,OF,04/25/21,Strained oblique
+1714,Tommy Milone,RP,04/25/21,Shoulder inflammation
+1715,Hyun Jin Ryu,SP,04/25/21,Strained glute
+1716,Brusdar Graterol,RP,04/26/21,Forearm tightness
+1717,Manny Piña,C,04/26/21,Fractured toe
+1718,Luis Robert Jr.,OF,04/27/21,COVID-19 (symptoms)
+1719,Victor González,RP,04/27/21,COVID-19 (vaccination)
+1720,Mitch White,RP,04/27/21,COVID-19 (vaccination)
+1721,Jazz Chisholm Jr.,2B,04/27/21,Strained hamstring
+1722,Marco Gonzales,SP,04/27/21,Strained forearm
+1723,Anthony Castro,RP,04/27/21,Strained forearm
+1724,Yency Almonte,RP,04/28/21,Hand contusion
+1725,Yordan Alvarez,DH,04/28/21,COVID-19 (undisclosed)
+1726,Kyle Zimmer,RP,04/28/21,Strained back (trapezius)
+1727,Tony Watson,RP,04/28/21,Strained calf
+1728,Zack Godley,SP,04/28/21,Finger contusion
+1729,Daniel Ponce de Leon,RP,04/28/21,Shoulder inflammation
+1730,Ronald Guzmán,1B,04/28/21,Knee surgery (torn meniscus)
+1731,Sam Huff,C,04/28/21,Arthroscopic knee surgery
+1732,Luis Avilán,RP,04/28/21,Tommy John surgery
+1733,Guillermo Heredia,OF,04/29/21,Strained hamstring
+1734,Trevor Megill,RP,04/29/21,Strained forearm
+1735,Carlos Estévez,RP,04/29/21,Strained finger
+1736,Antonio Senzatela,SP,04/29/21,Strained groin
+1737,Eric Yardley,RP,04/29/21,Strained shoulder
+1738,Corbin Burnes,SP,04/29/21,COVID-19
+1739,Darren O'Day,RP,04/29/21,Strained rotator cuff
+1740,Andrew Miller,RP,04/29/21,Blister on toe
+1741,Yoshi Tsutsugo,INF/OF,04/29/21,COVID-19 (vaccination)
+1742,Kole Calhoun,OF,04/30/21,Hamstring surgery
+1743,Jake Arrieta,SP,04/30/21,Thumb abrasion (right)
+1744,Jonathan India,2B,04/30/21,COVID-19 (undisclosed)
+1745,Omar Narváez,C,04/30/21,Strained hamstring
+1746,Didi Gregorius,SS,04/30/21,COVID-19 (undisclosed)
+1747,Chris Paddack,SP,04/30/21,COVID-19
+1748,Casey Sadler,RP,04/30/21,Shoulder inflammation
+1749,Adam Wainwright,SP,04/30/21,COVID-19 (protocol)
+1750,Rich Hill,SP,04/30/21,COVID-19 (vaccination)
+1751,Alex Jackson,C,05/01/21,Strained hamstring
+1752,Derek Holland,RP,05/01/21,Strained shoulder
+1753,Franklin Barreto,INF,05/01/21,Tommy John surgery
+1754,Scott Alexander,RP,05/01/21,Shoulder inflammation
+1755,J.D. Davis,3B,05/01/21,Sprained finger (left middle)
+1756,Aaron Hicks,OF,May '21,Wrist surgery
+1757,J.B. Wendelken,RP,05/01/21,Strained oblique
+1758,Jesús Luzardo,SP,05/01/21,Fractured hand (left)
+1759,Roman Quinn,OF,05/01/21,COVID-19 (undisclosed)
+1760,Jordan Hicks,RP,05/01/21,Elbow inflammation
+1761,Alejandro Kirk,C,05/01/21,Strained hip flexor
+1762,Dan Winkler,RP,05/02/21,Triceps tendinitis
+1763,Nico Hoerner,INF,05/02/21,Strained forearm
+1764,Ian Happ,OF,05/02/21,Rib contusion
+1765,Luis Robert Jr.,OF,05/02/21,Torn hip flexor
+1766,Cam Gallagher,C,05/02/21,Concussion
+1767,Brandon Nimmo,OF,05/02/21,Bone bruise (finger)
+1768,Tommy La Stella,INF,05/02/21,Strained hamstring
+1769,Michael Wacha,SP,05/02/21,Strained hamstring
+1770,Brock Holt,INF/OF,05/02/21,Strained hamstring
+1771,George Springer,OF,05/02/21,Strained quad
+1772,Anthony Rendon,3B,05/03/21,Knee contusion
+1773,Mike Mayers,RP,05/03/21,COVID-19 (protocol)
+1774,Christian Yelich,OF,05/03/21,Strained lower back
+1775,Luis Arraez,INF/OF,05/03/21,Concussion
+1776,Alex Kirilloff,OF/1B,05/03/21,Sprained wrist
+1777,Diego Castillo,RP,05/03/21,Strained groin
+1778,Merrill Kelly,SP,05/04/21,COVID-19 (undisclosed)
+1779,Travis d'Arnaud,C,05/04/21,Thumb surgery
+1780,Alex Cobb,SP,05/04/21,Blister on finger (right middle)
+1781,Max Stassi,C,05/04/21,Concussion
+1782,Edwin Ríos,INF/OF,05/04/21,Partially torn labrum (shoulder)
+1783,Mark Mathias,INF,05/04/21,Shoulder surgery
+1784,Rougned Odor,2B,05/04/21,Sprained knee
+1785,Aramis Garcia,C,05/04/21,Viral enteritis
+1786,Matt Joyce,OF,05/04/21,Strained calf
+1787,Roman Quinn,OF,05/04/21,Finger laceration (right index)
+1788,Gregory Polanco,OF,05/04/21,COVID-19 (undisclosed)
+1789,Jorge Oña,OF,05/04/21,Arthroscopic elbow surgery
+1790,Keynan Middleton,SP,05/04/21,Strained biceps
+1791,Kevin Gausman,SP,05/04/21,COVID-19 (vaccination)
+1792,Aaron Sanchez,SP,05/04/21,Biceps tightness
+1793,Joey Votto,1B,05/05/21,Fractured thumb
+1794,C.J. Cron,1B,05/05/21,Strained lower back
+1795,Chris Rodriguez,RP,05/05/21,Shoulder discomfort
+1796,Alex Dickerson,OF,05/05/21,Shoulder impingement
+1797,Francisco Mejía,C,05/05/21,Strained oblique
+1798,Joe Panik,INF,05/05/21,Strained calf
+1799,Enrique Hernández,INF/OF,05/06/21,Strained hamstring
+1800,Christian Arroyo,INF,05/06/21,Hand contusion
+1801,Roberto Pérez,C,05/06/21,Finger surgery (fractured right ring)
+1802,Wilson Ramos,C,05/06/21,Strained back (lumbar spine)
+1803,Byron Buxton,OF,05/06/21,Strained hip
+1804,Zac Gallen,SP,05/07/21,Sprained elbow
+1805,Dillon Tate,RP,05/07/21,Strained hamstring
+1806,Erasmo Ramírez,RP,05/07/21,Strained pectoral
+1807,Mike Fiers,SP,05/07/21,Sprained elbow
+1808,Ryan Yarbrough,SP,05/07/21,COVID-19
+1809,Rafael Dolis,RP,05/07/21,Strained calf
+1810,Ryan Borucki,RP,05/07/21,Strained forearm flexor
+1811,Grant Dayton,RP,05/08/21,Thigh inflammation
+1812,Colin Moran,1B/3B,05/08/21,Strained groin
+1813,Ljay Newsome,SP/RP,05/08/21,Elbow inflammation
+1814,Carlos Martinez,SP,05/08/21,Ankle discomfort
+1815,Kevin Kiermaier,OF,05/08/21,Sprained wrist
+1816,Jake Marisnick,OF,05/09/21,Strained hamstring
+1817,Jacob deGrom,SP,05/09/21,Side tightness
+1818,Kyle Crick,RP,05/09/21,Strained triceps
+1819,Drew Pomeranz,RP,05/09/21,Shoulder impingement
+1820,Jose Alvarez,RP,05/09/21,Sprained ankle
+1821,Junior Guerra,RP,05/10/21,Strained groin
+1822,Christian Walker,1B,05/11/21,Strained oblique
+1823,Grayson Greiner,C,05/11/21,Strained hamstring
+1825,Albert Almora Jr.,OF,05/11/21,Shoulder contusion
+1826,Eric Hosmer,1B,05/11/21,COVID-19 (protocol)
+1827,Wil Myers,OF,05/11/21,COVID-19 IL
+1828,Jurickson Profar,OF/INF,05/11/21,COVID-19 (protocol)
+1829,Jorge Mateo,OF/INF,05/11/21,COVID-19 (protocol)
+1830,Fernando Tatis Jr.,SS,05/11/21,COVID-19
+1831,Nick Pivetta,SP,05/12/21,COVID-19 (vaccination)
+1832,Matt Adams,1B,05/12/21,Shin contusion
+1833,José Urquidy,SP,05/12/21,Posterior shoulder discomfort
+1834,Danny Duffy,SP,05/12/21,Strained forearm flexor
+1835,Jake Cave,OF,05/12/21,Stress reaction in back
+1836,Devin Smeltzer,RP,05/12/21,Elbow inflammation
+1837,Didi Gregorius,SS,05/12/21,Elbow impingement
+1838,Phillip Evans,INF/OF,05/12/21,Strained hamstring
+1839,Paul DeJong,SS,05/12/21,Non-displaced rib fracture
+1840,Asdrúbal Cabrera,INF,05/13/21,Strained hamstring
+1841,Carson Kelly,C,05/13/21,Fractured toe
+1842,Cristian Pache,OF,05/13/21,Strained hamstring
+1843,Mike Moustakas,INF,05/13/21,Heel contusion
+1844,Giancarlo Stanton,OF,05/13/21,Strained quad
+1845,Gleyber Torres,SS,05/13/21,COVID-19 (undisclosed)
+1846,J.T. Realmuto,C,05/13/21,COVID-19 (undisclosed)
+1847,Ty France,INF,05/13/21,Wrist inflammation
+1848,J.B. Bukauskas,RP,05/14/21,Strained elbow
+1849,Hunter Dozier,INF/OF,05/14/21,Concussion
+1850,AJ Pollock,OF,05/14/21,Strained hamstring
+1851,Mitch Moreland,1B,05/14/21,Rib inflammation
+1852,Garrett Whitlock,RP,05/15/21,COVID-19 (vaccination)
+1853,Alec Mills,RP,05/15/21,Strained lower back
+1854,Ben Bowden,RP,05/15/21,Strained shoulder
+1855,Corey Seager,SS,05/15/21,Fractured right hand (fifth metacarpal)
+1856,Garrett Cleavinger,RP,05/15/21,Elbow inflammation
+1857,J.T. Realmuto,C,05/15/21,Bone bruise on hand (left)
+1858,Luke Weaver,SP,05/16/21,Strained shoulder
+1859,Huascar Ynoa,SP,05/16/21,Fractured hand (right)
+1860,Lewis Brinson,OF,05/16/21,Sprained finger (left middle)
+1861,Michael Conforto,OF,05/16/21,Strained hamstring
+1862,Jeff McNeil,INF/OF,05/16/21,Strained hamstring
+1863,Scott Kingery,INF/OF,05/16/21,Concussion
+1864,Tyler O'Neill,OF,05/16/21,Fractured finger (left middle)
+1866,Mike Trout,OF,05/17/21,Strained calf
+1867,Michael Pineda,SP,05/17/21,Abscess removal procedure (thigh)
+1868,Shaun Anderson,RP,05/17/21,Strained quad
+1869,Taijuan Walker,SP,05/17/21,Side tightness
+1870,Kevin Pillar,OF,05/17/21,Facial fractures
+1871,Logan Webb,SP,05/17/21,Strained shoulder
+1872,Richie Martin,INF/OF,05/18/21,Fractured wrist (left)
+1873,Eduard Bazardo,RP,05/18/21,Strained lat
+1874,Pete Alonso,1B,05/18/21,Sprained hand
+1875,Ka'ai Tom,OF,05/18/21,Wrist contusion (left)
+1876,Dylan Moore,INF/OF,05/18/21,Strained calf
+1877,Wilmer Flores,INF,05/18/21,Strained hamstring
+1878,Tommy Hunter,RP,05/18/21,Lower back discomfort
+1879,Luis Patiño,SP,05/18/21,Finger laceration (right index)
+1880,Jason Heyward,OF,05/19/21,Strained hamstring
+1881,Wade Miley,SP,05/19/21,Sprained foot
+1882,Stephen Tarpley,SP,05/19/21,COVID-19 (undisclosed)
+1883,Sam McWilliams,SP,05/19/21,COVID-19 (undisclosed)
+1884,Ryan LaMarre,OF,05/19/21,Strained hamstring
+1885,Trevor Cahill,SP,05/19/21,Strained calf
+1886,Keone Kela,RP,05/19/21,Tommy John surgery
+1887,Erick Fedde,SP,05/19/21,COVID-19
+1888,Victor Robles,OF,05/19/21,Sprained ankle
+1889,Tanner Rainey,RP,05/19/21,COVID-19 (protocol)
+1890,Justin Steele,RP,05/20/21,Strained hamstring
+1891,Jimmy Nelson,RP,05/20/21,Forearm inflammation
+1892,Matt Moore,RP/SP,05/20/21,Back discomfort
+1893,Tyler Ivey,SP,05/21/21,Elbow discomfort
+1894,Jordan Holloway,RP,05/21/21,Strained groin
+1895,Trent Grisham,OF,05/21/21,Heel contusion
+1896,Drew Steckenrider,RP,05/21/21,COVID-19 (undisclosed)
+1897,Anthony Misiewicz,RP,05/21/21,COVID-19 (undisclosed)
+1898,Robert Dugger,RP,05/21/21,COVID-19 (undisclosed)
+1899,Will Vest,RP,05/21/21,COVID-19 (undisclosed)
+1900,Kyle Gibson,SP,05/21/21,Strained groin
+1901,Cavan Biggio,INF/OF,05/21/21,Sprained neck
+1902,Anthony Kay,SP/RP,05/21/21,Blister on finger (left)
+1903,Steven Fuentes,SP/RP,05/21/21,Strained shoulder
+1904,Matt Duffy,INF/OF,05/22/21,Strained lower back
+1905,Franmil Reyes,DH,05/22/21,Strained abdominal
+1906,Lance McCullers Jr.,SP,05/22/21,Shoulder soreness
+1907,Kenta Maeda,SP,05/22/21,Strained groin
+1908,Bryce Harper,OF,05/22/21,Forearm contusion
+1909,Miles Mikolas,SP,05/22/21,Forearm tightness
+1910,Taylor Widener,SP,05/23/21,Strained groin
+1911,Austin Hays,OF,05/23/21,Strained hamstring
+1912,Zach Plesac,SP,05/23/21,Non-displaced thumb fracture (right)
+1913,Wilson Ramos,C,05/23/21,Strained back (lumbar spine)
+1914,Michael Brantley,OF,05/23/21,Strained hamstring
+1915,Jason Castro,C,05/23/21,Achilles' tendon discomfort
+1916,Isan Díaz,INF,05/23/21,COVID-19 (undisclosed)
+1917,Luis Arraez,INF/OF,05/23/21,Strained shoulder
+1918,Jordan Yamamoto,SP,05/23/21,Shoulder soreness
+1919,Kendall Graveman,RP,05/23/21,COVID-19 (undisclosed)
+1920,Sam Haggerty,INF/OF,05/23/21,Shoulder inflammation
+1921,Travis Bergen,RP,05/23/21,Shoulder impingement
+1922,Brian Anderson,3B,05/24/21,Shoulder subluxation (left)
+1923,Angel Perdomo,RP,05/24/21,Strained lower back
+1924,Johneshwy Fargas,OF,05/24/21,Sprained shoulder
+1925,Austin Nola,C,05/24/21,Sprained knee
+1926,Harrison Bader,OF,05/24/21,Hairline rib fracture
+1927,Kodi Whitley,RP,05/24/21,Back spasms
+1928,David Phelps,RP,05/24/21,Lat surgery
+1929,Marcell Ozuna,OF,05/25/21,"Fractured fingers (left ring, middle)"
+1930,Nico Hoerner,INF,05/25/21,Strained hamstring
+1931,Jose Iglesias,SS,05/25/21,Strained hamstring
+1932,Corey Kluber,SP,05/25/21,Strained rotator cuff
+1933,Luke Voit,1B,05/25/21,Strained oblique
+1934,Reymin Guduan,RP,05/25/21,Strained groin
+1936,Brandon Belt,1B,05/25/21,Strained oblique
+1937,David Dahl,OF,05/25/21,Rib cage contusion
+1938,Michael Kopech,RP,05/26/21,Strained hamstring
+1939,Jeff Hoffman,SP,05/26/21,Shoulder impingement
+1940,Jordan Luplow,OF,05/26/21,Ankle discomfort
+1941,José Ureña,SP,05/26/21,Strained forearm
+1942,Bryan Abreu,RP,05/26/21,Strained calf
+1943,Josh Staumont,RP,05/26/21,Sprained knee
+1944,Nick Neidert,SP,05/26/21,Biceps inflammation
+1945,Darin Ruf,1B/OF,05/26/21,Strained hamstring
+1946,Trevor Story,SS,05/27/21,Elbow inflammation
+1947,Miguel Rojas,SS,05/27/21,Finger dislocation (left index)
+1948,Ramón Laureano,OF,05/27/21,Strained hip
+1949,Kohei Arihara,SP,05/27/21,Shoulder surgery (aneurysm)
+1950,Nick Senzel,INF/OF,05/28/21,Arthroscopic knee sugery
+1951,Justin Wilson,RP,05/28/21,Strained hamstring
+1952,Erik Swanson,RP,05/28/21,Strained groin
+1953,Caleb Baragar,RP,05/28/21,Elbow inflammation
+1954,David Bote,INF/OF,05/29/21,Shoulder dislocation (left)
+1955,Max Kepler,OF,05/29/21,Strained hamstring
+1956,Cody Stashak,RP,05/29/21,Back discomfort
+1957,Roman Quinn,OF,05/29/21,Ruptured Achilles' tendon
+1958,Justin Dunn,SP,05/29/21,Shoulder inflammation
+1959,Logan Webb,SP,05/29/21,Strained shoulder
+1960,Trevor Williams,SP,05/30/21,Appendicitis
+1961,Michael Fulmer,RP,05/30/21,Strained shoulder
+1962,Jose Quintana,SP,05/30/21,Shoulder inflammation
+1963,Curt Casali,C,05/30/21,Strained wrist
+1964,Max Schrock,INF,05/31/21,Strained calf
+1965,Adalberto Mondesi,SS,05/31/21,Strained hamstring
+1966,Lorenzo Cain,OF,05/31/21,Strained hamstring
+1967,Rob Refsnyder,OF/INF,05/31/21,Concussion
+1968,Jack Flaherty,SP,05/31/21,Strained oblique
+1969,Michael Feliz,RP,06/01/21,Undisclosed
+1970,Victor Reyes,OF,06/01/21,Strained intercostal
+1971,Mitch Garver,C,06/01/21,Groin surgery
+1972,Mike Yastrzemski,OF,06/01/21,Sprained thumb
+1973,Madison Bumgarner,SP,06/02/21,Shoulder inflammation
+1974,Chris Devenski,RP,06/02/21,Tommy John surgery
+1975,Caleb Thielbar,RP,06/02/21,Strained groin
+1976,Justin Williams,OF,06/02/21,Neck discomfort
+1977,Ji Man Choi,1B,06/02/21,Strained groin
+1978,Cody Reed,RP,06/02/21,Thoracic outlet syndrome surgery
+1979,A.J. Cole,RP,06/02/21,Neck discomfort
+1980,Seth Frankoff,SP/RP,06/03/21,Forearm discomfort
+1981,Andrew Vaughn,OF/1B,06/03/21,COVID-19 (undisclosed)
+1982,Jordan Sheffield,RP,06/03/21,Strained lat
+1984,Elieser Hernández,SP,06/03/21,Strained quad
+1985,Kolten Wong,2B,06/03/21,Strained oblique
+1986,JT Brubaker,SP,06/03/21,COVID-19 (protocol)
+1987,Grant Dayton,RP,06/04/21,Shoulder inflammation
+1988,Alex Blandino,INF,06/04/21,Fractured hand (right)
+1989,Jon Gray,SP,06/04/21,Strained flexor
+1990,Cody Poteet,SP,06/04/21,Sprained knee
+1991,Shaun Anderson,RP,06/04/21,Blisters
+1992,Kwang Hyun Kim,SP,06/04/21,Back tightness
+1993,Ian Kennedy,RP,06/04/21,Strained hamstring
+1994,Will Harris,RP,06/04/21,Thoracic outlet syndrome surgery
+1995,John Means,SP,06/05/21,Strained shoulder
+1996,Billy Hamilton,OF,06/05/21,Strained oblique
+1997,Joe Smith,RP,06/05/21,Elbow discomfort
+1998,Aledmys Díaz,INF/OF,06/05/21,Fractured hand (left)
+1999,Yoshi Tsutsugo,INF/OF,06/05/21,Strained calf
+2000,Evan Longoria,3B,06/05/21,Sprained shoulder
+2001,Michael Feliz,RP,06/06/21,Elbow discomfort
+2002,Tejay Antone,RP,06/06/21,Forearm inflammation
+2003,Brandon Kintzler,RP,06/06/21,Strained neck
+2004,Chase Anderson,RP,06/06/21,COVID-19 (undisclosed)
+2005,David Hale,RP,06/06/21,COVID-19 (undisclosed)
+2006,Mitch Keller,SP,06/06/21,COVID-19 (undisclosed)
+2007,Luis Oviedo,RP,06/06/21,Strained quad
+2008,Danny Jansen,C,06/06/21,Strained hamstring
+2009,Austin Voth,RP/SP,06/06/21,Fractured nose
+2010,Adbert Alzolay,SP,06/07/21,Blister on finger (right middle)
+2011,Daniel Castano,RP,06/07/21,Shoulder impingement
+2012,Garrett Cooper,1B/OF,06/07/21,Strained back
+2013,Sonny Gray,SP,06/08/21,Strained groin
+2014,Matt Adams,1B,06/08/21,Elbow discomfort
+2015,Kyle Garlick,OF,06/08/21,Sports hernia
+2016,Alex Dickerson,OF,06/08/21,Strained upper back
+2017,Max Moroff,INF,06/08/21,Shoulder surgery (subluxation)
+2018,Derek Holland,RP,06/09/21,Shoulder inflammation
+2019,Derek Hill,OF,06/09/21,Sprained shoulder
+2020,Travis Shaw,3B,06/09/21,Shoulder dislocation (left)
+2021,Daniel Hudson,RP,06/09/21,Elbow inflammation
+2022,Rony García,RP,06/10/21,Sprained knee
+2023,Enoli Paredes,RP,06/10/21,Strained shoulder
+2024,Chase Anderson,RP,06/10/21,COVID-19 (undisclosed)
+2025,Max Muncy,INF,06/11/21,Strained oblique
+2026,Cody Bellinger,OF/1B,06/11/21,Strained hamstring
+2027,Tyrone Taylor,OF,06/11/21,Strained shoulder
+2029,Max Scherzer,SP,06/11/21,Groin inflammation
+2030,Jeimer Candelario,3B,06/12/21,COVID-19 (protocol)
+2031,Ronald Bolaños,RP,06/12/21,Strained flexor
+2032,Trevor Rogers,SP,06/12/21,Undisclosed
+2033,Jon Duplantier,SP,06/13/21,Strained finger (right middle)
+2034,Bruce Zimmermann,SP,06/13/21,Biceps tendinitis
+2035,Shane Bieber,SP,06/13/21,Strained shoulder
+2036,Andrew Benintendi,OF,06/13/21,Fractured rib
+2037,José Devers,INF,06/13/21,Shoulder discomfort
+2038,Michael Pineda,SP,06/13/21,Elbow inflammation
+2039,Rob Refsnyder,OF/INF,06/13/21,Strained hamstring
+2040,Steven Matz,SP,06/13/21,COVID-19
+2041,Corey Dickerson,OF,06/13/21,Foot contusion
+2042,Taylor Clarke,RP,06/14/21,Strained teres major
+2043,Dillon Maples,RP,06/14/21,Strained triceps
+2044,Adam Eaton,OF,06/14/21,Strained hamstring
+2045,Matthew Boyd,SP,06/14/21,Elbow discomfort
+2046,Alex Lange,RP,06/14/21,Strained shoulder
+2047,Tucker Davidson,SP,06/15/21,Forearm inflammation
+2048,Nick Madrigal,2B,06/15/21,Hamstring surgery
+2049,Austin Hedges,C,06/15/21,Concussion
+2050,Mychal Givens,RP,06/15/21,Strained lower back
+2051,Stephen Piscotty,OF,06/15/21,Sprained wrist
+2052,José Soriano,SP/RP,06/15/21,Tommy John surgery (revision)
+2053,Carl Edwards Jr.,RP,06/15/21,Strained oblique
+2054,Alex Bregman,3B,06/16/21,Strained quad
+2055,Kyle Tucker,OF,06/16/21,COVID-19 (protocol)
+2056,Cam Gallagher,C,06/16/21,Shoulder impingement
+2057,Collin McHugh,RP,06/16/21,Undisclosed
+2058,Rafael Dolis,RP,06/16/21,Strained finger (right middle)
+2059,Andrew Stevenson,OF,06/16/21,Strained oblique
+2060,Pierce Johnson,RP,06/17/21,Triceps inflammation
+2062,Max Fried,SP,06/18/21,Blister on finger (left index)
+2063,Robert Stephenson,RP,06/18/21,Back tightness
+2064,Niko Goodrum,INF/OF,06/18/21,Sprained finger (left index)
+2065,Wandy Peralta,RP,06/18/21,Back discomfort
+2066,Matt Joyce,OF,06/18/21,Strained lower back
+2067,Andrew Knapp,C,06/18/21,Concussion
+2068,Sam Howard,RP,06/18/21,Knee tendinitis
+2069,Carson Kelly,C,06/19/21,Fractured wrist (right)
+2070,Adam Engel,OF,06/19/21,Strained hamstring
+2071,Austin Gomber,SP,06/19/21,Forearm tightness
+2072,Randy Dobnak,SP,06/19/21,Strained finger (right middle)
+2073,Robert Gsellman,RP,06/19/21,Torn lat
+2074,César Valdez,RP,06/20/21,Strained lower back
+2075,Kevin Plawecki,C,06/20/21,Strained hamstring
+2076,Christian Arroyo,INF,06/20/21,Knee contusion
+2077,Adalberto Mondesi,SS,06/20/21,Strained oblique
+2078,Jeurys Familia,RP,06/20/21,Hip impingement
+2079,Kyle Finnegan,RP,06/20/21,Strained hamstring
+2080,Aaron Civale,SP,06/21/21,Sprained finger (right middle)
+2081,Brett Anderson,SP,06/21/21,Knee contusion
+2082,Byron Buxton,OF,06/21/21,Fractured hand (left)
+2083,Jonathan Villar,INF/OF,06/21/21,Strained calf
+2084,Tomás Nido,C,06/21/21,Wrist contusion
+2085,Lucas Sims,RP,06/22/21,Sprained elbow
+2086,Justin Upton,OF,06/22/21,Strained lower back
+2087,Daniel Vogelbach,1B,06/22/21,Strained hamstring
+2088,Luke Farrell,RP,06/22/21,Strained oblique
+2089,Daniel Ponce de Leon,RP,06/22/21,Shoulder discomfort
+2090,Taylor Walls,SS,06/22/21,Wrist tendinitis
+2091,Sam Coonrod,RP,06/23/21,Forearm tendinitis
+2092,Brandon Belt,1B,06/23/21,Knee inflammation
+2093,Erick Fedde,SP,06/23/21,Strained oblique
+2094,Tejay Antone,RP,06/24/21,Strained forearm
+2095,Cody Poteet,SP,06/24/21,Sprained knee
+2097,Mark Canha,OF,06/24/21,Strained hip
+2098,Zack Britton,RP,06/25/21,Strained hamstring
+2099,Josh Fleming,SP,06/25/21,Strained calf
+2100,Ketel Marte,OF/INF,06/26/21,Strained hamstring
+2101,Michael Fulmer,RP,06/26/21,Strained cervical spine
+2102,Wade Davis,RP,06/26/21,Strained forearm
+2103,Freddy Galvis,SS,06/26/21,Strained quad
+2104,Dinelson Lamet,SP,06/26/21,Forearm inflammation
+2105,Jose Trevino,C,06/26/21,Forearm contusion
+2106,Jake Lamb,INF/OF,06/27/21,Strained quad
+2107,Aaron Bummer,RP,06/27/21,Strained hamstring
+2108,Ryan Thompson,RP,06/27/21,Shoulder inflammation
+2109,Tanner Rainey,RP,06/27/21,Stress reaction to tibia
+2110,Hunter Harvey,RP,06/28/21,Strained lat
+2111,Ryan Tepera,RP,06/28/21,Strained calf
+2112,Colin Moran,1B/3B,06/28/21,Fractured wrist (left)
+2113,Hunter Wood,RP,06/28/21,Elbow surgery
+2114,Jose Lobaton,C,06/29/21,Sprained shoulder
+2115,Evan Marshall,RP,06/29/21,Strained flexor
+2116,José Urquidy,SP,06/29/21,Shoulder discomfort
+2117,Emmanuel Rivera,3B,06/29/21,Fractured hamate (left)
+2118,Blake Snell,SP,06/29/21,Illness
+2119,Dan Altavilla,RP,06/29/21,Tommy John surgery
+2120,Mike Tauchman,OF,06/29/21,Sprained knee
+2121,Willie Calhoun,OF,06/29/21,Forearm surgery
+2122,Maikel Franco,3B,06/30/21,Sprained ankle
+2123,John Curtiss,RP,06/30/21,Neck tightness
+2124,Sean Reid-Foley,RP,06/30/21,Elbow inflammation
+2125,Clint Frazier,OF,06/30/21,TBD
+2126,Chaz Roe,RP,06/30/21,Shoulder surgery
+2127,Jordy Mercer,INF,06/30/21,Strained quad
+2128,P.J. Higgins,C/INF,Jul '21,Flexor tendon surgery
+2129,Kolten Wong,2B,07/01/21,Strained calf
+2130,Dellin Betances,RP,07/01/21,Shoulder surgery
+2131,Thomas Szapucki,SP,Jul' 21,Ulnar nerve transposition surgery
+2132,Trevor Rosenthal,RP,Jul '21,Hip surgery (torn labrum)
+2133,Erik González,INF/OF,07/01/21,Strained oblique
+2134,Ka'ai Tom,OF,07/01/21,Strained lower back
+2135,Blake Snell,SP,Jul '21,Gastroenteritis
+2136,Evan White,1B,Jul '21,Hip surgery (torn labrum)
+2137,Nick Margevicius,SP,Jul '21,Thoracic outlet syndrome surgery
+2138,Tyler Chatwood,RP,07/01/21,Strained neck
+2139,Zac Gallen,SP,07/02/21,Strained hamstring
+2140,Kyle Schwarber,OF,07/02/21,Strained hamstring
+2141,Josh Naylor,OF/1B,07/02/21,Ankle surgery
+2142,Alex Avila,C,07/02/21,Strained calf
+2143,Clayton Kershaw,SP,07/03/21,Forearm inflammation
+2144,Michael King,RP,07/03/21,Finger contusion (right middle)
+2145,Mitch Moreland,1B,07/03/21,Undisclosed
+2146,Sam Long,SP,07/03/21,Strained lower back
+2147,Corey Oswalt,RP/SP,07/04/21,Knee inflammation
+2148,Buster Posey,C,07/04/21,Thumb contusion (left)
+2149,Joe Ross,SP,07/04/21,Elbow inflammation
+2150,Eddie Rosario,OF,07/05/21,Strained abdominal
+2151,Eric Sogard,INF,07/05/21,Thumb contusion
+2152,Kohl Stewart,RP,07/05/21,Elbow inflammation
+2153,Yasmani Grandal,C,07/05/21,Torn knee tendon
+2154,Daz Cameron,OF,07/05/21,Sprained toe
+2155,Victor González,RP,07/05/21,Plantar fascitis
+2156,Gregory Polanco,OF,07/05/21,Strained hip
+2157,Phillip Evans,INF/OF,07/05/21,Concussion
+2158,Jaylin Davis,OF,07/05/21,Strained hamstring
+2159,Manuel Margot,OF,07/05/21,Strained hamstring
+2160,Travis Lakins Sr.,RP,07/06/21,Elbow surgery (stress fracture)
+2161,Danny Santana,OF/1B,07/06/21,Strained quad
+2162,Jake Arrieta,SP,07/06/21,Strained hamstring
+2163,Jimmy Nelson,RP,07/06/21,Strained lumbar
+2164,Miguel Andujar,INF/OF,07/06/21,Strained wrist
+2165,Drew Pomeranz,RP,07/06/21,Forearm inflammation
+2166,Justus Sheffield,SP,07/06/21,Strained forearm
+2167,John King,RP,07/06/21,Shoulder inflammation
+2168,Sonny Gray,SP,07/07/21,Strained rib cage
+2169,Chad Pinder,INF/OF,07/07/21,Strained hamstring
+2170,Duane Underwood Jr.,RP,07/07/21,Side discomfort
+2171,Nick Ramirez,RP,07/07/21,Shoulder inflammation
+2172,Mike Brosseau,INF/OF,07/07/21,Strained oblique
+2173,Brooks Raley,RP,07/08/21,COVID-19 (protocol)
+2174,Odúbel Herrera,OF,07/08/21,Ankle tendinitis
+2175,Yu Darvish,SP,07/08/21,Hip inflammation
+2176,Asdrúbal Cabrera,INF,07/09/21,Strained hamstring
+2177,Matt Andriese,RP,07/09/21,Hamstring tendinitis
+2178,Carlos Correa,SS,07/09/21,COVID-19 (protocol)
+2179,Edwin Uceta,RP,07/09/21,Strained lumbar
+2180,Sam Howard,RP,07/09/21,Strained oblique
+2181,Anthony Castro,RP,07/09/21,Ulnar nerve irritation
+2182,Yan Gomes,C,07/09/21,Strained oblique
+2183,Derek Law,RP,07/10/21,Shoulder impingement
+2184,Jonathan Loáisiga,RP,07/10/21,COVID-19
+2185,Connor Brogdon,RP,07/10/21,COVID-19 (undisclosed)
+2186,Bailey Falter,RP,07/10/21,COVID-19 (undisclosed)
+2187,Alec Bohm,3B,07/10/21,COVID-19
+2188,Kyle McGowin,RP,07/10/21,Biceps tendinitis
+2189,Ian Anderson,SP,07/11/21,Shoulder inflammation
+2190,Marwin Gonzalez,INF/OF,07/11/21,Strained hamstring
+2191,Art Warren,RP,07/11/21,Strained oblique
+2192,Pablo López,SP,07/11/21,Strained rotator cuff
+2193,Devin Williams,RP,07/11/21,Elbow discomfort
+2194,Luke Voit,1B,07/11/21,Knee inflammation
+2195,Aaron Nola,SP,07/11/21,COVID-19 (undisclosed)
+2196,Ryan Weathers,SP,07/11/21,Fractured ankle
+2197,Yusei Kikuchi,SP,07/11/21,COVID-19 (protocol)
+2198,Wandy Peralta,RP,07/15/21,COVID-19 (undisclosed)
+2199,Nestor Cortes,SP/RP,07/15/21,COVID-19 (undisclosed)
+2200,Jhoulys Chacín,RP,07/16/21,COVID-19 (protocol)
+2201,Yonathan Daza,OF,07/16/21,COVID-19 (protocol)
+2202,Yency Almonte,RP,07/16/21,COVID-19 (protocol)
+2203,Antonio Senzatela,SP,07/16/21,COVID-19 (protocol)
+2204,Andre Scrubb,RP,07/16/21,Strained shoulder
+2205,Danny Duffy,SP,07/16/21,Strained flexor
+2206,Jesús Sánchez,OF,07/16/21,COVID-19 (protocol)
+2207,Francisco Lindor,SS,07/16/21,Strained oblique
+2208,Kyle Higashioka,INF,07/16/21,COVID-19 (undisclosed)
+2209,Gio Urshela,INF,07/16/21,COVID-19 (undisclosed)
+2210,Aaron Judge,OF,07/16/21,COVID-19 (undisclosed)
+2211,Zach Eflin,SP,07/16/21,Patellar tendinitis
+2212,Jake Fraley,OF,07/16/21,COVID-19
+2213,Carlos Martinez,SP,07/16/21,Thumb surgery (torn ligament)
+2214,Brandon Waddell,RP,07/16/21,COVID-19 (undisclosed)
+2215,Michael Lorenzen,RP,07/17/21,Strained hamstring
+2216,José Ureña,SP,07/17/21,Strained groin
+2217,Niko Goodrum,INF/OF,07/17/21,Strained calf
+2218,Brady Singer,SP,07/17/21,Shoulder fatigue
+2219,Jacob deGrom,SP,07/17/21,Forearm tightness
+2220,Christian Arroyo,INF,07/18/21,Strained hamstring
+2221,Gavin Lux,INF,07/18/21,Strained hamstring
+2222,Garrett Cooper,1B/OF,07/18/21,Partially torn elbow ligament
+2223,Jazz Chisholm Jr.,2B,07/18/21,Shoulder contusion
+2224,Trey Amburgey,OF,07/18/21,Strained hamstring
+2225,Brandon Crawford,SS,07/18/21,Strained oblique
+2226,Luis González,OF,07/18/21,Torn labrum (shoulder)
+2227,Alek Manoah,SP,07/18/21,Back contusion
+2228,Ender Inciarte,OF,07/19/21,Undisclosed
+2229,Tyler Wells,RP,07/19/21,Wrist tendinitis
+2230,Hirokazu Sawamura,RP,07/19/21,Triceps inflammation
+2231,Nick Castellanos,OF,07/19/21,Fractured wrist (microfracture)
+2232,Isaac Paredes,INF,07/19/21,Strained hip
+2233,Scott Alexander,RP,07/19/21,Shoulder inflammation
+2234,Mookie Betts,OF,07/19/21,Hip inflammation
+2235,José Peraza,INF/OF,07/19/21,Fractured finger (right middle)
+2236,Trevor Rogers,SP,07/20/21,Lower back spasm
+2237,Luis Arraez,INF/OF,07/20/21,Strained knee
+2238,Robert Stock,SP,07/20/21,Strained hamstring
+2239,Stephen Nogosek,RP,07/20/21,Shoulder inflammation
+2240,Bailey Falter,RP,07/20/21,COVID-19 (undisclosed)
+2241,JD Hammer,RP,07/20/21,COVID-19 (undisclosed)
+2242,J.P. Feyereisen,RP,07/20/21,Shoulder discomfort
+2243,Jordy Mercer,INF,07/20/21,Strained calf
+2244,Josh Rojas,INF/OF,07/21/21,Dislocated finger (left pinkie)
+2246,Anthony Santander,OF,07/21/21,COVID-19 protocol
+2247,Keegan Akin,SP,07/21/21,COVID-19 protocol
+2248,Danny Santana,OF/1B,07/21/21,Strained groin
+2249,Darren O'Day,RP,07/21/21,Hamstring surgery
+2250,Tim Locastro,OF,07/21/21,Knee surgery (torn ACL)
+2251,Collin McHugh,RP,07/21/21,Arm fatigue
+2252,Danny Jansen,C,07/21/21,Strained hamstring
+2253,Jon Berti,INF/OF,07/22/21,Concussion
+2254,R.J. Alaniz,RP,07/23/21,Strained calf
+2255,Chris Owings,INF/OF,07/23/21,Thumb surgery
+2256,Jimmie Sherfy,RP,07/23/21,Elbow inflammation
+2257,Alex Kirilloff,OF/1B,07/23/21,Wrist surgery
+2258,Trevor Cahill,SP,07/23/21,Fractured foot
+2259,Chris Gittens,1B,07/24/21,Sprained ankle
+2260,Adam Haseley,OF,07/24/21,COVID-19 (undisclosed)
+2261,Travis Jankowski,OF,07/25/21,COVID-19 (undisclosed)
+2262,Alex Cobb,SP,07/26/21,Wrist inflammation
+2263,Jared Walsh,1B,07/26/21,Strained intercostal
+2264,Taylor Rogers,RP,07/26/21,Sprained finger (left middle)
+2265,Trea Turner,SS,07/27/21,COVID-19
+2266,Christian Yelich,OF,07/27/21,COVID-19
+2267,Jace Peterson,INF/OF,07/27/21,COVID-19 (protocol)
+2268,David Peterson,SP,07/27/21,Foot surgery
+2269,Yoendrys Gómez,SP,07/27/21,COVID-19
+2270,James Kaprielian,SP,07/27/21,Shoulder impingement
+2271,Chase De Jong,SP,07/27/21,Knee surgery
+2272,Chris Paddack,SP,07/27/21,Strained oblique
+2273,Dillon Maples,RP,07/28/21,Blister
+2274,Nico Hoerner,INF,07/28/21,Strained oblique
+2275,Chi Chi González,SP,07/28/21,COVID-19 (protocol)
+2276,Shed Long Jr.,INF/OF,07/28/21,Stress reaction (shin)
+2277,Pete Fairbanks,RP,07/28/21,Shoulder inflammation
+2279,Darwinzon Hernández,RP,07/29/21,Strained oblique
+2281,Connor Brogdon,RP,07/29/21,Elbow tendinitis
+2282,Daniel Hudson,RP,07/29/21,COVID-19 (protocol)
+2283,Alex Avila,C,07/29/21,COVID-19 (protocol)
+2284,Austin Voth,RP/SP,07/29/21,COVID-19
+2285,Joe Mantiply,RP,07/30/21,COVID-19 (protocol)
+2286,Noé Ramirez,RP,07/30/21,COVID-19
+2287,Riley Smith,RP,07/30/21,COVID-19 (protocol)
+2288,Stuart Fairchild,OF,07/30/21,COVID-19
+2289,Pavin Smith,OF/1B,07/30/21,COVID-19 (protocol)
+2290,Billy Hamilton,OF,07/30/21,Strained oblique
+2291,Jimmy Nelson,RP,07/30/21,Elbow inflammation
+2292,Tony Gonsolin,SP,07/30/21,Shoulder inflammation
+2293,Vince Velasquez,SP/RP,07/30/21,Blister (right middle finger)
+2294,Fernando Tatis Jr.,SS,07/30/21,Shoulder inflammation
+2295,Tanner Scott,RP,07/31/21,Knee discomfort
+2296,Edwin Uceta,RP,07/31/21,Strained lumbar
+2297,Hunter Strickland,RP,07/31/21,COVID-19
+2298,Jandel Gustave,RP,07/31/21,COVID-19
+2299,Jake Cousins,RP,07/31/21,COVID-19
+2300,Luis Guillorme,INF,07/31/21,Strained hamstring
+2301,Gio Urshela,3B,07/31/21,Strained hamstring
+2302,Domingo Germán,SP,07/31/21,Shoulder inflammation
+2303,Andrew McCutchen,OF,07/31/21,Knee inflammation
+2304,Jeffrey Springs,RP,07/31/21,Sprained knee
+2305,Anthony Rendon,3B,Aug '21,Hip surgery
+2306,René Rivera,C,08/01/21,Elbow contusion
+2307,Ryan Hartman,SP/RP,08/02/21,COVID-19 (protocol)
+2308,John Axford,RP,08/02/21,Elbow discomfort
+2309,Josh Hader,RP,08/02/21,COVID-19
+2310,Miguel Castro,RP,08/02/21,COVID-19 IL (undisclosed)
+2311,Gerrit Cole,SP,08/02/21,COVID-19
+2312,Chad Kuhl,SP,08/02/21,COVID-19
+2313,Anthony DeSclafani,SP,08/02/21,Shoulder fatigue
+2314,Dane Dunning,SP,08/02/21,Ankle impingement
+2315,Joakim Soria,RP,08/02/21,Finger inflammation (right middle)
+2316,Cavan Biggio,INF/OF,08/02/21,Back tightness
+2317,Matt Barnes,RP,08/03/21,COVID-19 (protocol)
+2318,Jason Heyward,OF,08/03/21,Finger inflammation (left index)
+2319,Roberto Pérez,C,08/03/21,Shoulder inflammation
+2320,Yuli Gurriel,1B,08/03/21,Neck stiffness
+2321,Kyle Zimmer,RP,08/03/21,Neck spasms
+2322,Victor González,RP,08/03/21,Knee inflammation
+2323,Jazz Chisholm Jr.,2B,08/03/21,COVID-19 (protocol)
+2324,Keston Hiura,INF,08/03/21,COVID-19 (protocol)
+2325,Jordan Montgomery,SP,08/03/21,COVID-19
+2326,Anthony Banda,RP/SP,08/03/21,COVID-19 (protocol)
+2327,Eric Lauer,SP,08/04/21,COVID-19
+2328,Chase Anderson,RP,08/04/21,Triceps tendinitis
+2329,Ben Gamel,OF,08/04/21,Strained hamstring
+2331,Ryan Yarbrough,SP,08/04/21,COVID-19 (protocol)
+2332,Aroldis Chapman,RP,08/05/21,Elbow inflammation
+2333,Gary Sánchez,C,08/05/21,COVID-19
+2334,Rhys Hoskins,1B,08/05/21,Strained groin
+2335,Tim Mayza,RP,08/05/21,Elbow inflammation
+2336,Jarren Duran,OF,08/06/21,COVID-19 (protocol)
+2337,Bobby Bradley,1B,08/06/21,Strained knee
+2338,Garrett Cleavinger,RP,08/06/21,Strained oblique
+2339,Jurickson Profar,OF/INF,08/06/21,COVID-19 (protocol)
+2340,Randy Arozarena,OF,08/06/21,COVID-19 (protocol)
+2341,Ryan Mountcastle,1B/OF,08/07/21,Concussion
+2342,J.D. Martinez,DH,08/07/21,COVID-19 (protocol)
+2343,Carlos Rodón,SP,08/07/21,Shoulder fatigue
+2344,Brad Brach,RP,08/07/21,Shoulder impingement
+2345,Cole Hamels,SP,08/07/21,Shoulder discomfort
+2346,Mookie Betts,OF,08/07/21,Hip inflammation
+2347,Darien Núñez,RP,08/07/21,COVID-19 (protocol)
+2348,Adrian Houser,SP,08/07/21,COVID-19
+2349,José Alvarado,RP,08/07/21,Shoulder impingement
+2350,Kwang Hyun Kim,SP,08/07/21,Elbow inflammation
+2351,Raimel Tapia,OF,08/08/21,Sprained toe
+2352,Rafael Montero,RP,08/08/21,Shoulder discomfort
+2353,Jorge Alcala,RP,08/08/21,Triceps tendinitis
+2354,Anthony Rizzo,1B,08/08/21,COVID-19
+2355,Gleyber Torres,SS,08/08/21,Sprained thumb
+2356,Johnny Cueto,SP,08/08/21,Strained flexor
+2357,DJ Johnson,RP,08/08/21,Sprained shoulder
+2358,Jazz Chisholm Jr.,2B,08/09/21,COVID-19 (protocol)
+2359,Tyler Beede,SP/RP,08/09/21,Strained lower back
+2360,Derek Hill,OF,08/10/21,Ribcage contusion
+2361,Akil Baddoo,OF,08/10/21,Concussion
+2362,Joe Kelly,RP,08/10/21,COVID-19 (protocol)
+2363,Zach Pop,RP,08/10/21,Finger discomfort (right middle)
+2364,Angel Perdomo,RP,08/10/21,Strained lower back
+2365,Drew Pomeranz,RP,08/10/21,Torn flexor tendon
+2366,Ross Stripling,SP,08/10/21,Strained oblique
+2367,Joe Ross,SP,08/10/21,Partially torn elbow ligament
+2368,Kole Calhoun,OF,08/11/21,Strained hamstring
+2369,Willson Contreras,C,08/11/21,Sprained knee
+2370,Leury García,INF/OF,08/11/21,Concussion
+2371,Harold Ramírez,OF,08/11/21,Strained hamstring
+2372,Nick Sandlin,RP,08/11/21,Strained shoulder
+2373,Niko Goodrum,INF/OF,08/11/21,Strained groin
+2374,Javier Báez,SS,08/11/21,Back spasms
+2375,Clay Holmes,RP,08/11/21,COVID-19 (undisclosed)
+2376,Johan Quezada,RP,08/11/21,COVID-19 (undisclosed)
+2377,Taylor Widener,SP,08/12/21,COVID-19 (protocol)
+2378,Adam Engel,OF,08/12/21,Shoulder inflammation
+2379,Anthony Alford,OF,08/12/21,Strained lower back
+2380,Yu Darvish,SP,08/12/21,Lower back tightness
+2381,Wade LeBlanc,SP,08/12/21,Elbow discomfort
+2382,Dylan Carlson,OF,08/12/21,Sprained wrist
+2383,Adbert Alzolay,SP,08/13/21,Strained hamstring
+2384,Patrick Sandoval,SP,08/13/21,Lumbar spine stress reaction
+2385,Julio Urías,SP,08/13/21,Calf contusion
+2386,Joe Panik,INF,08/13/21,COVID-19 (protocol)
+2387,Michael Pineda,SP,08/13/21,Strained oblique
+2388,Drew Smith,RP,08/13/21,Shoulder inflammation
+2389,Eric Haase,C/OF,08/14/21,Strained abdominal
+2390,Kyle Tucker,OF,08/14/21,COVID-19
+2391,Greg Holland,RP,08/14/21,Shoulder impingement
+2392,Tomás Nido,C,08/14/21,Sprained thumb
+2393,Bryse Wilson,SP,08/14/21,Arm fatigue
+2394,Jay Jackson,RP,08/14/21,COVID-19 (vaccination)
+2395,Ryan Helsley,RP,08/14/21,Elbow stress reaction
+2396,George Springer,OF,08/14/21,Sprained knee
+2397,Merrill Kelly,SP,08/15/21,COVID-19
+2398,Joe Mantiply,RP,08/15/21,COVID-19 (protocol)
+2399,Josh Taylor,RP,08/15/21,COVID-19 (protocol)
+2400,Jesse Winker,OF,08/15/21,Strained intercostal
+2401,Justin Miller,RP,08/15/21,Ulnar nerve irritation
+2402,Matt Wisler,RP,08/15/21,Finger inflammation (right middle)
+2403,Yonathan Daza,OF,08/16/21,Thumb laceration
+2404,James McCann,C,08/16/21,Back spasms
+2405,Jordan Luplow,OF,08/17/21,Sprained ankle
+2406,Jorge Guzmán,SP,08/18/21,Elbow discomfort
+2407,Freddy Peralta,SP,08/18/21,Shoulder inflammation
+2408,Lewis Thorpe,SP,08/18/21,Shoulder discomfort
+2409,Jake Reed,RP,08/18/21,Forearm inflammation
+2410,Jake Arrieta,SP,08/18/21,Strained hamstring
+2411,Matt Strahm,RP,08/18/21,Knee inflammation
+2412,Evan Longoria,3B,08/18/21,Hand contusion (right)
+2413,Anthony DeSclafani,SP,08/18/21,Ankle inflammation
+2414,Evan Phillips,RP,08/19/21,Strained quad
+2415,Diego Castillo,RP,08/19/21,Shoulder inflammation
+2416,Joe Barlow,RP,08/19/21,Blister (right index finger)
+2417,Chas McCormick,OF,08/20/21,Hand discomfort
+2418,Jake Brentz,RP,08/20/21,Shoulder impingement
+2419,Tyrone Taylor,OF,08/20/21,Strained oblique
+2420,Brandon Waddell,RP,08/20/21,COVID-19 (undisclosed)
+2421,Charlie Culberson,INF/OF,08/20/21,COVID-19 (protocol)
+2422,Triston McKenzie,SP,08/21/21,Shoulder fatigue
+2423,Wily Peralta,SP,08/21/21,Blister on finger
+2424,Pedro Báez,RP,08/21/21,Shoulder discomfort
+2425,José Marte,RP,08/22/21,COVID-19 (protocol)
+2426,Eduardo Escobar,INF,08/22/21,Strained hamstring
+2427,Evan Longoria,3B,08/22/21,COVID-19 (vaccination)
+2428,Nelson Cruz,DH,08/22/21,COVID-19 (protocol)
+2429,Ji Man Choi,1B,08/22/21,Strained hamstring
+2430,Anthony Misiewicz,RP,08/23/21,Strained forearm
+2431,Brock Holt,INF/OF,08/23/21,COVID-19 (protocol)
+2432,Mike Foltynewicz,SP,08/23/21,COVID-19 (protocol)
+2433,Drew Anderson,RP,08/23/21,COVID-19 (protocol)
+2434,Dylan Bundy,SP,08/24/21,Strained shoulder
+2435,Mitch Garver,C,08/24/21,Strained lower back
+2436,Chris Bassitt,SP,08/24/21,Facial surgery
+2437,JT Brubaker,SP,08/24/21,Thumb contusion
+2438,Tyler Chatwood,RP,08/24/21,COVID-19 (protocol)
+2439,Kevin Gausman,SP,08/24/21,COVID-19 (vaccination)
+2440,Jack Flaherty,SP,08/24/21,Strained shoulder
+2441,Jonah Heim,C,08/24/21,COVID-19 (protocol)
+2442,Jason Castro,C,08/25/21,Knee discomfort
+2443,Reid Detmers,SP,08/25/21,COVID-19 (protocol)
+2444,Austin Warren,RP,08/25/21,COVID-19 (protocol)
+2445,Dane Dunning,SP,08/25/21,COVID-19 (protocol)
+2446,Ernie Clement,INF/OF,08/26/21,COVID-19 (protocol)
+2447,Josh Staumont,RP,08/26/21,COVID-19 (undisclosed)
+2448,Brad Keller,SP,08/26/21,Shoulder discomfort
+2449,Mitch Moreland,1B,08/26/21,Wrist tendinitis
+2450,Donovan Solano,INF,08/26/21,COVID-19
+2451,Andrew Miller,RP,08/26/21,Blister on foot
+2452,Enrique Hernández,INF/OF,08/27/21,COVID-19
+2453,Christian Arroyo,INF,08/27/21,COVID-19
+2454,David Bote,INF/OF,08/27/21,Sprained ankle
+2456,Sheldon Neuse,INF/OF,08/27/21,COVID-19 (protocol)
+2457,Luke Raley,OF/1B,08/27/21,COVID-19 (protocol)
+2458,Stephen Piscotty,OF,08/27/21,Wrist surgery
+2459,Seth Brown,1B/OF,08/27/21,COVID-19
+2460,Andrew Knapp,C,08/27/21,COVID-19
+2461,Luke Williams,INF/OF,08/27/21,COVID-19
+2462,Dillon Peters,SP,08/27/21,Strained lower back
+2463,Jake Fraley,OF,08/27/21,Shoulder inflammation
+2464,Spencer Howard,SP,08/27/21,COVID-19 (protocol)
+2465,Josh Tomlin,RP,08/28/21,Strained neck
+2466,Lance Lynn,SP,08/28/21,Knee inflammation
+2467,Tim Anderson,SS,08/28/21,Strained hamstring
+2468,Jon Gray,SP,08/28/21,Forearm tightness
+2469,Manny Piña,C,08/28/21,Strained oblique
+2470,Andy Ibáñez,INF,08/28/21,Strained hamstring
+2471,Santiago Espinal,INF,08/28/21,Strained hip flexor
+2472,Michael Chavis,INF/OF,08/29/21,Strained elbow
+2473,Brett Phillips,OF,08/29/21,Sprained ankle
+2474,Martín Pérez,RP,08/30/21,COVID-19
+2475,Matt Barnes,RP,08/30/21,COVID-19
+2476,Johnny Cueto,SP,08/30/21,COVID-19 (protocol)
+2477,Alex Wood,SP,08/30/21,COVID-19
+2478,Hirokazu Sawamura,RP,08/31/21,COVID-19
+2479,Josh Taylor,RP,08/31/21,COVID-19 (protocol)
+2480,Brad Wieck,RP,08/31/21,Atrial fibrillation surgery
+2481,Lucas Giolito,SP,08/31/21,Strained hamstring
+2482,Austin Gomber,SP,08/31/21,Stress fracture in lower back
+2483,Zack Greinke,SP,08/31/21,COVID-19
+2484,Taylor Jones,INF/OF,08/31/21,COVID-19 (protocol)
+2485,Jakob Junis,SP,08/31/21,Shoulder impingement
+2486,Paul Campbell,RP,08/31/21,COVID-19 (protocol)
+2487,Johnny Cueto,SP,08/31/21,Strained elbow
+2488,Kyle McGowin,RP,08/31/21,Sprained elbow
+2489,Chris Martin,RP,09/01/21,Elbow inflammation
+2490,Keegan Akin,SP,Sept '21,Abdominal surgery
+2491,Xander Bogaerts,SS,09/01/21,COVID-19
+2492,Yairo Muñoz,OF/INF,09/01/21,COVID-19
+2493,Justin Upton,OF,09/01/21,Strained lumbar
+2494,Brett Anderson,SP,09/01/21,Shoulder contusion
+2497,Rhys Hoskins,1B,Sep '21,Abdominal surgery
+2498,Wilmer Flores,INF,09/01/21,Strained hamstring
+2499,Junior Fernández,RP,09/01/21,Torn lat
+2500,Nick Snyder,RP,09/01/21,Shoulder fatigue
+2501,Keegan Thompson,SP,09/02/21,Shoulder inflammation
+2502,Chris Mazza,RP,09/02/21,COVID-19 (protocol)
+2503,Jarren Duran,OF,09/03/21,COVID-19
+2504,Connor Joe,INF/OF,09/03/21,Strained hamstring
+2505,Justin Topa,RP,09/03/21,Elbow discomfort
+2506,Randy Dobnak,SP,09/03/21,Strained finger (right middle)
+2507,Jonathan Loáisiga,RP,09/03/21,Strained shoulder
+2508,Alex Dickerson,OF,09/03/21,Strained hamstring
+2509,Cam Gallagher,C,09/04/21,Knee inflammation
+2510,AJ Pollock,OF,09/04/21,Strained hamstring
+2511,Willy Adames,SS,09/04/21,Strained quad
+2512,Brandon Nimmo,OF,09/04/21,Strained hamstring
+2513,Duane Underwood Jr.,RP,09/04/21,Shoulder inflammation
+2514,JT Brubaker,SP,09/04/21,Shoulder inflammation
+2515,Austin Slater,OF,09/04/21,Concussion
+2516,Gerardo Parra,OF,09/04/21,Knee inflammation
+2517,Danny Santana,OF/1B,09/05/21,COVID-19 (protocol)
+2518,Nick Pivetta,SP,09/05/21,COVID-19
+2519,Jorge López,RP,09/06/21,Sprained ankle
+2520,Joe Jiménez,RP,09/06/21,COVID-19
+2521,Jameson Taillon,SP,09/06/21,Ankle discomfort
+2522,Tyler Clippard,RP,09/07/21,COVID-19 (protocol)
+2523,Michael Hermosillo,OF,09/07/21,Strained forearm
+2524,Chi Chi González,SP,09/07/21,Strained oblique
+2525,David Bednar,RP,09/07/21,Strained oblique
+2526,Matt Harvey,SP,09/08/21,Knee inflammation
+2528,Mike Minor,SP,09/08/21,Shoulder impingement
+2530,Matt Wisler,RP,09/08/21,Finger inflammation (right middle)
+2531,Shane McClanahan,SP,09/08/21,Back tightness
+2532,Eli White,OF/INF,09/08/21,Elbow surgery (UCL internal brace)
+2533,Anthony Kay,SP/RP,09/08/21,COVID-19 (protocol)
+2534,Stephen Vogt,C,09/09/21,Hip inflammation
+2535,Andrew Vaughn,OF/1B,09/09/21,Lower back inflammation
+2536,Billy McKinney,OF,09/09/21,Hip impingement
+2537,Chris Sale,SP,09/10/21,COVID-19
+2538,Jonathan Araúz,INF,09/10/21,COVID-19 (protocol)
+2539,Ryan Tepera,RP,09/10/21,Finger laceration
+2540,Miguel Del Pozo,RP,09/10/21,COVID-19
+2541,Travis Jankowski,OF,09/10/21,Foot contusion
+2542,Zach Eflin,SP,09/10/21,Knee surgery
+2543,Steven Brault,SP,09/10/21,Strained lat
+2544,Wander Franco,SS,09/10/21,Strained hamstring
+2545,Tanner Scott,RP,09/11/21,Sprained knee
+2546,Danny Santana,OF/1B,09/11/21,COVID-19
+2547,Jason Heyward,OF,09/11/21,Concussion
+2548,Tyler Naquin,OF,09/11/21,Bruised ribs
+2549,Michael Brantley,OF,09/11/21,Knee discomfort
+2550,Wade Davis,RP,09/11/21,Shoulder inflammation
+2551,Joel Payamps,RP,09/11/21,COVID-19 (undisclosed)
+2552,Jo Adell,OF,09/11/21,Strained abdominal
+2553,Rowdy Tellez,1B,09/11/21,Strained knee
+2554,Chris Paddack,SP,09/11/21,Elbow inflammation
+2555,Chris Archer,SP,09/11/21,Hip discomfort
+2556,Tyler Gilbert,SP,09/12/21,Elbow inflammation
+2557,Jorge Mateo,INF/OF,09/12/21,Lumbar inflammation
+2558,Phillips Valdez,RP,09/12/21,COVID-19 (protocol)
+2559,José Cisnero,RP,09/12/21,Elbow laceration
+2560,Daulton Jefferies,RP,09/12/21,Elbow ulnar neuritis
+2561,Connor Brogdon,RP,09/12/21,Strained groin
+2562,Luis Oviedo,RP,09/12/21,Strained shoulder
+2563,Blake Snell,SP,09/12/21,Strained groin
+2564,Jake McGee,RP,09/12/21,Strained oblique
+2565,Jake Odorizzi,SP,09/13/21,Foot discomfort
+2566,John Gant,SP,09/13/21,Strained abdominal
+2567,Freudis Nova,INF,09/14/21,Torn ACL
+2568,Brian Anderson,3B,09/14/21,Shoulder surgery
+2569,Sal Romano,RP,09/14/21,Sprained finger (right index)
+2570,Kevin Ginkel,RP,09/15/21,Elbow inflammation
+2571,Wilson Ramos,C,09/15/21,Knee surgery (torn ACL)
+2572,Jorge Alfaro,C,09/15/21,Strained calf
+2573,Manuel Rodríguez,RP,09/16/21,Shoulder inflammation
+2574,Shogo Akiyama,OF,09/16/21,Strained hamstring
+2575,Junior Guerra,RP,09/16/21,Strained hamstring
+2576,Matt Moore,RP/SP,09/16/21,Strained lower back
+2577,Nick Ahmed,SS,09/17/21,Shoulder inflammation
+2578,Jesse Winker,OF,09/17/21,Strained intercostal
+2579,Gregory Soto,RP,09/17/21,Fractured finger (left ring)
+2580,Brady Singer,SP,09/17/21,COVID-19 (protocol)
+2581,Hector Yan,SP,09/17/21,COVID-19 (protocol)
+2582,Cody Bellinger,OF/1B,09/17/21,Fractured rib
+2583,Rob Refsnyder,OF/INF,09/17/21,Elbow impingement
+2584,Andrew Kittredge,RP,09/17/21,Neck tightness
+2585,Hyun Jin Ryu,SP,09/17/21,Neck tightness
+2586,DJ Stewart,OF,09/18/21,Knee osteochondral defect
+2587,Derek Hill,OF,09/18/21,Sprained knee
+2588,Bryse Wilson,SP,09/18/21,Strained hamstring
+2589,Kevin Kiermaier,OF,09/18/21,COVID-19 IL (protocol)
+2590,Garrett Whitlock,RP,09/19/21,Strained pectoral
+2591,Alfonso Rivas III,OF/1B,09/19/21,Finger discomfort (right middle)
+2592,Wade Miley,SP,09/19/21,Strained neck
+2593,Jacob Stallings,C,09/19/21,Concussion
+2594,Darin Ruf,1B/OF,09/19/21,Strained oblique
+2595,Mike Moustakas,3B,09/20/21,Plantar fascitis
+2596,Tyler Stephenson,C,09/20/21,COVID-19 (protocol)
+2597,Amed Rosario,SS,09/20/21,COVID-19 (protocol)
+2598,Dillon Peters,SP,09/20/21,Strained lower back
+2599,Ramón Urías,INF,09/21/21,Strained groin
+2600,Kyle Tyler,RP,09/21/21,Sprained toe
+2601,Austin Nola,C,09/21/21,Strained thumb
+2602,Breyvic Valera,INF/OF,09/21/21,COVID-19 (protocol)
+2603,Josh Taylor,RP,09/22/21,Strained lower back
+2604,Robinson Chirinos,C,09/22/21,Strained oblique
+2605,Seth Beer,1B,09/23/21,Shoulder surgery
+2606,Brian Goodwin,OF,09/23/21,Lower back spasms
+2607,Jake Cousins,RP,09/23/21,Strained biceps
+2608,Jed Lowrie,2B,09/23/21,Sprained hand
+2609,Archie Bradley,RP,09/23/21,Strained oblique
+2610,Thomas Hatch,SP/RP,09/23/21,Hamstring tendonitis
+2611,Tyler Wells,RP,09/24/21,Shoulder inflammation
+2612,Nico Hoerner,SS,09/24/21,Strained oblique
+2613,Zack Greinke,SP,09/24/21,Neck discomfort
+2614,Bailey Ober,SP,09/24/21,Strained hip
+2615,Justin Miller,RP,09/24/21,Strained elbow
+2616,Chris Ellis,SP,09/25/21,Shoulder inflammation
+2617,Victor Reyes,OF,09/25/21,Strained groin
+2618,Jaime Barria,SP,09/25/21,Shoulder impingement
+2619,Elvis Andrus,SS,09/25/21,Fractured fibula
+2620,Joakim Soria,RP,09/25/21,COVID-19 (protocol)
+2621,Anthony Santander,OF,09/26/21,Sprained knee
+2622,Keegan Thompson,SP,09/26/21,Shoulder inflammation
+2623,Devin Williams,RP,09/26/21,Fractured hand (right)
+2626,Connor Overton,SP,09/27/21,Strained shoulder
+2627,Ke'Bryan Hayes,3B,09/27/21,Wrist soreness
+2628,Brandon Belt,1B,09/27/21,Fractured thumb (left)
+2629,Edgar Santana,RP,09/28/21,Strained intercostal
+2630,Brady Singer,SP,09/28/21,Biceps discomfort
+2631,Albert Pujols,1B,09/28/21,COVID-19 (vaccination)
+2632,Jesús Aguilar,1B,09/28/21,Arthroscopic knee surgery
+2633,Tomás Nido,C,09/28/21,Sprained thumb
+2634,Craig Stammen,RP,09/28/21,COVID-19 (protocol)
+2635,Yu Darvish,SP,09/28/21,Hip impingement
+2636,Tony Watson,RP,09/28/21,Strained shoulder
+2637,Adam Conley,RP,09/28/21,COVID-19
+2638,Patrick Wisdom,INF/OF,09/29/21,COVID-19 (protocol)
+2639,Daniel Lynch IV,SP,09/29/21,Hand contusion
+2640,Richard Lovelady,RP,09/29/21,Tommy John surgery
+2641,Luke Voit,1B,09/29/21,Knee inflammation
+2642,Kyle Cody,RP/SP,09/29/21,Shoulder surgery (labral debridement)
+2643,Luis García Jr.,INF,09/29/21,Strained oblique
+2644,Austin Romine,C,09/30/21,COVID-19 (protocol)
+2645,Taylor Ward,INF/OF,09/30/21,Strained groin
+2646,Jesús Sánchez,OF,09/30/21,Strained hamstring
+2647,Edward Cabrera,SP,09/30/21,Blister (right middle finger)
+2648,Sean Guenther,RP,09/30/21,Strained back
+2649,DJ LeMahieu,INF,09/30/21,Sports hernia
+2650,Connor Brogdon,RP,09/30/21,Strained groin
+2651,Tanner Anderson,RP,09/30/21,Foot contusion
+2652,Scott Kazmir,SP,09/30/21,Strained hamstring
+2653,Nick Martini,OF,10/01/21,COVID-19 (protocol)
+2654,David Bote,INF/OF,10/01/21,COVID-19 (protocol)
+2655,Clayton Kershaw,SP,10/01/21,Elbow discomfort
+2656,John Gant,SP,10/01/21,Strained groin
+2657,Vimael Machín,INF,10/01/21,COVID-19 (protocol)
+2658,Josh Rogers,SP,10/01/21,Strained hamstring
+2659,Willson Contreras,C,10/02/21,Hip inflammation
+2660,Tommy Nance,RP,10/02/21,COVID-19 (protocol)
+2661,Joe Smith,RP,10/02/21,COVID-19 (protocol)
+2662,J.D. Davis,3B,10/05/21,Hand surgery (torn ligament)
+2663,Garrett Richards,RP,10/07/21,Strained hamstring
+2664,Jorge Soler,OF,10/12/21,COVID-19
+2666,Silvino Bracho,RP,03/13/19,Tommy John surgery
+2667,Michael Fulmer,SP,03/27/19,Tommy John surgery
+2668,Anderson Espinoza,SP,04/22/19,Tommy John surgery
+2669,Carlos Rodón,SP,05/15/19,Tommy John surgery
+2670,Corbin Martin,SP,07/03/19,Tommy John surgery
+2671,Dustin Pedroia,2B,08/07/19,Knee joint procedure
+2672,Jameson Taillon,SP,08/13/19,Tommy John surgery
+2673,David Robertson,RP,08/15/19,Tommy John surgery
+2674,Reyes Moronta,RP,09/10/19,Shoulder surgery (torn labrum)
+2675,Austin Adams,RP,Oct '19,Knee surgery (torn ACL)
+2676,Jed Lowrie,INF,Feb '20,Knee discomfort
+2677,Aramis Garcia,C,02/06/20,Hip surgery
+2678,Daniel Mengden,SP/RP,02/10/20,Arthroscopic elbow surgery
+2679,Mitch Haniger,OF,1/23/20; 2/13/20,Core surgery; Microdiscectomy
+2682,Jeremy Walker,RP,Mar '20,Shoulder impingement
+2683,Yennsy Díaz,SP/RP,03/09/20,Strained lat
+2684,Trey Mancini,1B/OF,03/12/20,Surgery (colon cancer)
+2685,Rogelio Armenteros,SP/RP,03/13/20,Elbow surgery (bone spur)
+2690,Joely Rodríguez,RP,April '20,Strained lat
+2691,Kevin Kramer,INF/OF,May '20,Hip surgery
+2692,Yoshihisa Hirano,RP,Jun '20,COVID-19
+2693,Chris Archer,SP,06/02/20,Thoracic outlet syndrome surgery
+2694,John Brebbia,RP,06/03/20,Tommy John surgery
+2695,Caleb Smith,SP,Jul '20,Undisclosed
+2696,Freddie Freeman,1B,Jul '20,COVID-19
+2697,Will Smith,RP,Jul '20,COVID-19
+2698,Phil Pfeifer,SP/RP,Jul '20,Elbow bone contusion
+2699,Jacob Webb,RP,Jul '20,Strained shoulder
+2700,Dwight Smith Jr.,OF,Jul '20,COVID-19
+2701,John Means,SP,Jul '20,Shoulder fatigue
+2702,Eduardo Rodriguez,SP,Jul '20,COVID-19
+2703,Darwinzon Hernández,RP,Jul '20,COVID-19
+2704,Josh Taylor,RP,Jul '20,COVID-19
+2705,Nomar Mazara,OF,Jul '20,Illness
+2706,José Ruiz,RP,Jul '20,Undisclosed
+2707,Yoán Moncada,3B,Jul '20,COVID-19
+2708,Delino DeShields,OF,Jul '20,COVID-19
+2709,Charlie Blackmon,OF,Jul '20,COVID-19
+2710,Daniel Norris,SP,Jul '20,COVID-19
+2711,Dario Agrazal,SP,Jul '20,Strained forearm
+2712,Sergio Alcántara,SP/RP,Jul '20,Undisclosed
+2713,Troy Stokes Jr.,OF,Jul '20,Hand surgery
+2714,Daz Cameron,SP/RP,Jul '20,COVID-19
+2715,Isaac Paredes,SP/RP,Jul '20,Undisclosed
+2716,Brad Peacock,RP,Jul '20,Shoulder soreness
+2717,José Urquidy,SP,Jul '20,COVID-19
+2718,Yordan Alvarez,DH,Jul '20,COVID-19
+2719,Cionel Pérez,RP,Jul '20,Undisclosed
+2720,Salvador Perez,C,Jul '20,COVID-19
+2721,Cam Gallagher,C,Jul '20,COVID-19
+2722,Jakob Junis,SP,Jul '20,COVID-19
+2723,Randy Rosario,RP,Jul '20,Arm tightness
+2724,Brad Keller,SP,Jul '20,COVID-19
+2725,Kelvin Gutiérrez,3B/1B,Jul '20,Sprained elbow
+2726,Ryan O'Hearn,1B,Jul '20,COVID-19
+2727,Chance Adams,SP/RP,Jul '20,TBD
+2728,Julio Teheran,SP,Jul '20,COVID-19
+2729,Dillon Peters,SP/RP,Jul '20,Undisclosed
+2730,José Quijada,RP,Jul '20,Undisclosed
+2731,Luis Rengifo,INF,Jul '20,Strained hamstring
+2732,José Suarez,SP/RP,Jul '20,Undisclosed
+2733,Sean Rodríguez,INF/OF,Jul '20,Undisclosed
+2734,Matt Joyce,OF,Jul '20,COVID-19
+2735,Miguel Rojas,SS,Jul '20,COVID-19
+2736,Adam Conley,RP,Jul '20,Undisclosed
+2737,Yimi García,RP,Jul '20,Undisclosed
+2738,Ryne Stanek,RP,Jul '20,Undisclosed
+2739,Chad Wallach,C,Jul '20,Undisclosed
+2740,Jorge Alfaro,C,Jul '20,COVID-19
+2741,Lewis Brinson,OF,Jul '20,Undisclosed
+2742,Sandy Alcantara,SP,Jul '20,Undisclosed
+2743,Jeff Brigham,RP,Jul '20,Undisclosed
+2744,Jordan Holloway,RP,Jul '20,Undisclosed
+2745,Nick Neidert,SP/RP,Jul '20,Undisclosed
+2746,Robert Dugger,SP/RP,Jul '20,Undisclosed
+2747,Alex Vesia,RP,Jul '20,Undisclosed
+2748,Angel Perdomo,RP,Jul '20,COVID-19
+2749,Eric Lauer,SP,Jul '20,COVID-19
+2750,Luis Urías,INF,Jul '20,COVID-19
+2751,Willians Astudillo,UTL,Jul '20,COVID-19
+2752,Miguel Sanó,1B,Jul '20,COVID-19
+2753,Nick Gordon,INF,Jul '20,COVID-19
+2754,Jared Hughes,RP,Jul '20,COVID-19
+2755,Brad Brach,RP,Jul '20,COVID-19
+2756,Jake Marisnick,OF,Jul '20,Strained hamstring
+2757,Robert Gsellman,RP,Jul '20,Triceps tightness
+2758,DJ LeMahieu,INF,Jul '20,COVID-19
+2759,Luis Cessa,RP/SP,Jul '20,COVID-19
+2760,Tommy Hunter,RP,Jul '20,COVID-19
+2761,Héctor Neris,RP,Jul '20,COVID-19
+2762,Ranger Suárez,SP/RP,Jul '20,Undisclosed
+2763,Scott Kingery,INF/OF,Jul '20,COVID-19
+2764,Gregory Polanco,OF,Jul '20,COVID-19
+2765,JT Riddle,INF/OF,Jul '20,Strained abdomen
+2766,Keone Kela,RP,Jul '20,COVID-19
+2767,Jorge Mateo,INF/OF,Jul '20,COVID-19
+2768,Evan Longoria,3B,Jul '20,Strained oblique
+2769,Brandon Belt,1B,Jul '20,Achilles tendinitis
+2770,Jarlín García,RP,Jul '20,Undisclosed
+2771,Yadier Molina,C,Jul '20,COVID-19
+2772,Brad Miller,INF/OF,Jul '20,Ankle bursitis
+2773,Rangel Ravelo,INF/OF,Jul '20,COVID-19
+2774,Carlos Martinez,SP,Jul '20,COVID-19
+2775,Giovanny Gallegos,RP,Jul '20,Undisclosed
+2776,Edmundo Sosa,INF,Jul '20,COVID-19
+2777,Paul DeJong,SS,Jul '20,COVID-19
+2778,Junior Fernández,RP,Jul '20,COVID-19
+2779,Kodi Whitley,RP,Jul '20,COVID-19
+2780,Austin Meadows,OF,Jul '20,COVID-19
+2781,Brendan McKay,SP/RP,Jul '20,Undisclosed
+2782,Randy Arozarena,OF,Jul '20,Undisclosed
+2783,Rafael Montero,RP,Jul '20,Elbow tendinitis
+2784,Brett Martin,RP,Jul '20,COVID-19
+2785,Wilmer Font,RP,Jul '20,Undisclosed
+2786,Brandon Drury,INF/OF,Jul '20,Undisclosed
+2787,Jonathan Davis,OF,Jul '20,Undisclosed
+2788,Hector Perez,SP/RP,Jul '20,Undisclosed
+2789,Elvis Luciano,SP/RP,Jul '20,Undisclosed
+2790,Wander Suero,RP,Jul '20,Undisclosed
+2791,Masahiro Tanaka,SP,07/04/20,Concussion
+2792,Derek Fisher,OF,07/04/20,Strained quad
+2793,Jimmy Nelson,RP/SP,07/07/20,Lower back surgery
+2794,José Castillo,RP,07/08/20,Strained lat
+2795,Chase Anderson,SP,07/09/20,Strained oblique
+2796,Dillon Tate,RP,07/10/20,Forearm contusion
+2797,Cole Hamels,SP,07/11/20,Triceps tendinitis
+2798,Jose Quintana,SP,07/11/20,Thumb surgery (laceration)
+2799,Aroldis Chapman,RP,07/11/20,COVID-19
+2800,Gerson Bautista,RP,07/11/20,Strained mass flexor
+2801,Drew Steckenrider,RP,07/13/20,Triceps tendinitis
+2802,Hunter Harvey,RP,07/14/20,Elbow soreness
+2803,Tom Murphy,C,07/14/20,Fractured foot
+2804,Richie Martin,INF,07/15/20,Wrist surgery
+2805,Walker Lockett,RP/SP,07/16/20,Lower back discomfort
+2806,Luke Maile,C,07/16/20,Fractured finger
+2807,Marcus Stroman,SP,07/17/20,Triceps tightness
+2808,Anthony DeSclafani,SP,07/18/20,Strained teres major
+2809,Jordan Zimmermann,SP,07/18/20,Strained forearm
+2811,Brett Anderson,SP,07/19/20,Blister on finger
+2812,Ray Black,RP,07/19/20,Shoulder tightness
+2813,Tyler Naquin,OF,07/20/20,Fractured toe
+2814,Jake Odorizzi,SP,07/20/20,Strained intercostal
+2816,Hunter Dozier,INF/OF,07/21/20,COVID-19
+2817,Clayton Kershaw,SP,07/21/20,Back stiffness
+2818,Juan Soto,OF,07/21/20,COVID-19
+2819,Daniel Descalso,INF,07/22/20,Sprained ankle
+2820,Justin Anderson,RP,07/22/20,Tommy John surgery
+2821,Tyler Flowers,C,07/24/20,Illness
+2822,Travis d'Arnaud,C,07/24/20,Illness
+2823,Aledmys Díaz,INF/OF,07/24/20,Strained groin
+2824,Clay Holmes,RP,07/24/20,Strained forearm
+2825,Miles Mikolas,SP,07/24/20,Strained forearm
+2826,Brad Wieck,RP,07/25/20,Strained hamstring
+2827,Matt Davidson,1B/3B,07/25/20,COVID-19
+2828,Robert Stephenson,RP,07/25/20,Strained back
+2829,Alex Wood,SP,07/25/20,Shoulder inflammation
+2830,Eric Hosmer,1B,07/25/20,Gastritis
+2831,Brandon Brennan,RP,07/25/20,Strained oblique
+2832,Roenis Elías,RP,07/25/20,Strained flexor
+2833,Reynaldo López,SP,07/26/20,Strained shoulder
+2834,Mike Moustakas,2B,07/26/20,Illness
+2835,Chris Devenski,RP,07/26/20,Elbow soreness
+2836,Joe Biagini,RP,07/26/20,Shoulder soreness
+2837,José Ureña,SP,07/26/20,COVID-19
+2838,Harold Ramírez,OF,07/26/20,COVID-19
+2839,Garrett Cooper,1B/OF,07/26/20,COVID-19
+2840,Eduardo Núñez,INF,07/26/20,Knee contusion
+2841,Corey Kluber,SP,07/26/20,Strained teres major
+2842,José Leclerc,RP,07/26/20,Strained teres major
+2843,Ken Giles,RP,07/26/20,Elbow discomfort
+2844,Wade Miley,SP,07/27/20,Strained groin
+2845,Mike Montgomery,SP,07/27/20,Strained lat
+2846,Andrelton Simmons,SS,07/27/20,Sprained ankle
+2847,Kyle Crick,RP,07/27/20,Strained lat
+2848,Jimmy Lambert,RP,07/28/20,Strained forearm
+2849,Roberto Pérez,C,07/28/20,Shoulder soreness
+2850,Homer Bailey,SP,07/28/20,Biceps tendinitis
+2851,Danny Santana,INF/OF,07/28/20,Strained forearm
+2852,Will Harris,RP,07/28/20,Strained groin
+2853,James Norwood,RP,07/29/20,Shoulder inflammation
+2854,Rich Hill,SP,07/29/20,Shoulder fatigue
+2855,René Rivera,C,07/29/20,Hyperextended elbow
+2857,Ozzie Albies,2B,07/30/20,Wrist contusion
+2858,Cameron Maybin,OF,07/30/20,Strained quad
+2859,Zack Littell,RP,07/30/20,Strained hamstring
+2861,Sam Coonrod,RP,07/30/20,Strained lat
+2862,Tim Anderson,SS,07/31/20,Strained groin
+2863,Wade Davis,RP,07/31/20,Strained shoulder
+2864,Josh Donaldson,3B,07/31/20,Strained calf
+2865,Jordan Weems,RP,07/31/20,Strained lat
+2866,Chris Davis,1B,Aug'20,Patellar tendinitis
+2867,Roberto Osuna,RP,08/01/20,Elbow soreness
+2868,Bubba Starling,OF,Aug '20,Undisclosed
+2869,Michael Feliz,RP,08/01/20,Strained forearm
+2870,Mitch Keller,SP,08/01/20,Side discomfort
+2871,Drew Smyly,SP,08/01/20,Sprained finger
+2872,Austin Gomber,SP/RP,Aug '20,COVID-19 protocol
+2873,Austin Dean,OF/1B,Aug '20,COVID-19
+2874,Lane Thomas,OF,Aug '20,COVID-19
+2875,Ryan Helsley,RP,Aug '20,COVID-19
+2876,Kevan Smith,C,08/01/20,Illness
+2877,Manuel Margot,OF,Aug '20,Undisclosed
+2878,Greg Bird,1B,Aug '20,Strained calf
+2879,Joey Votto,1B,08/02/20,Illness
+2880,Glenn Sparkman,RP,08/02/20,Strained forearm
+2881,Cam Bedrosian,RP,08/02/20,Strained adductor
+2882,Ryan Braun,1B/OF,08/02/20,Finger infection
+2883,Kendall Graveman,SP,08/02/20,Benign bone tumor in spine
+2884,Yonny Chirinos,SP,08/02/20,Triceps inflammation
+2885,Carlos Rodón,SP,08/03/20,Shoulder soreness
+2886,Chi Chi González,SP,08/03/20,Biceps tendinitis
+2887,Robinson Canó,2B,08/03/20,Strained adductor
+2888,Nick Burdi,RP,08/03/20,Elbow discomfort
+2889,Matt Adams,1B,08/04/20,Strained hamstring
+2890,Nick Madrigal,2B,08/04/20,Shoulder separation
+2891,Mike Moustakas,2B,08/04/20,Quad contusion
+2893,Joe Musgrove,SP,08/04/20,Triceps inflammation
+2894,Harold Ramírez,OF,08/05/20,Strained hamstring
+2895,Kyle Higashioka,C,08/05/20,Strained oblique
+2896,Carl Edwards Jr.,RP,08/05/20,Strained forearm
+2897,Austin Hays,OF,08/06/20,Non-displaced rib fracture
+2898,Reggie McClain,RP,08/06/20,Shoulder impingement
+2899,Trent Thornton,SP,08/06/20,Elbow inflammation
+2900,Chris Martin,RP,08/07/20,Esophageal constriction
+2901,Michael Soroka,SP,08/07/20,Achilles' tendon surgery
+2902,Aaron Bummer,RP,08/07/20,Strained biceps
+2903,Pedro Strop,RP,08/07/20,Strained groin
+2904,Nick Heath,OF,08/07/20,Strained hamstring
+2905,Richard Bleier,RP,08/07/20,Strained triceps
+2906,Michael Wacha,SP,08/07/20,Shoulder inflammation
+2907,Jeff Samardzija,SP,08/07/20,Shoulder impingement
+2908,Joe Palumbo,RP,08/07/20,Ulcerative colitis
+2909,Franchy Cordero,OF,08/08/20,Sprained wrist
+2910,Joe Kelly,RP,08/08/20,Shoulder inflammation
+2911,Giancarlo Stanton,OF,08/08/20,Strained hamstring
+2912,Phillip Evans,INF/OF,08/08/20,Concussion/fractured jaw
+2913,Oliver Drake,RP,08/08/20,Biceps tendinitis
+2914,Madison Bumgarner,SP,08/09/20,Strained back
+2915,Buck Farmer,RP,08/09/20,Strained groin
+2916,Charlie Morton,SP,08/09/20,Shoulder inflammation
+2917,Ronald Acuña Jr.,OF,08/10/20,Wrist inflammation
+2918,Jorge López,RP,08/10/20,COVID-19 protocol
+2919,Leury García,INF/OF,08/10/20,Sprained thumb
+2920,C.J. Cron,1B,08/10/20,Sprained knee
+2921,Robinson Chirinos,C,08/10/20,Ankle soreness
+2922,Sean Doolittle,RP,08/10/20,Knee inflammation
+2923,Jeremy Beasley,RP,08/11/20,Strained shoulder
+2924,Jose Iglesias,SS,08/11/20,Strained quad
+2925,John Means,SP,08/11/20,COVID-19 protocol
+2926,Andrew Benintendi,OF,08/11/20,Strained rib cage
+2927,Ian Hamilton,RP,08/11/20,Shoulder soreness
+2928,Michael Brantley,OF,08/11/20,Strained quad
+2929,Foster Griffin,RP,08/11/20,Tommy John surgery
+2930,Cody Stashak,RP,08/11/20,Lower back inflammation
+2931,Aaron Judge,OF,08/11/20,Strained calf
+2932,Adam Haseley,OF,08/11/20,Sprained wrist
+2933,Andrew Kittredge,RP,08/11/20,Sprained elbow
+2934,Edinson Volquez,RP,08/11/20,Strained oblique
+2935,Nick Goody,RP,08/11/20,Back spasms
+2936,Luke Farrell,RP,08/11/20,COVID-19 protocol
+2937,Will Smith,C,08/12/20,Neck inflammation
+2938,Justin Grimm,RP,08/12/20,Blister on right hand
+2939,Brett Martin,RP,08/12/20,Rotator cuff inflammation
+2940,Mike Morin,RP,08/13/20,Elbow discomfort
+2941,David Peterson,SP,08/13/20,Shoulder fatigue
+2942,Nick Senzel,OF,08/14/20,Undisclosed
+2943,Iván Nova,SP,08/14/20,Triceps tendinitis
+2944,Nestor Cortes,RP,08/14/20,Elbow impingement
+2945,José Alvarado,RP,08/14/20,Shoulder inflammation
+2946,Tyler Chatwood,SP,08/15/20,Back tightness
+2947,Jakob Junis,SP,08/15/20,Back spasms
+2948,DJ LeMahieu,2B,08/15/20,Sprained thumb
+2949,Burch Smith,RP,08/15/20,Strained forearm
+2950,Francisco Mejía,C,08/15/20,Thumb contusion
+2951,Bo Bichette,SS,08/15/20,Strained knee
+2952,Steven Souza Jr.,OF,08/16/20,Strained hamstring
+2953,Salvador Perez,C,08/16/20,Eye central serous chorioretinopathy
+2954,Edwin Ríos,INF/OF,08/16/20,Strained hamstring
+2955,Brian Moran,RP,08/16/20,Patellar tendinitis
+2956,Roman Quinn,OF,08/16/20,COVID-19 protocol
+2957,Tommy Pham,OF,08/16/20,Fractured hamate
+2958,Erik Swanson,RP,08/16/20,Strained forearm
+2959,Elvis Andrus,SS,08/16/20,Strained lower back
+2960,Christian Arroyo,INF,08/17/20,COVID-19 protocol
+2961,Kris Bryant,3B/OF,08/17/20,Sprained finger
+2962,Andrew Chafin,RP,08/17/20,Sprained finger
+2963,Adam Engel,OF,08/17/20,COVID-19 protocol
+2964,David Dahl,OF,08/17/20,Lower back soreness
+2965,Nick Markakis,OF,08/18/20,COVID-19 protocol
+2966,Harold Castro,INF/OF,08/18/20,Strained hamstring
+2967,Pat Venditte,RP,08/18/20,Strained oblique
+2968,Yacksel Ríos,RP,08/18/20,Shoulder inflammation
+2969,Drew Pomeranz,RP,08/18/20,Strained shoulder
+2970,Nate Pearson,SP,08/18/20,Strained flexor
+2971,Chris Owings,INF/OF,08/19/20,Strained hamstring
+2972,Alex Bregman,3B,08/19/20,Strained hamstring
+2973,Pedro Báez,RP,08/19/20,Strained groin
+2974,Corey Knebel,RP,08/19/20,Strained hamstring
+2975,Byron Buxton,OF,08/19/20,Shoulder inflammation
+2976,Mitch Garver,C,08/19/20,Strained intercostal
+2977,Zack Britton,RP,08/19/20,Strained hamstring
+2978,Kirby Yates,RP,08/19/20,Elbow surgery (bone chips)
+2979,Matt Wieters,C,08/19/20,Toe contusion
+2980,Chaz Roe,RP,08/19/20,Elbow soreness
+2981,Nick Anderson,RP,08/19/20,Forearm inflammation
+2982,Willie Calhoun,OF,08/19/20,Strained hamstring
+2983,Sam Freeman,RP,08/19/20,Tommy John surgery
+2984,Joe Harvey,RP,08/20/20,Sprained elbow
+2985,Josh James,RP,08/20/20,Hip discomfort
+2986,Max Stassi,C,08/20/20,Strained quad/knee contusion
+2987,Luis Avilán,RP,08/20/20,Shoulder inflammation
+2988,James Paxton,SP,08/20/20,Strained flexor
+2989,Gleyber Torres,SS,08/20/20,Strained hamstring/quad
+2990,Jay Bruce,OF,08/20/20,Strained quad
+2991,Jose Alvarez,RP,08/20/20,Testicular contusion
+2992,Taylor Guilbeau,RP,08/20/20,Strained shoulder
+2993,Dylan Moore,INF/OF,08/20/20,Sprained wrist
+2994,Walker Buehler,SP,08/21/20,Blister on hand
+2995,Stephen Tarpley,RP,08/21/20,Strained oblique
+2996,Jake Odorizzi,SP,08/21/20,Chest contusion
+2997,Zack Littell,RP,08/21/20,Elbow inflammation
+2998,Tomás Nido,C,08/21/20,Undisclosed
+2999,Andrés Giménez,INF,08/21/20,Undisclosed
+3000,Keone Kela,RP,08/21/20,Forearm tightness
+3001,Austin Slater,OF,08/21/20,Strained groin
+3002,Matt Shoemaker,SP,08/21/20,Strained lat
+3003,Starlin Castro,2B,08/21/20,Wrist surgery
+3004,Francisco Cervelli,C,08/22/20,Concussion
+3005,Jesse Chavez,RP,08/22/20,Sprained toe
+3006,Seth Romero,RP,08/22/20,Fractured hand (non-throwing)
+3007,Wade LeBlanc,SP,08/23/20,Elbow stress reaction
+3008,Magneuris Sierra,OF,08/23/20,Strained hamstring
+3009,Colin Moran,3B/1B,08/23/20,Concussion
+3010,Andrew Miller,RP,08/23/20,Shoulder fatigue
+3011,Logan Forsythe,INF,08/25/20,Strained oblique
+3012,Corey Oswalt,RP,08/25/20,Biceps tendinitis
+3013,Mike Zunino,C,08/25/20,Strained oblique
+3015,Rougned Odor,2B,08/25/20,Eye infection
+3016,Yordan Alvarez,DH,08/26/20,Arthroscopic knee surgery
+3017,Aaron Judge,OF,08/26/20,Strained calf
+3018,Stephen Strasburg,SP,08/26/20,Carpal tunnel syndrome surgery
+3019,Wade Miley,SP,08/27/20,Strained shoulder
+3020,Jesse Biddle,RP,08/27/20,Shoulder discomfort
+3021,Austin Davis,RP,08/27/20,Undisclosed
+3022,Taylor Widener,RP,08/28/20,Strained rib cage
+3023,Justin Turner,3B,08/28/20,Strained hamstring
+3024,Ricardo Sánchez,RP,08/28/20,Elbow discomfort
+3025,Brett Phillips,OF,08/28/20,COVID-19 protocol
+3026,Ryan Yarbrough,SP,08/28/20,Strained groin
+3027,Jordan Romano,RP,08/28/20,Finger discomfort
+3028,Shawn Armstrong,RP,08/29/20,SI joint inflammation
+3029,Nathan Eovaldi,SP,08/29/20,Strained calf
+3030,Kyle Hart,SP,08/29/20,Hip impingement
+3031,Darwinzon Hernández,RP,08/29/20,Sprained SC joint
+3032,Gio González,SP/RP,08/29/20,Strained groin
+3033,Brendan Rodgers,INF,08/29/20,Strained shoulder
+3034,Ian Kennedy,RP,08/29/20,Strained calf
+3035,Hoby Milner,RP,08/29/20,Back spasms
+3036,Franklin Barreto,INF,08/29/20,COVID-19 protocol
+3037,Dellin Betances,RP,08/29/20,Lat tightness
+3038,Steven Matz,SP/RP,08/29/20,Shoulder bursitis
+3039,Luis Perdomo,RP,08/29/20,Forearm inflammation
+3040,Adrian Morejon,SP,08/29/20,COVID-19 protocol
+3041,Jose Quintana,SP,08/30/20,Strained lat
+3042,Tyler Chatwood,SP,08/30/20,Strained forearm
+3043,David Fletcher,INF/OF,08/30/20,Sprained ankle
+3044,Daniel Mengden,SP/RP,08/30/20,COVID-19
+3045,Adam Morgan,RP,08/30/20,Shoulder fatigue
+3046,Scott Kingery,INF/OF,08/30/20,Back spasms
+3047,Emilio Pagán,RP,08/30/20,Biceps inflammation
+3048,Joey Rickard,OF,08/30/20,Elbow inflammation
+3049,Colten Brewer,SP/RP,08/31/20,Strained finger
+3050,Yandy Díaz,1B/3B,08/31/20,Strained hamstring
+3051,Manuel Rodríguez,RP,Sep'20,Strained biceps
+3052,Matt Bowman,RP,09/01/20,Tommy John surgery
+3053,Jefry Rodriguez,SP,Sep'20,Strained shoulder
+3054,Jon Gray,SP,09/01/20,Shoulder inflammation
+3055,Scott Oberg,RP,Sep'20,Thoracic outlet syndrome surgery
+3056,Niko Goodrum,SS,09/01/20,Strained oblique
+3057,JaCoby Jones,OF,09/01/20,Fractured hand
+3058,Elieser Hernández,SP,09/01/20,Strained lat
+3059,Manny Piña,C,09/01/20,Knee surgery (torn meniscus)
+3060,Franklyn Kilome,RP,09/01/20,Split fingernail
+3061,Ben Heller,RP,Sep'20,Biceps nerve injury
+3062,Yadiel Rivera,INF/OF,09/01/20,Torn elbow ligament
+3063,Trent Thornton,SP,09/01/20,Elbow surgery (loose bodies)
+3064,Javy Guerra,RP,09/01/20,Strained hamstring
+3065,Jace Fry,RP,09/02/20,Back spasms
+3066,Austin Pruitt,SP/RP,09/02/20,Elbow surgery (hairline fracture)
+3067,Max Kepler,OF,09/02/20,Strained groin
+3068,Wil Myers,OF,09/02/20,Undisclosed
+3069,Dexter Fowler,OF,09/02/20,COVID-19 protocol
+3071,Jose Altuve,2B,09/03/20,Sprained knee
+3072,Gio Urshela,3B,09/03/20,Elbow bone spur
+3073,Alex Cobb,SP,09/04/20,Undisclosed
+3074,Anthony Santander,OF,09/04/20,Strained oblique
+3075,Zack Godley,SP,09/04/20,Strained flexor
+3076,Lance McCullers Jr.,SP,09/04/20,Neck nerve irritation
+3077,Alex Avila,C,09/04/20,Lower back tightness
+3078,Jonathan Loáisiga,RP,09/04/20,Undisclosed medical condition
+3079,Luis Campusano,C,09/04/20,Sprained wrist
+3080,Sam Haggerty,INF/OF,09/04/20,Strained forearm
+3081,Max Fried,SP,09/05/20,Lumbar spasm
+3082,Josh Taylor,RP,09/05/20,Shoulder tendinitis
+3083,Blake Taylor,RP,09/05/20,Elbow soreness
+3084,Jorge Soler,OF,09/05/20,Strained oblique
+3085,Brandon Leibrandt,RP,09/05/20,Elbow ulnar neuritis
+3086,Jay Bruce,OF,09/05/20,Strained quad
+3087,Roman Quinn,OF,09/05/20,Concussion
+3088,Anthony Alford,OF,09/05/20,Fractured elbow
+3089,Kwang Hyun Kim,SP,09/05/20,Kidney ailment
+3090,Cody Reed,RP,09/05/20,Finger discomfort
+3091,Joely Rodríguez,RP,09/05/20,Strained hamstring
+3092,Teoscar Hernández,OF,09/05/20,Strained oblique
+3093,Howie Kendrick,INF,09/05/20,Strained hamstring
+3094,Dallas Keuchel,SP,09/06/20,Back spasms
+3095,Wilmer Font,RP,09/06/20,Shin contusion
+3096,Dakota Bacus,RP,09/06/20,Strained flexor
+3097,Jon Berti,INF/OF,09/07/20,Finger laceration
+3098,Eric Hosmer,1B,09/07/20,Fractured finger
+3099,Shin-Soo Choo,OF,09/07/20,Sprained hand
+3100,Ketel Marte,2B,09/08/20,Wrist inflammation
+3101,Austin Brice,RP,09/08/20,Strained lat
+3102,Walker Buehler,SP,09/08/20,Blister on hand
+3103,Luis Arraez,2B,09/08/20,Knee tendinitis
+3104,Robert Gsellman,RP,09/08/20,Fractured rib
+3105,Rowdy Tellez,1B,09/08/20,Strained knee
+3106,Merrill Kelly,SP,09/09/20,Thoracic outlet syndrome surgery
+3107,Tommy Milone,SP,09/09/20,Elbow inflammation
+3108,Tyler Bashlor,RP,09/09/20,Lower back inflammation
+3109,Trevor Gott,RP,09/09/20,Elbow inflammation
+3110,Danny Santana,INF/OF,09/09/20,Elbow surgery
+3111,Jose Trevino,C,09/09/20,Wrist impingement
+3112,Sonny Gray,SP,09/10/20,Strained back
+3113,Matt Strahm,RP,09/10/20,Knee inflammation
+3114,Giovanny Gallegos,RP,09/10/20,Strained groin
+3115,Johan Oviedo,SP,09/10/20,COVID-19 protocol
+3116,Sean Doolittle,RP,09/10/20,Strained oblique
+3117,Tanner Rainey,RP,09/10/20,Strained flexor
+3118,Chris Davis,1B,09/11/20,Patellar tendinitis
+3119,Andrew Triggs,RP,09/11/20,Radial nerve irritation
+3120,Jonathan Schoop,2B,09/12/20,Sprained wrist
+3121,Brent Rooker,OF/1B,09/12/20,Fractured forearm
+3122,Chad Pinder,INF/OF,09/12/20,Strained hamstring
+3123,Rhys Hoskins,1B,09/12/20,Strained elbow
+3124,Spencer Howard,SP,09/12/20,Shoulder tightness
+3125,Kyle Crick,RP,09/12/20,Strained lat
+3126,Ji Man Choi,1B,09/12/20,Strained hamstring
+3127,Elvis Andrus,SS,09/12/20,Strained back
+3128,Javy Guerra,RP,09/13/20,TBD
+3129,Austin Dean,OF/1B,09/13/20,Strained elbow
+3130,Evan Marshall,RP,09/14/20,Shoulder inflammation
+3131,Isan Díaz,2B,09/14/20,Strained groin
+3132,Chris Devenski,RP,09/15/20,Arthroscopic elbow surgery
+3133,Matt Harvey,RP,09/15/20,Strained lat
+3134,Matt Chapman,3B,09/15/20,Hip surgery
+3135,Jake Arrieta,SP,09/15/20,Strained hamstring
+3136,Kyle Garlick,OF,09/15/20,Strained oblique
+3137,Matt Magill,RP,09/15/20,Arthroscopic shoulder surgery
+3138,Derek Fisher,OF,09/15/20,Knee contusion
+3139,Cole Hamels,SP,09/16/20,Shoulder fatigue
+3141,Jake Odorizzi,SP,09/16/20,Blister on finger
+3142,A.J. Puk,SP,09/16/20,Shoulder surgery
+3143,Cole Tucker,INF/OF,09/16/20,Concussion
+3144,Jacob Waguespack,SP,09/16/20,Strained back
+3145,Adam Eaton,OF,09/16/20,Fractured finger
+3146,Yairo Muñoz,INF/OF,09/17/20,Strained lower back
+3147,Austin Meadows,OF,09/17/20,Strained oblique
+3148,Julian Merryweather,RP,09/17/20,Elbow tendinitis
+3149,Ben Gamel,OF,09/18/20,Strained quad
+3150,Jake Marisnick,OF,09/18/20,Strained hamstring
+3151,Jason Martin,OF,09/18/20,Strained back
+3152,Aaron Barrett,RP,09/18/20,Strained triceps
+3153,Ildemaro Vargas,INF/OF,09/19/20,Strained hamstring
+3154,Nolan Arenado,3B,09/19/20,Shoulder discomfort
+3155,Kevin Newman,INF,09/19/20,Knee contusion
+3156,Dillon Tate,RP,09/20/20,Sprained finger
+3157,Tyler Thornburg,RP,09/20/20,Tommy John surgery
+3158,Mickey Moniak,RP,09/20/20,Strained elbow
+3159,Chadwick Tromp,C,09/20/20,Strained shoulder
+3160,James Bourque,RP,09/20/20,Strained elbow
+3161,Dylan Moore,INF/OF,09/21/20,Concussion
+3162,Carter Kieboom,3B,09/21/20,Wrist contusion
+3163,Bubba Starling,OF,09/22/20,Lower back spasms
+3164,Kyle Zimmer,RP,09/22/20,Elbow ulnar neuritis
+3165,Franklin Barreto,INF,09/22/20,Shoulder surgery
+3166,Jake Fraley,OF,09/22/20,Strained quad
+3167,Shed Long Jr.,INF,09/22/20,Shin surgery (stress fracture)
+3168,Luis Alexander Basabe,OF,09/22/20,Strained hamstring
+3169,Evan Phillips,RP,09/23/20,Elbow inflammation
+3171,Josh A. Smith,RP,09/23/20,Cracked fingernail
+3172,Michael Conforto,OF,09/23/20,Strained hamstring
+3173,Carlos Martinez,SP,09/23/20,Strained oblique
+3174,Domingo Tapia,RP,09/24/20,Biceps contusion
+3175,Jeimer Candelario,1B,09/24/20,Strained lower back
+3176,Greg Holland,RP,09/24/20,Strained oblique
+3177,Jorge Soler,OF,09/24/20,Strained oblique
+3178,Corbin Burnes,SP,09/24/20,Strained oblique
+3179,J.B. Wendelken,RP,09/24/20,Undisclosed
+3180,Sherten Apostel,3B/1B,09/24/20,Lower back tightness
+3181,Josh James,RP,09/25/20,Undisclosed
+3182,Luis Rengifo,INF,09/25/20,Strained hamstring
+3183,Sam Coonrod,RP,09/25/20,Strained shoulder
+3184,Austin Dean,RP,09/25/20,Strained groin
+3185,Willi Castro,SS,09/26/20,Shoulder soreness
+3186,Erasmo Ramírez,RP,09/26/20,Strained groin
+3187,Andrés Giménez,INF,09/26/20,Strained oblique
+3188,Jacob Stallings,C,09/26/20,Concussion
+3189,Luis Torrens,C,09/26/20,Back spasms
+3191,David Dahl,OF,09/29/20,Shoulder surgery
+3192,Bryan Abreu,RP,09/29/20,Undisclosed
+3194,Ken Giles,RP,09/30/20,Tommy John surgery
+3195,Brad Peacock,RP,10/06/20,Arthroscopic shoulder surgery
